@@ -1,0 +1,8 @@
+1. remove href
+
+2. change title
+
+3. add Cookiebot script under 
+  <link rel="manifest" href="manifest.json">
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="3d3853bd-c7f9-4d50-9a5b-58aef5ba193b" data-blockingmode="auto" type="text/javascript"></script>
