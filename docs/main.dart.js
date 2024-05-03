@@ -76584,7 +76584,7 @@ A.cy(B.MV,new A.anu(r),s)
 A.cy(B.MW,new A.anv(r),s)},
 rD(){var s=0,r=A.X(t.H),q
 var $async$rD=A.Y(function(a,b){if(a===1)return A.U(b,r)
-while(true)switch(s){case 0:q=A.dm("https://calendly.com/bert-gollnick/15min",0,null)
+while(true)switch(s){case 0:q=A.dm("https://calendly.com/bert-gollnick/mentoring",0,null)
 s=5
 return A.a6(A.a1p(q),$async$rD)
 case 5:s=b?2:4
