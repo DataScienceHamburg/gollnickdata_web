@@ -8,32 +8,6 @@
    width="956.69287"
    height="275.31494"
    id="svg13723">
-  <defs
-     id="defs13725">
-    <linearGradient
-       id="linearGradient12713">
-      <stop
-         style="stop-color:#1f3c7d;stop-opacity:1"
-         offset="0"
-         id="stop12715" />
-      <stop
-         style="stop-color:#676fa5;stop-opacity:1"
-         offset="0.34862384"
-         id="stop13696" />
-      <stop
-         style="stop-color:#1f3a85;stop-opacity:1"
-         offset="1"
-         id="stop12717" />
-    </linearGradient>
-    <linearGradient
-       x1="127.84375"
-       y1="228.49971"
-       x2="127.84375"
-       y2="341.3125"
-       id="linearGradient13692"
-       xlink:href="#linearGradient12713"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
   <g
      transform="translate(-365.75303,-150.39104)"
      id="layer1">
