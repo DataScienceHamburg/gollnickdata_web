@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7d5770870ac8be2352e4c53e946a38af",
-"assets/AssetManifest.bin.json": "58366cdbd5d3d8fb423bf68403a86830",
-"assets/AssetManifest.json": "7f8cffe3554035f34ca75410993722a2",
+const RESOURCES = {"assets/AssetManifest.bin": "f8dbb5092308522281c837448ff5bb01",
+"assets/AssetManifest.bin.json": "db89718276b14661f18e75d9b5845b0d",
+"assets/AssetManifest.json": "6f1fac4bcdf49f55bd310de54cd4b660",
 "assets/assets/fonts/JosefinSlab-Bold.ttf": "9e85e7de127ce629d3d112f122041886",
 "assets/assets/fonts/JosefinSlab-BoldItalic.ttf": "2f6282e67340eaaaa5330bf14f5813d6",
 "assets/assets/fonts/JosefinSlab-ExtraLight.ttf": "51ed854c6cd881c8566ed8d8cb7213c1",
@@ -31,6 +31,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "7d5770870ac8be2352e4c53e946a38af
 "assets/assets/images/claire_s_no_bg.png": "9e5bee0272f094dd469946299a9c7380",
 "assets/assets/images/coding.jpg": "554e2e8d9c09c9e183fa1eed73b96fec",
 "assets/assets/images/flutter.png": "ffd11c11c1700c9c571c811146c88915",
+"assets/assets/images/GunnarFaustmann.jpeg": "c4c9eb663a01d7919bc74777a1966481",
+"assets/assets/images/JensHenneberg.jpeg": "d1d207b39d8fbeab39de2fc9654c3c78",
 "assets/assets/images/logo.png": "d9149899c8aaa1bbcf9e61cc7fb9aed0",
 "assets/assets/images/mastering_image_segmentation.png": "30f528400bc488422e347ccb965ae7b8",
 "assets/assets/images/master_image_segmentation.png": "784a058570c955c9a9e5cc1b2514fc16",
@@ -44,8 +46,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "7d5770870ac8be2352e4c53e946a38af
 "assets/assets/images/send.png": "7c65b3872305ce20c9f81f05307c0451",
 "assets/assets/images/shiny_python.png": "ab9086e46efb87755c91003016ff402a",
 "assets/FontManifest.json": "e480e8d0c714b5f28f60a27ec25956b3",
-"assets/fonts/MaterialIcons-Regular.otf": "b7e004aa58ea5aa464ea67a24238753d",
-"assets/NOTICES": "d21ccdcdec7e5933d5a090b12a7b640b",
+"assets/fonts/MaterialIcons-Regular.otf": "b0c92326f6938819cfbb5b03cc602e7d",
+"assets/NOTICES": "47470e20f03ea25bd616c8b944718469",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/flutter_rating_stars/assets/star_off.png": "510ce4aac7c14568132bdda920c8a76e",
 "assets/packages/icons_plus/assets/flags/abkhazia.svg": "508e2b45fb2228a4c7301f24852c05b4",
@@ -1048,9 +1050,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7d5770870ac8be2352e4c53e946a38af
 "icons/Icon-512.png": "8b74f20fa10c344a7d083a876d199d3c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "76bc3e027a7bcbf349899856d8597256",
-"/": "76bc3e027a7bcbf349899856d8597256",
-"main.dart.js": "df0cddd42e37e5830a81b575d56f1fef",
+"index.html": "b189ed3d2cebd6f10a537ea88f23b03e",
+"/": "b189ed3d2cebd6f10a537ea88f23b03e",
+"main.dart.js": "944d687c01c89542229b2c4c7e7ce7c4",
 "manifest.json": "b05a3411979535077ffeebd8e7a84b78",
 "version.json": "70e92e53b82782e46b06c6bc9bcec67d"};
 // The application shell files that are downloaded before a service worker can
