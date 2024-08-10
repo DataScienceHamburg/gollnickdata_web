@@ -94406,7 +94406,7 @@ n=A.O("Preis: 2960",j,j,j,A.aO(j,j,B.k,j,j,j,j,j,j,j,j,n,j,j,j,j,j,!0,j,j,j,j,j,
 m=t.p
 q=A.bj(A.aD(A.a([o,A.bl(A.a([n,A.eb(B.m0,B.k,j,g?24:16)],m),B.m,B.n,B.f,j),A.a8C("de"),A.a8B(!1,"de",A.a(["NLP Einf\xfchrung","Generative KI Tools","Vortrainierte Netzwerke","Prompt Engineering","Vektor-Datenbanken","RAG","Agenten"],p),B.ep)],m),B.J,B.n,B.f),j,q)
 o=g?800:1/0
-n=A.bl(A.a([B.RM,A.vp("assets/images/massnahmezulassung.jpg",j,j,200,j,200)],m),B.m,B.n,B.f,j)
+n=A.bl(A.a([B.RM,A.vp("assets/images/Massnahmezulassung.jpg",j,j,200,j,200)],m),B.m,B.n,B.f,j)
 l=g?50:150
 k=A.cV(0)
 return A.k2(i,B.h,A.k7(A.aD(A.a([A.cO(A.bb(j,A.aD(A.a([new A.q(B.ba,s,j),A.dO(A.a([new A.q(B.et,q,j),new A.q(B.fz,A.bj(A.aD(A.a([B.Dq,B.Do,B.a8r,n,B.a8f,B.a8n,B.Ds,A.bb(j,A.dO(B.XP,B.m,g?B.K:B.H,j,B.n,B.f,j,j,B.X),B.o,j,j,new A.bH(j,j,j,k,j,j,B.a1),j,l,j,j,j,j,j,j),A.u5(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),new A.lW(B.CS,j),A.u5(A.a(["160 Unterrichtseinheiten mit hochwertigem Inhalt","Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),B.Dr,B.IP,A.cO(A.bl(A.a([new A.q(B.d9,A.b8c(a),j),new A.q(B.lH,new A.q(B.bm,A.H2(B.m2,B.Dp,A.b6Q(),A.hi(j,j,new A.b4(B.k,t.F),j,j,j,j,j,j,j,j,j,j,j,j,new A.b4(new A.c4(A.cV(30),B.y),t.xx),j,j,j,j,j,j)),j),j)],m),B.m,B.n,B.f,j),j,j)],m),B.J,B.n,B.f),j,o),j)],m),B.J,r,j,B.n,B.f,j,j,B.X)],m),B.m,B.n,B.f),B.o,j,j,B.hM,j,j,j,j,j,j,j,h),j,j),A.a8F(a,A.j1())],m),B.m,B.n,B.f),B.H),j,j,j)},
