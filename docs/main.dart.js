@@ -97952,13 +97952,13 @@ A.aIn.prototype={
 $0(){A.ip(this.a,"/contact",t.X)},
 $S:0}
 A.aIl.prototype={
-$0(){A.ip(this.a,"/anmelden",t.X)},
+$0(){A.ip(this.a,"/contact",t.X)},
 $S:0}
 A.aIJ.prototype={
 $0(){$.ab8().l3("open",["https://buy.stripe.com/cN22cfbMHaFcgAUfZ0"])},
 $S:0}
 A.aIm.prototype={
-$0(){A.ip(this.a,"/anmelden",t.X)},
+$0(){A.ip(this.a,"/kontakt",t.X)},
 $S:0}
 A.aIK.prototype={
 $0(){$.ab8().l3("open",["https://buy.stripe.com/dR6dUXdUPcNk4Sc288"])},
@@ -107854,7 +107854,7 @@ B.T_=new A.mo(1,B.dQ,B.a9F,null)
 B.ak0=new A.ao("I have read the privacy policy and accept it.",null,B.ao,null,null,!0,null,null,null,null)
 B.Tf=new A.l5(1,B.eB,B.ak0,null)
 B.T0=new A.mo(1,B.dQ,B.Tf,null)
-B.aiZ=new A.n(!0,B.j,null,"Lora",null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.aiZ=new A.n(!0,B.j,null,"Lora",null,null,28,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ajY=new A.ao("Gollnick Data Solutions ist als Tr\xe4ger zertifiziert gem\xe4\xdf AZAV.",null,B.aiZ,null,null,null,null,null,null,null)
 B.a9K=new A.p(B.r2,B.ajY,null)
 B.T1=new A.mo(1,B.dQ,B.a9K,null)
