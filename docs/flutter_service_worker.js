@@ -75,7 +75,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0298b233f2b72fa9916673dbfe35fedc
 "assets/assets/images/whatsapp.png": "acbb4b534b629fa99c2ead5895712cb3",
 "assets/assets/images/whatsapp2.png": "f043c31673cbb268aeaa43818a6dbab6",
 "assets/FontManifest.json": "e480e8d0c714b5f28f60a27ec25956b3",
-"assets/fonts/MaterialIcons-Regular.otf": "b1245849097dca96b090a83df1c4891b",
+"assets/fonts/MaterialIcons-Regular.otf": "fcccc3fc08817f1683acb00987d8ba30",
 "assets/NOTICES": "b66d61f443c4982a7875b88dd0db2234",
 "assets/packages/country_flags/res/si/ac.si": "084b17449dd0ba76474f133039ee68d3",
 "assets/packages/country_flags/res/si/ad.si": "c3ccb8e3cf8b3ce384280c687c94ed53",
@@ -1344,9 +1344,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "0298b233f2b72fa9916673dbfe35fedc
 "icons/Icon-512.png": "8b74f20fa10c344a7d083a876d199d3c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c3a282d3bb21891c2f2915f6537e8712",
-"/": "c3a282d3bb21891c2f2915f6537e8712",
-"main.dart.js": "21ae9442f452753be2068703d9f899c5",
+"index.html": "e8c3abf2d539178d97b7d82a78adc218",
+"/": "e8c3abf2d539178d97b7d82a78adc218",
+"main.dart.js": "9833bd7bf8cd3290001cfb78b5263a64",
 "manifest.json": "b05a3411979535077ffeebd8e7a84b78",
 "version.json": "70e92e53b82782e46b06c6bc9bcec67d"};
 // The application shell files that are downloaded before a service worker can
