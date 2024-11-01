@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f6699d27835119b18274fdf5efc1c150",
-"assets/AssetManifest.bin.json": "3742b59b2a850516e1551fb42b8d8a1a",
-"assets/AssetManifest.json": "b15546bd620b1a446af3e2ad55a2656f",
+const RESOURCES = {"assets/AssetManifest.bin": "46e4533cbb9ce46cf44472ff6112ad02",
+"assets/AssetManifest.bin.json": "bd3b0806effc706e58df561b43886c12",
+"assets/AssetManifest.json": "d5d6cac0d9975b173d2c90835c9c19b5",
 "assets/assets/fonts/JosefinSlab-Bold.ttf": "9e85e7de127ce629d3d112f122041886",
 "assets/assets/fonts/JosefinSlab-BoldItalic.ttf": "2f6282e67340eaaaa5330bf14f5813d6",
 "assets/assets/fonts/JosefinSlab-ExtraLight.ttf": "51ed854c6cd881c8566ed8d8cb7213c1",
@@ -31,11 +31,15 @@ const RESOURCES = {"assets/AssetManifest.bin": "f6699d27835119b18274fdf5efc1c150
 "assets/assets/images/AiEng_ProjectFaceMask.png": "478c8991a980176b1913d47cecd57684",
 "assets/assets/images/AiEng_StyleTransfer.png": "754ea84f567ec778d8d8ece001ba3496",
 "assets/assets/images/AiEng_Trainingsprocess.png": "ce3bf1148be9bbb6f6dbffc4c41b3782",
+"assets/assets/images/ai_logo.svg": "7ed061d9a180ddc30a2972a00b0a5e4d",
+"assets/assets/images/ai_logo2.svg": "8eecfe1fef0d9d499d5398ba5a1005c1",
 "assets/assets/images/applied_nlp.png": "c3c1118538262d8f315c97caef1487f5",
 "assets/assets/images/CerturiaAZAV.png": "8a28b10a0c932c801abf0a842c6bb727",
 "assets/assets/images/Chain_with_loop.png": "1e947f4d7d4f9be2474d9b1a78a41380",
 "assets/assets/images/claire_s_no_bg.png": "9e5bee0272f094dd469946299a9c7380",
+"assets/assets/images/code.svg": "35c95bc360a8a5b4b4eb532e1842c194",
 "assets/assets/images/coding.jpg": "554e2e8d9c09c9e183fa1eed73b96fec",
+"assets/assets/images/coding_website.svg": "eede35ae0af7ee8d5b43ce5f691a104c",
 "assets/assets/images/CosineSimilarity.png": "9bd056e04ff6562c34ed788d9df5d9cc",
 "assets/assets/images/flutter.png": "ffd11c11c1700c9c571c811146c88915",
 "assets/assets/images/GollnickData_Logo.png": "174b2ee0ac59ccb1021fe109e3b910ee",
@@ -1348,9 +1352,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f6699d27835119b18274fdf5efc1c150
 "icons/Icon-512.png": "8b74f20fa10c344a7d083a876d199d3c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5cb72b4325a4fbfdee66cb5487650922",
-"/": "5cb72b4325a4fbfdee66cb5487650922",
-"main.dart.js": "c7d5a84914d08a60f5cf98e82b917f41",
+"index.html": "95e0bb7da6650aa8c3d4fb0148cefcd0",
+"/": "95e0bb7da6650aa8c3d4fb0148cefcd0",
+"main.dart.js": "0a359edd1048850679ef3bcc2754f69e",
 "manifest.json": "b05a3411979535077ffeebd8e7a84b78",
 "version.json": "70e92e53b82782e46b06c6bc9bcec67d"};
 // The application shell files that are downloaded before a service worker can
