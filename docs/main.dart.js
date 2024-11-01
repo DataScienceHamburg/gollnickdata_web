@@ -29463,15 +29463,14 @@ this.b=b},
 aPu(a,b,c,d,e,f,g,h,i,j,k,l){var s=null,r=A.c7(0),q=A.a([new A.cW(5,B.bd,A.Y(B.d.b3(127.5),158,158,158),B.cb,7)],t.V),p=t.p
 q=A.aW(s,A.ak(A.a([A.aU(A.a([new A.m(B.r,A.I(h,s,s,s,B.akp,s,s),s)],p),B.j,B.i,B.e,s),A.aU(A.a([new A.m(B.r,A.I(g,s,s,s,B.oK,s,s),s),B.cM,B.iR,B.cM],p),B.j,B.i,B.e,s),new A.m(B.r,A.I(d,s,s,s,B.KC,s,s),s),A.aU(A.a([A.mF(A.ak(A.a([A.aU(A.a([B.nO,new A.m(B.r,A.I(i,s,s,s,B.hW,s,s),s)],p),B.j,B.i,B.e,s),B.o3,A.aU(A.a([B.nP,new A.m(B.iD,A.aM5(f,24,40),s)],p),B.j,B.i,B.e,s)],p),B.A,B.i,B.e),1),new A.m(B.SY,A.Zd(l,B.l,s,120,s,s,120),s)],p),B.A,B.bA,B.e,s)],p),B.A,B.i,B.e),B.o,s,s,new A.bz(B.k,s,s,r,q,s,B.W),s,500,s,s,s,s,s,350)
 r=A.aNs(b,B.iv,A.I(c,s,s,s,B.hZ,s,s))
-return new A.m(B.dX,A.dz(A.bY(s,A.dD(B.au,A.a([q,r],p),B.T,B.ax),B.J,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aKQ(h,a,j),s,s,s,s,s,s),B.ay,s,s,s,s),s)},
+return new A.m(B.dX,A.dz(A.bY(s,A.dD(B.au,A.a([q,r],p),B.T,B.ax),B.J,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aKQ(a,j),s,s,s,s,s,s),B.ay,s,s,s,s),s)},
 aP2(a,b){var s,r=null,q="Bildungsurlaub",p="DE",o="5 Tage",n=A.aX(a,r,t.l).w.a.a>1200,m=n?B.G:B.E,l=t.p,k=A.a([],l)
 if(B.b.p(b,"generativeKI")){s=n?350:1/0
 k.push(new A.m(B.aC,new A.ar(s,345,A.mF(A.aPu(a,B.ae,"Beliebt","Zukunftstechnologie im Urlaub: Generative KI als Bildungsurlaub",p,p,q,"Generative KI mit Python",o,0,!0,"assets/images/ai_logo2.svg"),1),r),r))}if(B.b.p(b,"fullstack")){s=n?350:1/0
 k.push(new A.m(B.aC,new A.ar(s,345,A.mF(A.aPu(a,B.ae,"Neu","Moderne Web- und App-Entwicklung mit HTML, CSS, JavaScript, Python, und Datenbanken",p,p,q,"Fullstack Entwicklung",o,2,!0,"assets/images/code.svg"),1),r),r))}if(B.b.p(b,"aiEngineering")){s=n?350:1/0
 k.push(new A.m(B.aC,new A.ar(s,345,A.mF(A.aPu(a,B.ae,"Expertenwissen",u.x,p,p,q,"AI Engineering",o,1,!0,"assets/images/ai_logo.svg"),1),r),r))}return A.ak(A.a([B.So,B.ab8,A.d2(k,B.j,m,r,B.i,B.e,r,r,B.P),B.bh],l),B.A,B.i,B.e)},
-aKQ:function aKQ(a,b,c){this.a=a
-this.b=b
-this.c=c},
+aKQ:function aKQ(a,b){this.a=a
+this.b=b},
 bec(a,b){var s,r,q=null,p={}
 p.a=!1
 s=t.p
@@ -100229,7 +100228,7 @@ A.aJs.prototype={
 $0(){A.hj(this.a,B.a5k[this.b],t.X)},
 $S:0}
 A.aKQ.prototype={
-$0(){A.hj(this.b,B.a1f[this.c],t.X)},
+$0(){A.hj(this.a,B.a1f[this.b],t.X)},
 $S:0}
 A.aJL.prototype={
 $0(){A.hj(this.a,"/anmelden",t.X)},
