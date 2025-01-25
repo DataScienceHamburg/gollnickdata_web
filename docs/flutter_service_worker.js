@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "3a45eb53366c05c570086f21cb2d7d1b",
-"assets/AssetManifest.bin.json": "4b4c6d2abe143efb62fa4de6de6a1b6f",
-"assets/AssetManifest.json": "ee0e5cb051087c476f9e62243dbbc70c",
+const RESOURCES = {"assets/AssetManifest.bin": "fe305551695f18da6890f913d0ea31d5",
+"assets/AssetManifest.bin.json": "714388f1379fec63e285738991eedc56",
+"assets/AssetManifest.json": "687e897ff01babd7d3d289ab2c09ba7b",
 "assets/assets/fonts/JosefinSlab-Bold.ttf": "9e85e7de127ce629d3d112f122041886",
 "assets/assets/fonts/JosefinSlab-BoldItalic.ttf": "2f6282e67340eaaaa5330bf14f5813d6",
 "assets/assets/fonts/JosefinSlab-ExtraLight.ttf": "51ed854c6cd881c8566ed8d8cb7213c1",
@@ -42,6 +42,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "3a45eb53366c05c570086f21cb2d7d1b
 "assets/assets/images/coding_website.svg": "eede35ae0af7ee8d5b43ce5f691a104c",
 "assets/assets/images/CosineSimilarity.png": "9bd056e04ff6562c34ed788d9df5d9cc",
 "assets/assets/images/flutter.png": "ffd11c11c1700c9c571c811146c88915",
+"assets/assets/images/GenAiForEmployees_GenAI_Tools.png": "2cc171e1393c7fda1cf1183b710e4946",
+"assets/assets/images/GenAiForEmployees_LLM_History.png": "bced20a22e247cb5f26522b45f811086",
+"assets/assets/images/GenAiForEmployees_Products.png": "c29a2757283cc93da43feba990912683",
+"assets/assets/images/GenAiForEmployees_PromptEngineering.png": "635bc2d517bcd559a82ec3b11e5ec063",
 "assets/assets/images/GollnickData_Logo.png": "174b2ee0ac59ccb1021fe109e3b910ee",
 "assets/assets/images/GollnickData_Logo.svg": "6e7d54e8cc7bd068d17cb9df6fa79331",
 "assets/assets/images/GunnarFaustmann.jpeg": "c4c9eb663a01d7919bc74777a1966481",
@@ -63,6 +67,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3a45eb53366c05c570086f21cb2d7d1b
 "assets/assets/images/profile7.jpeg": "a3fbbcbf761c1ef997b55ddd5f95767a",
 "assets/assets/images/profile7_S.jpg": "d84bbb22800d7eb26886745818cf7d25",
 "assets/assets/images/profile7_XS.jpg": "f46919c1dc41f4444429c3be5182f82d",
+"assets/assets/images/profile_babak.jpg": "d94e93e16d568bbff219119f77d2f0cd",
 "assets/assets/images/profile_head.png": "13c561d3947a61138491558a764d5ea3",
 "assets/assets/images/profile_image.png": "a7ae4ec117233af8a2632a25747e1a15",
 "assets/assets/images/profile_image_bw.png": "8840cd06af739e1540d2d50308c7287c",
@@ -86,7 +91,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3a45eb53366c05c570086f21cb2d7d1b
 "assets/assets/images/whatsapp.png": "acbb4b534b629fa99c2ead5895712cb3",
 "assets/assets/images/whatsapp2.png": "f043c31673cbb268aeaa43818a6dbab6",
 "assets/FontManifest.json": "e480e8d0c714b5f28f60a27ec25956b3",
-"assets/fonts/MaterialIcons-Regular.otf": "59e8b4c9e589ac247d47ba4e91c92f9c",
+"assets/fonts/MaterialIcons-Regular.otf": "6c8b1d534ad7cf0c8d8f3d735a00d4cb",
 "assets/NOTICES": "b66d61f443c4982a7875b88dd0db2234",
 "assets/packages/country_flags/res/si/ac.si": "084b17449dd0ba76474f133039ee68d3",
 "assets/packages/country_flags/res/si/ad.si": "c3ccb8e3cf8b3ce384280c687c94ed53",
@@ -1355,9 +1360,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "3a45eb53366c05c570086f21cb2d7d1b
 "icons/Icon-512.png": "8b74f20fa10c344a7d083a876d199d3c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7f5465cd43bf3fdb4d915f35ee311a3a",
-"/": "7f5465cd43bf3fdb4d915f35ee311a3a",
-"main.dart.js": "137cb1882360221851776abfbd5558e2",
+"index.html": "77915136d4506bd07f47aa3cb74b14f6",
+"/": "77915136d4506bd07f47aa3cb74b14f6",
+"main.dart.js": "33b0339f8e7366cc0b7c4896d1d52289",
 "manifest.json": "b05a3411979535077ffeebd8e7a84b78",
 "version.json": "70e92e53b82782e46b06c6bc9bcec67d"};
 // The application shell files that are downloaded before a service worker can
