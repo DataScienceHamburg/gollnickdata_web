@@ -29483,7 +29483,7 @@ j=A.f2(h,h,h,new A.bT(new A.aRQ(),t.mN),h,h,h,h,h,h,h,h,h,h,h,h,new A.aT(B.aJ,t.
 i=A.bK(12)
 j=A.a6(A.a([o,n,B.b5,l,B.b5,k,B.ie,A.cP(B.aj,A.a([A.ld(!1,A.apF(A.aH(B.Y,A.a6(A.a([B.or,new A.m(B.jg,A.A(u.Z,h,h,h,h,A.aI(h,h,A.aP(B.d.al(178.5),B.k.F()>>>16&255,B.k.F()>>>8&255,B.k.F()&255),h,h,h,h,h,h,h,h,16,h,h,B.a1,h,h,!0,h,h,h,h,h,h,h,h),h,h),h)],m),B.h,B.f,B.e),B.q,h,B.iJ,h,h,h,h,h,h,h,h,h),new A.bw(h,h,h,i,h,B.jJ,B.T)),h,h,h,h,h,h,new A.aRR(),h,j),A.fa(h,A.iA(h,h,B.jB,h,h,new A.aRS(),h,h,h),h,h,h,8,8,h)],m),B.K,B.ah)],m),B.v,B.f,B.e)
 o=d?800:1/0
-return A.a6(A.a([new A.m(B.cU,s,h),A.cS(A.a([new A.m(B.hr,new A.ag(q,h,j,h),h),new A.m(B.ht,new A.ag(o,h,A.a6(A.a([B.af2,B.aga,B.FB,B.Fw,B.Fx,B.FC,B.FF,B.FG,B.Fr,B.Fs,B.FA,B.FE,B.Fz,B.b5,B.afM,B.FD,new A.Ky(h),B.kQ,B.ac,A.eZ(a,"17.03.2025 - 21.03.2025",B.aG,d,"noch 6 Pl\xe4tze frei","https://buy.stripe.com/5kAaIL3gbbJg5WgaEL",f),B.ac,A.eZ(a,"12.05.2025 - 16.05.2025",B.aG,d,"noch 7 Pl\xe4tze frei","https://buy.stripe.com/8wM18b03ZbJg4ScdR7",f),B.ac,A.eZ(a,"12.06.2025 - 18.06.2025",B.aG,d,"noch 9 Pl\xe4tze frei","https://buy.stripe.com/3csdUXg2XeVsckE28q","Do, Fr, Mo, Di, Mi, 9:00 - 17:00"),B.ac,A.eZ(a,"14.07.2025 - 18.07.2025",B.aG,d,e,"https://buy.stripe.com/aEU047dUP14C84obJ1",f),B.ac,A.eZ(a,"15.09.2025 - 19.09.2025",B.aG,d,e,"https://buy.stripe.com/5kAcQT9Ez5kS70k7sM",f),B.ac,A.eZ(a,"17.11.2025 - 21.11.2025",B.aG,d,e,"https://buy.stripe.com/3csbMP6sn4gO2K46oJ",f),B.ac,A.eZ(a,"08.12.2025 - 12.12.2025",B.aG,d,e,"https://buy.stripe.com/28o3gj7wr8x45Wg14q",f),B.ac,B.Mh,A.hJ(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),A.bpU(a),new A.il(B.acB,g,h),A.hJ(A.a([u.k,"Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),A.agg(a,g),B.ac,A.ag1(a,A.a(["generativeKI","fullstack"],p))],m),B.v,B.f,B.e),h),h)],m),B.v,r,h,B.f,B.e,0,h,h,B.G)],m),B.h,B.f,B.e)},
+return A.a6(A.a([new A.m(B.cU,s,h),A.cS(A.a([new A.m(B.hr,new A.ag(q,h,j,h),h),new A.m(B.ht,new A.ag(o,h,A.a6(A.a([B.af2,B.aga,B.FB,B.Fw,B.Fx,B.FC,B.FF,B.FG,B.Fr,B.Fs,B.FA,B.FE,B.Fz,B.b5,B.afN,B.FD,new A.Ky(h),B.kQ,B.ac,A.eZ(a,"17.03.2025 - 21.03.2025",B.aG,d,"noch 6 Pl\xe4tze frei","https://buy.stripe.com/5kAaIL3gbbJg5WgaEL",f),B.ac,A.eZ(a,"12.05.2025 - 16.05.2025",B.aG,d,"noch 7 Pl\xe4tze frei","https://buy.stripe.com/8wM18b03ZbJg4ScdR7",f),B.ac,A.eZ(a,"12.06.2025 - 18.06.2025",B.aG,d,"noch 9 Pl\xe4tze frei","https://buy.stripe.com/3csdUXg2XeVsckE28q","Do, Fr, Mo, Di, Mi, 9:00 - 17:00"),B.ac,A.eZ(a,"14.07.2025 - 18.07.2025",B.aG,d,e,"https://buy.stripe.com/aEU047dUP14C84obJ1",f),B.ac,A.eZ(a,"15.09.2025 - 19.09.2025",B.aG,d,e,"https://buy.stripe.com/5kAcQT9Ez5kS70k7sM",f),B.ac,A.eZ(a,"17.11.2025 - 21.11.2025",B.aG,d,e,"https://buy.stripe.com/3csbMP6sn4gO2K46oJ",f),B.ac,A.eZ(a,"08.12.2025 - 12.12.2025",B.aG,d,e,"https://buy.stripe.com/28o3gj7wr8x45Wg14q",f),B.ac,B.Mh,A.hJ(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),A.bpU(a),new A.il(B.acB,g,h),A.hJ(A.a([u.k,"Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),A.agg(a,g),B.ac,A.ag1(a,A.a(["generativeKI","fullstack"],p))],m),B.v,B.f,B.e),h),h)],m),B.v,r,h,B.f,B.e,0,h,h,B.G)],m),B.h,B.f,B.e)},
 aRQ:function aRQ(){},
 aRR:function aRR(){},
 aRS:function aRS(){},
@@ -29571,7 +29571,7 @@ case 4:throw A.c("Could not launch "+q.j(0))
 case 3:return A.M(null,r)}})
 return A.N($async$agd,r)},
 boT(a){var s=null
-return new A.m(B.bo,A.UE(B.jC,B.afA,new A.aT5(a),A.f2(s,s,s,new A.aT(B.j,t.R),s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aT(new A.c3(A.bK(0),B.A),t.vp),s,s,s,s,s,s)),s)},
+return new A.m(B.bo,A.UE(B.jC,B.afB,new A.aT5(a),A.f2(s,s,s,new A.aT(B.j,t.R),s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aT(new A.c3(A.bK(0),B.A),t.vp),s,s,s,s,s,s)),s)},
 aT5:function aT5(a){this.a=a},
 agb(){var s=0,r=A.O(t.H),q
 var $async$agb=A.K(function(a,b){if(a===1)return A.L(b,r)
@@ -29612,7 +29612,7 @@ j=A.f2(h,h,h,new A.bT(new A.aRU(),t.mN),h,h,h,h,h,h,h,h,h,h,h,h,new A.aT(B.aJ,t.
 i=A.bK(12)
 j=A.a6(A.a([o,n,B.b5,l,B.b5,k,B.ie,A.cP(B.aj,A.a([A.ld(!1,A.apF(A.aH(B.Y,A.a6(A.a([B.or,new A.m(B.jg,A.A(u.Z,h,h,h,h,A.aI(h,h,A.aP(B.d.al(178.5),B.k.F()>>>16&255,B.k.F()>>>8&255,B.k.F()&255),h,h,h,h,h,h,h,h,16,h,h,B.a1,h,h,!0,h,h,h,h,h,h,h,h),h,h),h)],m),B.h,B.f,B.e),B.q,h,B.iJ,h,h,h,h,h,h,h,h,h),new A.bw(h,h,h,i,h,B.jJ,B.T)),h,h,h,h,h,h,new A.aRV(),h,j),A.fa(h,A.iA(h,h,B.jB,h,h,new A.aRW(),h,h,h),h,h,h,8,8,h)],m),B.K,B.ah)],m),B.v,B.f,B.e)
 o=d?800:1/0
-return A.a6(A.a([new A.m(B.cU,s,h),A.cS(A.a([new A.m(B.hr,new A.ag(q,h,j,h),h),new A.m(B.ht,new A.ag(o,h,A.a6(A.a([B.Fy,B.Fv,B.FB,B.Fw,B.Fx,B.FC,B.FF,B.FG,B.Fr,B.Fs,B.FA,B.FE,B.Fz,B.afB,B.FD,new A.KB(h),B.kQ,B.ac,A.eZ(a,"24.03.2025 - 28.03.2025",B.aG,d,"noch 6 Pl\xe4tze frei","https://buy.stripe.com/5kA2cfcQLdRo3O8eV4",f),B.ac,A.eZ(a,"19.05.2025 - 23.05.2025",B.aG,d,"noch 7 Pl\xe4tze frei","https://buy.stripe.com/9AQ0476sneVs5Wg7sD",f),B.ac,A.eZ(a,"23.06.2025 - 27.06.2025",B.aG,d,e,"https://buy.stripe.com/28oeZ19Ez6oW2K45kw",f),B.ac,A.eZ(a,"21.07.2025 - 25.07.2025",B.aG,d,"noch 9 Pl\xe4tze frei","https://buy.stripe.com/aEUcQTg2X3cK84o9AN",f),B.ac,A.eZ(a,"22.09.2025 - 26.09.2025",B.aG,d,e,"https://buy.stripe.com/eVabMPbMHdRoesMdR4",f),B.ac,A.eZ(a,"24.11.2025 - 28.11.2025",B.aG,d,e,"https://buy.stripe.com/14k9EH9EzdRo4Sc8wL",f),B.ac,A.eZ(a,"15.12.2025 - 19.12.2025",B.aG,d,e,"https://buy.stripe.com/dR62cf6sn9B81G03cs",f),B.ac,B.Mh,A.hJ(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),A.b6v(a),new A.il(B.F3,g,h),A.hJ(A.a([u.k,"Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),A.agg(a,g),B.ac,A.ag1(a,A.a(["aiEngineering","fullstack","kistrategie"],p)),B.ac],m),B.v,B.f,B.e),h),h)],m),B.v,r,h,B.f,B.e,0,h,h,B.G)],m),B.h,B.f,B.e)},
+return A.a6(A.a([new A.m(B.cU,s,h),A.cS(A.a([new A.m(B.hr,new A.ag(q,h,j,h),h),new A.m(B.ht,new A.ag(o,h,A.a6(A.a([B.Fy,B.Fv,B.FB,B.Fw,B.Fx,B.FC,B.FF,B.FG,B.Fr,B.Fs,B.FA,B.FE,B.Fz,B.afC,B.FD,new A.KB(h),B.kQ,B.ac,A.eZ(a,"24.03.2025 - 28.03.2025",B.aG,d,"noch 6 Pl\xe4tze frei","https://buy.stripe.com/5kA2cfcQLdRo3O8eV4",f),B.ac,A.eZ(a,"19.05.2025 - 23.05.2025",B.aG,d,"noch 7 Pl\xe4tze frei","https://buy.stripe.com/9AQ0476sneVs5Wg7sD",f),B.ac,A.eZ(a,"23.06.2025 - 27.06.2025",B.aG,d,e,"https://buy.stripe.com/28oeZ19Ez6oW2K45kw",f),B.ac,A.eZ(a,"21.07.2025 - 25.07.2025",B.aG,d,"noch 9 Pl\xe4tze frei","https://buy.stripe.com/aEUcQTg2X3cK84o9AN",f),B.ac,A.eZ(a,"22.09.2025 - 26.09.2025",B.aG,d,e,"https://buy.stripe.com/eVabMPbMHdRoesMdR4",f),B.ac,A.eZ(a,"24.11.2025 - 28.11.2025",B.aG,d,e,"https://buy.stripe.com/14k9EH9EzdRo4Sc8wL",f),B.ac,A.eZ(a,"15.12.2025 - 19.12.2025",B.aG,d,e,"https://buy.stripe.com/dR62cf6sn9B81G03cs",f),B.ac,B.Mh,A.hJ(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),A.b6v(a),new A.il(B.F3,g,h),A.hJ(A.a([u.k,"Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),A.agg(a,g),B.ac,A.ag1(a,A.a(["aiEngineering","fullstack","kistrategie"],p)),B.ac],m),B.v,B.f,B.e),h),h)],m),B.v,r,h,B.f,B.e,0,h,h,B.G)],m),B.h,B.f,B.e)},
 aRT:function aRT(){},
 aRU:function aRU(){},
 aRV:function aRV(){},
@@ -29645,7 +29645,7 @@ j=A.f2(h,h,h,new A.bT(new A.aRX(),t.mN),h,h,h,h,h,h,h,h,h,h,h,h,new A.aT(B.aJ,t.
 i=A.bK(12)
 j=A.a6(A.a([o,n,B.b5,l,B.b5,k,B.ie,A.cP(B.aj,A.a([A.ld(!1,A.apF(A.aH(B.Y,A.a6(A.a([B.or,new A.m(B.jg,A.A(u.Z,h,h,h,h,A.aI(h,h,A.aP(B.d.al(178.5),B.k.F()>>>16&255,B.k.F()>>>8&255,B.k.F()&255),h,h,h,h,h,h,h,h,16,h,h,B.a1,h,h,!0,h,h,h,h,h,h,h,h),h,h),h)],m),B.h,B.f,B.e),B.q,h,B.iJ,h,h,h,h,h,h,h,h,h),new A.bw(h,h,h,i,h,B.jJ,B.T)),h,h,h,h,h,h,new A.aRY(),h,j),A.fa(h,A.iA(h,h,B.jB,h,h,new A.aRZ(),h,h,h),h,h,h,8,8,h)],m),B.K,B.ah)],m),B.v,B.f,B.e)
 o=c?800:1/0
-return A.a6(A.a([new A.m(B.cU,s,h),A.cS(A.a([new A.m(B.hr,new A.ag(q,h,j,h),h),new A.m(B.ht,new A.ag(o,h,A.a6(A.a([B.afq,B.afg,B.afr,new A.KC(h),B.afE,B.afY,B.afH,B.afR,B.afS,B.kQ,A.eZ(a,"21.04.2025 - 25.04.2025",B.aG,c,e,"https://buy.stripe.com/4gwaIL5oj9B870k28F",f),B.ac,A.eZ(a,"05.05.2025 - 09.05.2025",B.aG,c,e,"https://buy.stripe.com/3csdUX2c728GesMcNi",f),B.ac,A.eZ(a,"07.07.2025 - 11.07.2025",B.aG,c,e,"https://buy.stripe.com/8wM2cf3gbaFcfwQ4gO",f),B.ac,A.eZ(a,"11.08.2025 - 15.08.2025",B.aG,c,e,"https://buy.stripe.com/cN2bMP03Z8x470k6oX",f),B.ac,A.eZ(a,"08.09.2025 - 12.09.2025",B.aG,c,e,"https://buy.stripe.com/cN25oreYT4gO3O89Ba",f),B.ac,A.eZ(a,"13.10.2025 - 17.10.2025",B.aG,c,e,d,f),B.ac,A.eZ(a,"03.11.2025 - 07.11.2025",B.aG,c,e,d,f),B.ac,A.eZ(a,"01.12.2025 - 05.12.2025",B.aG,c,e,"https://buy.stripe.com/00gdUX3gb28GckE8x1",f),B.ac,B.atm,A.hJ(A.a(["Stabile Internetverbindung (mind. 10 Mbit/s)","Aktuelle Version von Microsoft Teams","Webcam und Mikrofon","Optional: Zweiter Bildschirm","F\xfchrungserfahrung (optional)","Grundlegendes Verst\xe4ndnis von KI (optional)","Strategische Verantwortung im Unternehmen (optional)"],p),"Voraussetzungen"),new A.il(B.aag,g,h),A.hJ(A.a([u.k,"S\xe4mtliche Pr\xe4sentationen","Teilnahmezertifikat"],p),"Das ist inklusive"),A.agg(a,g),B.ac,A.ag1(a,A.a(["generativeKI","aiEngineering"],p)),B.ac],m),B.v,B.f,B.e),h),h)],m),B.v,r,h,B.f,B.e,0,h,h,B.G)],m),B.h,B.f,B.e)},
+return A.a6(A.a([new A.m(B.cU,s,h),A.cS(A.a([new A.m(B.hr,new A.ag(q,h,j,h),h),new A.m(B.ht,new A.ag(o,h,A.a6(A.a([B.afq,B.afg,B.afs,new A.KC(h),B.afF,B.afY,B.afI,B.afr,B.afS,B.kQ,A.eZ(a,"21.04.2025 - 25.04.2025",B.aG,c,e,"https://buy.stripe.com/4gwaIL5oj9B870k28F",f),B.ac,A.eZ(a,"05.05.2025 - 09.05.2025",B.aG,c,e,"https://buy.stripe.com/3csdUX2c728GesMcNi",f),B.ac,A.eZ(a,"07.07.2025 - 11.07.2025",B.aG,c,e,"https://buy.stripe.com/8wM2cf3gbaFcfwQ4gO",f),B.ac,A.eZ(a,"11.08.2025 - 15.08.2025",B.aG,c,e,"https://buy.stripe.com/cN2bMP03Z8x470k6oX",f),B.ac,A.eZ(a,"08.09.2025 - 12.09.2025",B.aG,c,e,"https://buy.stripe.com/cN25oreYT4gO3O89Ba",f),B.ac,A.eZ(a,"13.10.2025 - 17.10.2025",B.aG,c,e,d,f),B.ac,A.eZ(a,"03.11.2025 - 07.11.2025",B.aG,c,e,d,f),B.ac,A.eZ(a,"01.12.2025 - 05.12.2025",B.aG,c,e,"https://buy.stripe.com/00gdUX3gb28GckE8x1",f),B.ac,B.atl,A.hJ(A.a(["Stabile Internetverbindung (mind. 10 Mbit/s)","Aktuelle Version von Microsoft Teams","Webcam und Mikrofon","Optional: Zweiter Bildschirm","F\xfchrungserfahrung (optional)","Grundlegendes Verst\xe4ndnis von KI (optional)","Strategische Verantwortung im Unternehmen (optional)"],p),"Voraussetzungen"),new A.il(B.aag,g,h),A.hJ(A.a([u.k,"S\xe4mtliche Pr\xe4sentationen","Teilnahmezertifikat"],p),"Das ist inklusive"),A.agg(a,g),B.ac,A.ag1(a,A.a(["generativeKI","aiEngineering"],p)),B.ac],m),B.v,B.f,B.e),h),h)],m),B.v,r,h,B.f,B.e,0,h,h,B.G)],m),B.h,B.f,B.e)},
 aRX:function aRX(){},
 aRY:function aRY(){},
 aRZ:function aRZ(){},
@@ -29681,9 +29681,9 @@ _.d=d},
 aS0:function aS0(a,b){this.a=a
 this.b=b},
 bpR(a){var s=null,r=A.bK(0),q=A.a([new A.cO(5,B.b8,A.aP(B.d.al(127.5),B.R.F()>>>16&255,B.R.F()>>>8&255,B.R.F()&255),B.bJ,7)],t.E),p=t.p
-return new A.m(B.dm,A.dK(A.c0(s,A.cP(B.aj,A.a([A.aH(s,A.a6(A.a([B.aiY,B.oE,B.afK,A.aS(A.a([A.it(A.a6(A.a([B.oD,B.i2,A.aS(A.a([B.hX,new A.m(B.f7,A.tE("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.v,B.f,B.e),1),new A.m(B.n9,A.kC("assets/images/ai_logo2.svg",B.j,s,120,s,s,120),s)],p),B.v,B.aT,B.e,s)],p),B.v,B.f,B.e),B.q,s,s,new A.bw(B.k,s,s,r,q,s,B.T),s,500,s,s,s,s,s,350),B.ah4],p),B.K,B.ah),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTD(a),s,s,s,s,s,s),B.aE,s,s,s,s),s)},
+return new A.m(B.dm,A.dK(A.c0(s,A.cP(B.aj,A.a([A.aH(s,A.a6(A.a([B.aiY,B.oE,B.afL,A.aS(A.a([A.it(A.a6(A.a([B.oD,B.i2,A.aS(A.a([B.hX,new A.m(B.f7,A.tE("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.v,B.f,B.e),1),new A.m(B.n9,A.kC("assets/images/ai_logo2.svg",B.j,s,120,s,s,120),s)],p),B.v,B.aT,B.e,s)],p),B.v,B.f,B.e),B.q,s,s,new A.bw(B.k,s,s,r,q,s,B.T),s,500,s,s,s,s,s,350),B.ah4],p),B.K,B.ah),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTD(a),s,s,s,s,s,s),B.aE,s,s,s,s),s)},
 bpQ(a){var s=null,r=A.bK(0),q=A.a([new A.cO(5,B.b8,A.aP(B.d.al(127.5),B.R.F()>>>16&255,B.R.F()>>>8&255,B.R.F()&255),B.bJ,7)],t.E),p=t.p
-return new A.m(B.dm,A.dK(A.c0(s,A.cP(B.aj,A.a([A.aH(s,A.a6(A.a([B.aiS,B.oE,B.afL,A.aS(A.a([A.it(A.a6(A.a([B.oD,B.i2,A.aS(A.a([B.hX,new A.m(B.f7,A.tE("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.v,B.f,B.e),1),new A.m(B.n9,A.kC("assets/images/ai_logo.svg",B.j,s,120,s,s,120),s)],p),B.v,B.aT,B.e,s)],p),B.v,B.f,B.e),B.q,s,s,new A.bw(B.k,s,s,r,q,s,B.T),s,500,s,s,s,s,s,350),B.ah3],p),B.K,B.ah),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTC(a),s,s,s,s,s,s),B.aE,s,s,s,s),s)},
+return new A.m(B.dm,A.dK(A.c0(s,A.cP(B.aj,A.a([A.aH(s,A.a6(A.a([B.aiS,B.oE,B.afM,A.aS(A.a([A.it(A.a6(A.a([B.oD,B.i2,A.aS(A.a([B.hX,new A.m(B.f7,A.tE("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.v,B.f,B.e),1),new A.m(B.n9,A.kC("assets/images/ai_logo.svg",B.j,s,120,s,s,120),s)],p),B.v,B.aT,B.e,s)],p),B.v,B.f,B.e),B.q,s,s,new A.bw(B.k,s,s,r,q,s,B.T),s,500,s,s,s,s,s,350),B.ah3],p),B.K,B.ah),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTC(a),s,s,s,s,s,s),B.aE,s,s,s,s),s)},
 bpS(a){var s=null,r=A.bK(0),q=A.a([new A.cO(5,B.b8,A.aP(B.d.al(127.5),B.R.F()>>>16&255,B.R.F()>>>8&255,B.R.F()&255),B.bJ,7)],t.E),p=t.p
 return new A.m(B.dm,A.dK(A.c0(s,A.cP(B.aj,A.a([A.aH(s,A.a6(A.a([B.aiO,B.oE,B.ag4,A.aS(A.a([A.it(A.a6(A.a([B.oD,B.i2,A.aS(A.a([B.hX,new A.m(B.f7,A.tE("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.v,B.f,B.e),1),new A.m(B.n9,A.kC("assets/images/code.svg",B.j,s,100,s,s,100),s)],p),B.v,B.aT,B.e,s)],p),B.v,B.f,B.e),B.q,s,s,new A.bw(B.k,s,s,r,q,s,B.T),s,500,s,s,s,s,s,350),B.ah5],p),B.K,B.ah),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTE(a),s,s,s,s,s,s),B.aE,s,s,s,s),s)},
 ag1(a,b){var s,r=null,q=A.aQ(a,r,t.l).w.a.a>1200,p=q?B.C:B.z,o=t.p,n=A.a([],o)
@@ -29819,7 +29819,7 @@ aTK:function aTK(a){this.a=a},
 b6v(a){var s=null,r=new A.xp(new A.bZ(new A.aO($.az,t.wC),t.Fe)),q=t.J,p=t.p
 return A.cP(B.aj,A.a([A.aig(r,A.a([new A.ag(s,400,A.a6(A.a([A.e4("assets/images/Tokenizer.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gRt(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/Chain_with_loop.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gMh(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/RouterChain.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gR3(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/VectorDB_DataIngestionPipeline.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gRN(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/CosineSimilarity.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gMO(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/RAG_general.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gQH(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/RAG_basedOnVectorDB.png",s,s,300,s,s),B.aA,A.A(A.R(a,B.i,q).gQI(),s,s,s,s,B.bp,B.bk,s)],p),B.h,B.f,B.e),s)],p),A.aif(1.7777777777777777,!0,!0,!0,0,400,0,!1,1)),A.fa(50,A.iA(s,s,B.nw,s,s,new A.aTH(r),s,s,s),s,s,24,s,s,s),A.fa(50,A.iA(s,s,B.nx,s,s,new A.aTI(r),s,s,s),s,s,s,24,s,s)],p),B.K,B.ah)},
 bpU(a){var s=null,r=new A.xp(new A.bZ(new A.aO($.az,t.wC),t.Fe)),q=t.p
-return A.cP(B.aj,A.a([A.aig(r,A.a([new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_Trainingsprocess.png",s,s,300,s,s),B.aA,B.att],q),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_ProjectFaceMask.png",s,s,300,s,s),B.aA,A.A("Objekterkennung: Projekt zur Erkennung von Masken",s,s,s,s,B.bp,B.bk,s)],q),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_StyleTransfer.png",s,s,300,s,s),B.aA,B.atK],q),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_AudioClassification.png",s,s,300,s,s),B.aA,B.ash],q),B.h,B.f,B.e),s)],q),A.aif(1.7777777777777777,!0,!0,!0,0,400,0,!1,1)),A.fa(50,A.iA(s,s,B.nw,s,s,new A.aTF(r),s,s,s),s,s,24,s,s,s),A.fa(50,A.iA(s,s,B.nx,s,s,new A.aTG(r),s,s,s),s,s,s,24,s,s)],q),B.K,B.ah)},
+return A.cP(B.aj,A.a([A.aig(r,A.a([new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_Trainingsprocess.png",s,s,300,s,s),B.aA,B.ats],q),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_ProjectFaceMask.png",s,s,300,s,s),B.aA,A.A("Objekterkennung: Projekt zur Erkennung von Masken",s,s,s,s,B.bp,B.bk,s)],q),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_StyleTransfer.png",s,s,300,s,s),B.aA,B.atK],q),B.h,B.f,B.e),s),new A.ag(s,400,A.a6(A.a([A.e4("assets/images/AiEng_AudioClassification.png",s,s,300,s,s),B.aA,B.ash],q),B.h,B.f,B.e),s)],q),A.aif(1.7777777777777777,!0,!0,!0,0,400,0,!1,1)),A.fa(50,A.iA(s,s,B.nw,s,s,new A.aTF(r),s,s,s),s,s,24,s,s,s),A.fa(50,A.iA(s,s,B.nx,s,s,new A.aTG(r),s,s,s),s,s,s,24,s,s)],q),B.K,B.ah)},
 aTH:function aTH(a){this.a=a},
 aTI:function aTI(a){this.a=a},
 aTF:function aTF(a){this.a=a},
@@ -33074,14 +33074,14 @@ hJ(a,b){var s,r,q=null,p=t.p,o=A.a([A.A(b,q,q,q,q,B.c1,q,q),B.b5],p)
 for(s=a.length,r=0;r<a.length;a.length===s||(0,A.H)(a),++r)B.b.G(o,A.a([A.A("\u25aa "+a[r],q,q,q,q,B.a7,q,q)],p))
 return new A.m(B.V6,A.a6(o,B.v,B.f,B.e),q)},
 pf(a,b,c,d,e,f,g){var s=null,r=b?"e":"",q=A.a([],t.p)
-if(a==="en")q.push(B.atv)
+if(a==="en")q.push(B.atu)
 if(a==="de")q.push(A.A("Dein"+r+" Trainer",s,s,s,s,B.im,s,s))
 if(a==="es")q.push(B.aux)
 if(f)q.push(B.af1)
 if(e)q.push(B.afk)
 if(g)q.push(B.af5)
 if(d)q.push(B.ag9)
-if(c)q.push(B.afz)
+if(c)q.push(B.afA)
 return new A.m(B.ci,A.a6(q,B.v,B.f,B.e),s)},
 m0(a){var s=0,r=A.O(t.H),q
 var $async$m0=A.K(function(b,c){if(b===1)return A.L(c,r)
@@ -103547,11 +103547,11 @@ m.toString
 m=A.A(A.R(m,B.i,p).gDa(),h,h,h,h,B.a6,h,h)
 l=i.c
 l.toString
-o=A.oI(B.cN,B.cu,A.a6(A.a([new A.m(B.hs,m,h),A.A(A.R(l,B.i,p).gD9(),h,h,h,h,B.a6,h,h)],a5),B.h,B.f,B.e),o,!1,!1,B.atr)
+o=A.oI(B.cN,B.cu,A.a6(A.a([new A.m(B.hs,m,h),A.A(A.R(l,B.i,p).gD9(),h,h,h,h,B.a6,h,h)],a5),B.h,B.f,B.e),o,!1,!1,B.atq)
 l=A.o0(B.Q,new A.ka(B.ej,B.j,40))
 m=i.c
 m.toString
-l=A.oI(B.cN,B.cu,new A.m(B.bT,A.A(A.R(m,B.i,p).gDr(),h,h,h,h,B.a6,h,h),h),l,!1,!1,B.ati)
+l=A.oI(B.cN,B.cu,new A.m(B.bT,A.A(A.R(m,B.i,p).gDr(),h,h,h,h,B.a6,h,h),h),l,!1,!1,B.ath)
 m=A.o0(B.k,new A.ka(B.jA,B.j,40))
 k=i.c
 k.toString
@@ -103559,7 +103559,7 @@ m=A.oI(B.cN,B.cu,new A.m(B.cj,A.A(A.R(k,B.i,p).gDR(),h,h,h,h,B.a6,h,h),h),m,!1,!
 k=A.o0(B.k,new A.ka(B.jA,B.j,40))
 j=i.c
 j.toString
-r=new A.m(new A.ab(16,0,0,0),A.a6(A.a([B.c0,B.atx,B.aA,B.at2,B.aA,B.atn,B.c0,B.au1,B.aA,B.at9,B.c0,B.at8,B.aA,B.auB,B.id,new A.ag(a1,h,new A.m(B.r,s,h),h),B.c0,n,A.aS(A.a([new A.m(B.jf,new A.ag(1100,150,A.cS(A.a([q,B.c0,o,l,m,A.oI(B.cN,B.cu,new A.m(B.bT,A.A(A.R(j,B.i,p).gDy(),h,h,h,h,B.a6,h,h),h),k,!1,!0,B.atD)],a5),B.h,r,h,B.f,B.e,0,h,h,B.G),h),h)],a5),B.h,B.a2,B.e,h)],a5),B.v,B.f,B.e),h)
+r=new A.m(new A.ab(16,0,0,0),A.a6(A.a([B.c0,B.atw,B.aA,B.at2,B.aA,B.atm,B.c0,B.au1,B.aA,B.at9,B.c0,B.at8,B.aA,B.auB,B.id,new A.ag(a1,h,new A.m(B.r,s,h),h),B.c0,n,A.aS(A.a([new A.m(B.jf,new A.ag(1100,150,A.cS(A.a([q,B.c0,o,l,m,A.oI(B.cN,B.cu,new A.m(B.bT,A.A(A.R(j,B.i,p).gDy(),h,h,h,h,B.a6,h,h),h),k,!1,!0,B.atC)],a5),B.h,r,h,B.f,B.e,0,h,h,B.G),h),h)],a5),B.h,B.a2,B.e,h)],a5),B.v,B.f,B.e),h)
 a1=r}else if(s==="Jesko Rehberg")a1=B.afW
 else a1=s==="Jens Henneberg"?B.aff:A.aH(h,h,B.q,h,h,h,h,h,h,h,h,h,h,h)
 return A.fV(a3,B.k,A.fy(A.cd(A.aH(h,A.a6(A.a([B.c0,B.au5,B.Ll,a6,B.Ll,a1],a5),B.v,B.f,B.e),B.q,h,h,h,h,h,h,h,B.dK,h,h,a4),h,h),h,B.x,h,h,B.z),h,h,h)}}
@@ -103584,7 +103584,7 @@ A.tl.prototype={
 aa(){return new A.a5h()}}
 A.a5h.prototype={
 J(a){var s=null
-return A.fV(A.kV(!0,s,A.jV(a,"Gollnick Data"),s,s,s,s,s),s,A.a6(A.a([B.aA,B.asx,new A.CH(B.pQ,"https://www.linkedin.com/pulse/generative-ai-workflow-case-study-video-creation-bert-gollnick-d3yge/?trackingId=FdqXOl5IBGYpG2oBGWIf%2Bg%3D%3D",B.iY,A.aH(s,B.asF,B.q,B.iY,s,s,s,s,s,s,s,s,s,s),"https://i.ytimg.com/vi/z8wrRRR7_qU/maxresdefault.jpg",B.UE,s)],t.p),B.h,B.f,B.e),s,s,s)}}
+return A.fV(A.kV(!0,s,A.jV(a,"Gollnick Data"),s,s,s,s,s),s,A.a6(A.a([B.aA,B.asw,new A.CH(B.pQ,"https://www.linkedin.com/pulse/generative-ai-workflow-case-study-video-creation-bert-gollnick-d3yge/?trackingId=FdqXOl5IBGYpG2oBGWIf%2Bg%3D%3D",B.iY,A.aH(s,B.asF,B.q,B.iY,s,s,s,s,s,s,s,s,s,s),"https://i.ytimg.com/vi/z8wrRRR7_qU/maxresdefault.jpg",B.UE,s)],t.p),B.h,B.f,B.e),s,s,s)}}
 A.xq.prototype={
 J(b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null,a7="certification",a8="Lora",a9=A.aQ(b1,a6,t.l).w.a.a<800,b0=B.b.a4o($.bn_,new A.aiy(this))
 A.ie(b0)
@@ -103676,7 +103676,7 @@ a=r.z
 s=a?new A.aT(B.aw,b):new A.aT(B.P,b)
 a=A.aS(A.a([A.D8(s,new A.aGR(r),new A.c3(A.bK(50),B.A),q,a),A.A("Generative AI with Python (AZAV, Bildungsgutschein)",q,q,q,q,o,q,q)],k),B.h,B.f,B.e,q)
 s=A.aS(A.a([A.D8(q,new A.aGS(r),q,q,r.d),B.VQ],k),B.h,B.f,B.e,q)
-return A.fV(n,q,A.fy(A.cd(A.aH(q,A.b_S(A.a6(A.a([B.aus,new A.m(B.r,m,q),new A.m(B.r,l,q),j,i,h,new A.m(B.r,g,q),new A.m(B.r,f,q),new A.m(B.r,e,q),new A.m(B.r,d,q),c,new A.m(B.b1,a,q),s,A.aS(A.a([new A.m(B.r,A.ld(!1,B.asy,q,q,q,q,q,q,new A.aGT(r,a0),q,A.f2(q,q,q,r.d?new A.aT(B.aG,b):new A.aT(B.kK,b),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q)],k),B.h,B.a2,B.e,q)],k),B.v,B.f,B.e),r.x),B.q,q,B.mo,q,q,q,q,q,B.dK,q,q,1/0),q,q),q,B.x,q,q,B.z),q,q,q)}}
+return A.fV(n,q,A.fy(A.cd(A.aH(q,A.b_S(A.a6(A.a([B.aus,new A.m(B.r,m,q),new A.m(B.r,l,q),j,i,h,new A.m(B.r,g,q),new A.m(B.r,f,q),new A.m(B.r,e,q),new A.m(B.r,d,q),c,new A.m(B.b1,a,q),s,A.aS(A.a([new A.m(B.r,A.ld(!1,B.asx,q,q,q,q,q,q,new A.aGT(r,a0),q,A.f2(q,q,q,r.d?new A.aT(B.aG,b):new A.aT(B.kK,b),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q)],k),B.h,B.a2,B.e,q)],k),B.v,B.f,B.e),r.x),B.q,q,B.mo,q,q,q,q,q,B.dK,q,q,1/0),q,q),q,B.x,q,q,B.z),q,q,q)}}
 A.aGL.prototype={
 $0(){return A.m0("mailto:info@gollnickdata.de")},
 $S:0}
@@ -103895,7 +103895,7 @@ o=f?800:1/0
 l=A.aS(A.a([B.VP,A.e4("assets/images/Massnahmezulassung.jpg",i,i,200,i,200)],m),B.h,B.f,B.e,i)
 k=f?50:150
 j=A.bK(0)
-return A.fV(h,B.k,A.fy(A.a6(A.a([A.cd(A.aH(i,A.a6(A.a([new A.m(B.ae,s,i),A.cS(A.a([new A.m(B.f6,new A.ag(q,i,n,i),i),new A.m(B.hu,new A.ag(o,i,A.a6(A.a([B.Fy,B.Fv,B.ag6,l,B.afJ,B.afe,B.kQ,A.aH(i,A.cS(B.YO,B.h,f?B.C:B.z,i,B.f,B.e,0,i,i,B.G),B.q,i,i,new A.bw(i,i,i,j,i,i,B.T),i,k,i,i,i,i,i,i),A.hJ(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),new A.il(B.F3,"de",i),A.hJ(A.a(["160 Unterrichtseinheiten mit hochwertigem Inhalt","Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),B.afb,B.au_,B.ac,A.cd(A.aS(A.a([new A.m(B.jh,new A.m(B.nb,A.cP(B.aj,A.a([A.ld(!1,B.afw,i,i,i,i,i,i,A.bnr(),i,A.f2(i,i,i,new A.aT(B.j,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aT(new A.c3(A.bK(0),B.A),t.vp),i,i,i,i,i,i)),B.ov],m),B.q,B.ah),i),i),new A.m(B.ci,A.boU(a),i)],m),B.h,B.f,B.e,i),i,i),B.ac],m),B.v,B.f,B.e),i),i)],m),B.v,r,i,B.f,B.e,0,i,i,B.G)],m),B.h,B.f,B.e),B.q,i,i,B.df,i,i,i,i,i,i,i,g),i,i),A.pg(a,A.ft(i,i))],m),B.h,B.f,B.e),i,B.x,i,i,B.z),i,i,i)},
+return A.fV(h,B.k,A.fy(A.a6(A.a([A.cd(A.aH(i,A.a6(A.a([new A.m(B.ae,s,i),A.cS(A.a([new A.m(B.f6,new A.ag(q,i,n,i),i),new A.m(B.hu,new A.ag(o,i,A.a6(A.a([B.Fy,B.Fv,B.ag6,l,B.afK,B.afe,B.kQ,A.aH(i,A.cS(B.YO,B.h,f?B.C:B.z,i,B.f,B.e,0,i,i,B.G),B.q,i,i,new A.bw(i,i,i,j,i,i,B.T),i,k,i,i,i,i,i,i),A.hJ(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),new A.il(B.F3,"de",i),A.hJ(A.a(["160 Unterrichtseinheiten mit hochwertigem Inhalt","Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),B.afb,B.au_,B.ac,A.cd(A.aS(A.a([new A.m(B.jh,new A.m(B.nb,A.cP(B.aj,A.a([A.ld(!1,B.afx,i,i,i,i,i,i,A.bnr(),i,A.f2(i,i,i,new A.aT(B.j,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aT(new A.c3(A.bK(0),B.A),t.vp),i,i,i,i,i,i)),B.ov],m),B.q,B.ah),i),i),new A.m(B.ci,A.boU(a),i)],m),B.h,B.f,B.e,i),i,i),B.ac],m),B.v,B.f,B.e),i),i)],m),B.v,r,i,B.f,B.e,0,i,i,B.G)],m),B.h,B.f,B.e),B.q,i,i,B.df,i,i,i,i,i,i,i,g),i,i),A.pg(a,A.ft(i,i))],m),B.h,B.f,B.e),i,B.x,i,i,B.z),i,i,i)},
 $C:"$3",
 $R:3,
 $S:33}
@@ -103920,7 +103920,7 @@ o=f?800:1/0
 l=A.aS(A.a([B.VS,A.e4("assets/images/Massnahmezulassung.jpg",i,i,200,i,200)],m),B.h,B.f,B.e,i)
 k=f?50:150
 j=A.bK(0)
-return A.fV(h,B.k,A.fy(A.a6(A.a([A.cd(A.aH(i,A.a6(A.a([new A.m(B.ae,s,i),A.cS(A.a([new A.m(B.f6,new A.ag(q,i,n,i),i),new A.m(B.hu,new A.ag(o,i,A.a6(A.a([B.Ft,B.afF,B.af8,l,B.afl,B.afP,new A.KA(i),B.afd,A.aH(i,A.cS(B.a3X,B.h,f?B.C:B.z,i,B.f,B.e,0,i,i,B.G),B.q,i,i,new A.bw(i,i,i,j,i,i,B.T),i,k,i,i,i,i,i,i),A.hJ(A.a(["Basic programming skills in Python",u.Y,"Interest in new technologies","high motivation"],p),"Prerequisites"),new A.il(B.ab2,"de",i),A.hJ(A.a(["160 teaching units with high-quality content","All coding-scripts","All presentations","Vouchers for my Online AI-courses (PyTorch Ultimate, Applied Generative AI) with more than 30h video","Participation certificate"],p),"This is included"),B.afN,B.asl,B.ac,A.cd(A.aS(A.a([new A.m(B.ci,new A.m(B.nb,A.cP(B.aj,A.a([A.ld(!1,B.ag7,i,i,i,i,i,i,A.bns(),i,A.f2(i,i,i,new A.aT(B.j,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aT(new A.c3(A.bK(0),B.A),t.vp),i,i,i,i,i,i)),B.ov],m),B.q,B.ah),i),i),new A.m(B.ci,A.boT(a),i)],m),B.h,B.f,B.e,i),i,i),B.ac],m),B.v,B.f,B.e),i),i)],m),B.v,r,i,B.f,B.e,0,i,i,B.G)],m),B.h,B.f,B.e),B.q,i,i,B.df,i,i,i,i,i,i,i,g),i,i),A.pg(a,A.ft(i,i))],m),B.h,B.f,B.e),i,B.x,i,i,B.z),i,i,i)},
+return A.fV(h,B.k,A.fy(A.a6(A.a([A.cd(A.aH(i,A.a6(A.a([new A.m(B.ae,s,i),A.cS(A.a([new A.m(B.f6,new A.ag(q,i,n,i),i),new A.m(B.hu,new A.ag(o,i,A.a6(A.a([B.Ft,B.afG,B.af8,l,B.afl,B.afQ,new A.KA(i),B.afd,A.aH(i,A.cS(B.a3X,B.h,f?B.C:B.z,i,B.f,B.e,0,i,i,B.G),B.q,i,i,new A.bw(i,i,i,j,i,i,B.T),i,k,i,i,i,i,i,i),A.hJ(A.a(["Basic programming skills in Python",u.Y,"Interest in new technologies","high motivation"],p),"Prerequisites"),new A.il(B.ab2,"de",i),A.hJ(A.a(["160 teaching units with high-quality content","All coding-scripts","All presentations","Vouchers for my Online AI-courses (PyTorch Ultimate, Applied Generative AI) with more than 30h video","Participation certificate"],p),"This is included"),B.afO,B.asl,B.ac,A.cd(A.aS(A.a([new A.m(B.ci,new A.m(B.nb,A.cP(B.aj,A.a([A.ld(!1,B.ag7,i,i,i,i,i,i,A.bns(),i,A.f2(i,i,i,new A.aT(B.j,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aT(new A.c3(A.bK(0),B.A),t.vp),i,i,i,i,i,i)),B.ov],m),B.q,B.ah),i),i),new A.m(B.ci,A.boT(a),i)],m),B.h,B.f,B.e,i),i,i),B.ac],m),B.v,B.f,B.e),i),i)],m),B.v,r,i,B.f,B.e,0,i,i,B.G)],m),B.h,B.f,B.e),B.q,i,i,B.df,i,i,i,i,i,i,i,g),i,i),A.pg(a,A.ft(i,i))],m),B.h,B.f,B.e),i,B.x,i,i,B.z),i,i,i)},
 $C:"$3",
 $R:3,
 $S:33}
@@ -103955,7 +103955,7 @@ o=f?800:1/0
 l=f?50:150
 k=A.bK(0)
 j=f?B.C:B.z
-return A.fV(h,B.k,A.fy(A.a6(A.a([A.cd(A.aH(i,A.a6(A.a([new A.m(B.ae,s,i),A.cS(A.a([new A.m(B.f6,new A.ag(q,i,n,i),i),new A.m(B.hu,new A.ag(o,i,A.a6(A.a([B.Ft,B.afV,B.afX,B.afs,A.aH(i,A.cS(A.a([B.afG,B.ag1,B.d6,A.bpC(a)],m),B.h,j,i,B.f,B.e,0,i,i,B.G),B.q,i,i,new A.bw(i,i,i,k,i,i,B.T),i,l,i,i,i,i,i,i),A.hJ(A.a(["Basic programming skills in Python",u.Y,"Interest in new technologies","High motivation"],p),"Requirements"),A.b6v(a),new A.il(B.ab3,"de",i),A.hJ(A.a(["40 teaching units with high-quality content","All code scripts","All presentations","Vouchers for my AI courses (PyTorch Ultimate, Applied Generative AI) with more than 30h of video material","Certificate of participation"],p),"This is included"),B.afy,B.asv,A.cd(A.aS(A.a([new A.m(B.ci,A.boR(a),i),new A.m(B.jh,new A.m(B.bo,A.UE(B.X8,B.afC,A.bnt(),A.f2(i,i,i,new A.aT(B.j,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aT(new A.c3(A.bK(30),B.A),t.vp),i,i,i,i,i,i)),i),i)],m),B.h,B.f,B.e,i),i,i)],m),B.v,B.f,B.e),i),i)],m),B.v,r,i,B.f,B.e,0,i,i,B.G)],m),B.h,B.f,B.e),B.q,i,i,B.df,i,i,i,i,i,i,i,g),i,i),A.pg(a,A.ft(i,i))],m),B.h,B.f,B.e),i,B.x,i,i,B.z),i,i,i)},
+return A.fV(h,B.k,A.fy(A.a6(A.a([A.cd(A.aH(i,A.a6(A.a([new A.m(B.ae,s,i),A.cS(A.a([new A.m(B.f6,new A.ag(q,i,n,i),i),new A.m(B.hu,new A.ag(o,i,A.a6(A.a([B.Ft,B.afV,B.afX,B.aft,A.aH(i,A.cS(A.a([B.afH,B.ag1,B.d6,A.bpC(a)],m),B.h,j,i,B.f,B.e,0,i,i,B.G),B.q,i,i,new A.bw(i,i,i,k,i,i,B.T),i,l,i,i,i,i,i,i),A.hJ(A.a(["Basic programming skills in Python",u.Y,"Interest in new technologies","High motivation"],p),"Requirements"),A.b6v(a),new A.il(B.ab3,"de",i),A.hJ(A.a(["40 teaching units with high-quality content","All code scripts","All presentations","Vouchers for my AI courses (PyTorch Ultimate, Applied Generative AI) with more than 30h of video material","Certificate of participation"],p),"This is included"),B.afz,B.asu,A.cd(A.aS(A.a([new A.m(B.ci,A.boR(a),i),new A.m(B.jh,new A.m(B.bo,A.UE(B.X8,B.afD,A.bnt(),A.f2(i,i,i,new A.aT(B.j,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aT(new A.c3(A.bK(30),B.A),t.vp),i,i,i,i,i,i)),i),i)],m),B.h,B.f,B.e,i),i,i)],m),B.v,B.f,B.e),i),i)],m),B.v,r,i,B.f,B.e,0,i,i,B.G)],m),B.h,B.f,B.e),B.q,i,i,B.df,i,i,i,i,i,i,i,g),i,i),A.pg(a,A.ft(i,i))],m),B.h,B.f,B.e),i,B.x,i,i,B.z),i,i,i)},
 $C:"$3",
 $R:3,
 $S:33}
@@ -104163,13 +104163,13 @@ break
 case 5:return A.M(null,r)
 case 1:return A.L(p.at(-1),r)}})
 return A.N($async$BP,r)},
-J(a0){var s,r=this,q=null,p=A.aQ(a0,q,t.l).w.a.a>1200,o=A.aI(q,q,B.j,q,q,q,q,q,q,q,q,p?20:16,q,q,B.a1,q,q,!0,q,q,q,q,q,q,q,q),n=p?A.jV(a0,"Gollnick Data"):A.kV(!0,q,q,q,q,q,q,B.atk),m=A.A("Bitte f\xfclle das Formular aus. Im Anschluss werde ich mich bei dir melden, um ein Kennenlerngespr\xe4ch zu vereinbaren.",q,q,q,q,o,q,q),l=A.A("Ich freue mich auf deine Nachricht.",q,q,q,q,o,q,q),k=t.p,j=A.aS(A.a([B.tW,new A.m(B.r,A.A("Sprechzeiten: Mo-Fr 9-18 Uhr",q,q,q,q,o,q,q),q)],k),B.h,B.f,B.e,q),i=A.aS(A.a([B.tZ,new A.m(B.r,A.A("0178 60 63 03 6",q,q,q,q,o,q,q),q)],k),B.h,B.f,B.e,q),h=A.aS(A.a([B.tX,new A.m(B.r,A.c0(q,A.A("E-Mail: info@gollnickdata.de",q,q,q,q,A.aI(q,q,B.j,q,B.cL,q,q,q,q,q,q,p?20:16,q,q,B.a1,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.x,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aF1(),q,q,q,q,q,q),q)],k),B.h,B.f,B.e,q),g=A.wa(r.e,B.u3,new A.aF2()),f=A.wa(r.f,B.XK,new A.aF3(r)),e=A.wa(r.r,B.u4,new A.aF4(r)),d=A.wa(r.w,B.XH,new A.aF5()),c=r.y,b=t.R,a=c?new A.aT(B.aw,b):new A.aT(B.P,b)
+J(a0){var s,r=this,q=null,p=A.aQ(a0,q,t.l).w.a.a>1200,o=A.aI(q,q,B.j,q,q,q,q,q,q,q,q,p?20:16,q,q,B.a1,q,q,!0,q,q,q,q,q,q,q,q),n=p?A.jV(a0,"Gollnick Data"):A.kV(!0,q,q,q,q,q,q,B.atj),m=A.A("Bitte f\xfclle das Formular aus. Im Anschluss werde ich mich bei dir melden, um ein Kennenlerngespr\xe4ch zu vereinbaren.",q,q,q,q,o,q,q),l=A.A("Ich freue mich auf deine Nachricht.",q,q,q,q,o,q,q),k=t.p,j=A.aS(A.a([B.tW,new A.m(B.r,A.A("Sprechzeiten: Mo-Fr 9-18 Uhr",q,q,q,q,o,q,q),q)],k),B.h,B.f,B.e,q),i=A.aS(A.a([B.tZ,new A.m(B.r,A.A("0178 60 63 03 6",q,q,q,q,o,q,q),q)],k),B.h,B.f,B.e,q),h=A.aS(A.a([B.tX,new A.m(B.r,A.c0(q,A.A("E-Mail: info@gollnickdata.de",q,q,q,q,A.aI(q,q,B.j,q,B.cL,q,q,q,q,q,q,p?20:16,q,q,B.a1,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.x,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aF1(),q,q,q,q,q,q),q)],k),B.h,B.f,B.e,q),g=A.wa(r.e,B.u3,new A.aF2()),f=A.wa(r.f,B.XK,new A.aF3(r)),e=A.wa(r.r,B.u4,new A.aF4(r)),d=A.wa(r.w,B.XH,new A.aF5()),c=r.y,b=t.R,a=c?new A.aT(B.aw,b):new A.aT(B.P,b)
 c=A.aS(A.a([A.D8(a,new A.aF6(r),new A.c3(A.bK(50),B.A),10,c),A.A("Generative KI mit Python (Bildungsurlaub)",q,q,q,q,o,q,q)],k),B.h,B.f,B.e,q)
 a=r.z
 s=a?new A.aT(B.aw,b):new A.aT(B.P,b)
 a=A.aS(A.a([A.D8(s,new A.aF7(r),new A.c3(A.bK(50),B.A),q,a),A.A("Generative KI mit Python (AZAV, Bildungsgutschein)",q,q,q,q,o,q,q)],k),B.h,B.f,B.e,q)
 s=A.aS(A.a([A.D8(q,new A.aF8(r),q,q,r.d),B.VR],k),B.h,B.f,B.e,q)
-return A.fV(n,q,A.fy(A.cd(A.aH(q,A.b_S(A.a6(A.a([B.atP,new A.m(B.r,m,q),new A.m(B.r,l,q),j,i,h,new A.m(B.r,g,q),new A.m(B.r,f,q),new A.m(B.r,e,q),new A.m(B.r,d,q),c,new A.m(B.b1,a,q),s,A.aS(A.a([new A.m(B.r,A.ld(!1,B.atz,q,q,q,q,q,q,new A.aF9(r,a0),q,A.f2(q,q,q,r.d?new A.aT(B.aG,b):new A.aT(B.kK,b),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q)],k),B.h,B.a2,B.e,q)],k),B.v,B.f,B.e),r.x),B.q,q,B.mo,q,q,q,q,q,B.dK,q,q,1/0),q,q),q,B.x,q,q,B.z),q,q,q)}}
+return A.fV(n,q,A.fy(A.cd(A.aH(q,A.b_S(A.a6(A.a([B.atP,new A.m(B.r,m,q),new A.m(B.r,l,q),j,i,h,new A.m(B.r,g,q),new A.m(B.r,f,q),new A.m(B.r,e,q),new A.m(B.r,d,q),c,new A.m(B.b1,a,q),s,A.aS(A.a([new A.m(B.r,A.ld(!1,B.aty,q,q,q,q,q,q,new A.aF9(r,a0),q,A.f2(q,q,q,r.d?new A.aT(B.aG,b):new A.aT(B.kK,b),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q)],k),B.h,B.a2,B.e,q)],k),B.v,B.f,B.e),r.x),B.q,q,B.mo,q,q,q,q,q,B.dK,q,q,1/0),q,q),q,B.x,q,q,B.z),q,q,q)}}
 A.aF1.prototype={
 $0(){return A.m0("mailto:info@gollnickdata.de")},
 $S:0}
@@ -104802,7 +104802,7 @@ $S:0}
 A.aSM.prototype={
 $1(a){var s=null,r=this.a,q=t.p
 r=A.aS(A.a([A.A(A.R(r,B.i,t.J).gET(),s,s,s,s,B.a6,s,s),A.c0(s,B.ny,B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aSL(r),s,s,s,s,s,s)],q),B.h,B.aT,B.e,s)
-return A.aUt(A.aH(s,A.a6(A.a([B.au0,B.asD,B.Mf,B.as8,B.Mi,B.atS,A.c0(s,B.M5,B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.bor(),s,s,s,s,s,s),B.Ma,B.atW,B.b5,B.asW,B.atE,B.atM,B.asS],q),B.v,B.f,B.e),B.q,s,s,s,s,350,s,s,s,s,s,s),B.de,r)},
+return A.aUt(A.aH(s,A.a6(A.a([B.au0,B.asD,B.Mf,B.as8,B.Mi,B.atS,A.c0(s,B.M5,B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.bor(),s,s,s,s,s,s),B.Ma,B.atW,B.b5,B.asW,B.atD,B.atM,B.asS],q),B.v,B.f,B.e),B.q,s,s,s,s,350,s,s,s,s,s,s),B.de,r)},
 $S:123}
 A.aSL.prototype={
 $0(){A.hX(this.a,!1).fo()},
@@ -104874,7 +104874,7 @@ A.aTo.prototype={
 $1(a){var s,r=null,q=this.a,p=t.p
 q=A.aS(A.a([A.A(A.R(q,B.i,t.J).gFP(),r,r,r,r,B.ip,r,r),A.c0(r,B.ny,B.x,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aTn(q),r,r,r,r,r,r)],p),B.h,B.aT,B.e,r)
 s=this.b?800:360
-return A.aUt(new A.ag(s,300,A.a6(A.a([B.asg,B.aA,B.ats,B.Mf,B.atA,B.Mi,B.asa,A.c0(r,B.M5,B.x,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,A.bpz(),r,r,r,r,r,r),B.Ma],p),B.v,B.f,B.e),r),B.de,q)},
+return A.aUt(new A.ag(s,300,A.a6(A.a([B.asg,B.aA,B.atr,B.Mf,B.atz,B.Mi,B.asa,A.c0(r,B.M5,B.x,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,A.bpz(),r,r,r,r,r,r),B.Ma],p),B.v,B.f,B.e),r),B.de,q)},
 $S:123}
 A.aTn.prototype={
 $0(){A.hX(this.a,!1).fo()},
@@ -115491,14 +115491,14 @@ B.afo=new A.m(B.t5,B.atO,null)
 B.VP=new A.mf(1,B.dL,B.afo,null)
 B.eh=new A.V_(1,"loose")
 B.a6=new A.p(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.atq=new A.a_("I have read the privacy policy and accept it.",null,B.a6,null,null,!0,null,null,null,null)
-B.W4=new A.lf(1,B.eh,B.atq,null)
+B.atp=new A.a_("I have read the privacy policy and accept it.",null,B.a6,null,null,!0,null,null,null,null)
+B.W4=new A.lf(1,B.eh,B.atp,null)
 B.VQ=new A.mf(1,B.dL,B.W4,null)
 B.asi=new A.a_("Ich habe die Datenschutzerkl\xe4rung gelesen und akzeptiere sie.",null,B.a6,null,null,!0,null,null,null,null)
 B.W3=new A.lf(1,B.eh,B.asi,null)
 B.VR=new A.mf(1,B.dL,B.W3,null)
-B.atw=new A.a_("As a recognized training provider, we can offer this course through the employment office. This further training is officially certified and eligible for funding. Take advantage of this opportunity and have your professional qualification funded by the employment office. Contact us now to find out more about the requirements and the next start dates!",null,B.a7,null,null,null,null,null,null,null)
-B.afc=new A.m(B.t5,B.atw,null)
+B.atv=new A.a_("As a recognized training provider, we can offer this course through the employment office. This further training is officially certified and eligible for funding. Take advantage of this opportunity and have your professional qualification funded by the employment office. Contact us now to find out more about the requirements and the next start dates!",null,B.a7,null,null,null,null,null,null,null)
+B.afc=new A.m(B.t5,B.atv,null)
 B.VS=new A.mf(1,B.dL,B.afc,null)
 B.VT=new A.Ey(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.jm=new A.nK(!1,!1,!1,!1)
@@ -115846,12 +115846,12 @@ B.YN=A.a(s(["\u0996\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09aa\u09c2\u09b0\u09cd\
 B.jO=A.a(s(["\u062c\u0646\u0648\u0631\u06cc","\u0641\u0631\u0648\u0631\u06cc","\u0645\u0627\u0631\u0686","\u0627\u067e\u0631\u06cc\u0644","\u0645\u0626\u06cc","\u062c\u0648\u0646","\u062c\u0648\u0644\u0627\u0626\u06cc","\u0627\u06af\u0633\u062a","\u0633\u062a\u0645\u0628\u0631","\u0627\u06a9\u062a\u0648\u0628\u0631","\u0646\u0648\u0645\u0628\u0631","\u062f\u0633\u0645\u0628\u0631"]),t.s)
 B.lm=new A.p(!0,B.aw,null,null,null,null,20,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.asU=new A.a_("03.03.2025 - 27.04.2025",null,B.lm,null,null,null,null,null,null,null)
-B.afD=new A.m(B.bo,B.asU,null)
+B.afE=new A.m(B.bo,B.asU,null)
 B.ir=new A.p(!0,B.Q,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.auh=new A.a_("Mo - Fr, 9:00 - 13:00",null,B.ir,null,null,null,null,null,null,null)
 B.ag2=new A.m(B.bo,B.auh,null)
 B.d6=new A.a0U(null)
-B.YO=A.a(s([B.afD,B.ag2,B.d6]),t.p)
+B.YO=A.a(s([B.afE,B.ag2,B.d6]),t.p)
 B.uA=A.a(s(["su","ma","ti","ke","to","pe","la"]),t.s)
 B.uB=A.a(s(["\u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae","\u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1","\u03a4\u03c1\u03af\u03c4\u03b7","\u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7","\u03a0\u03ad\u03bc\u03c0\u03c4\u03b7","\u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae","\u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf"]),t.s)
 B.uC=A.a(s(["\u10d9","\u10dd","\u10e1","\u10dd","\u10ee","\u10de","\u10e8"]),t.s)
@@ -116324,10 +116324,10 @@ B.a1X=A.a(s(["EEEE d MMMM y","d MMMM y","d MMM y","dd/MM/yy"]),t.s)
 B.a1Y=A.a(s(["\u0574.\u0569.\u0561.","\u0574.\u0569."]),t.s)
 B.a1Z=A.a(s(["tremujori i par\xeb","tremujori i dyt\xeb","tremujori i tret\xeb","tremujori i kat\xebrt"]),t.s)
 B.a2_=A.a(s(["Domingo","Luns","Martes","M\xe9rcores","Xoves","Venres","S\xe1bado"]),t.s)
-B.atp=new A.a_("AI Engineering",null,B.lp,null,null,null,null,null,null,null)
+B.ato=new A.a_("AI Engineering",null,B.lp,null,null,null,null,null,null,null)
 B.asV=new A.a_("- als Bildungsurlaub anerkannt",null,B.pC,null,null,null,null,null,null,null)
 B.Fu=new A.m(B.cV,B.asV,null)
-B.a20=A.a(s([B.atp,B.Fu]),t.p)
+B.a20=A.a(s([B.ato,B.Fu]),t.p)
 B.a21=A.a(s(["\u0a2a\u0a39\u0a3f\u0a32\u0a40 \u0a24\u0a3f\u0a2e\u0a3e\u0a39\u0a40","\u0a26\u0a42\u0a1c\u0a40 \u0a24\u0a3f\u0a2e\u0a3e\u0a39\u0a40","\u0a24\u0a40\u0a1c\u0a40 \u0a24\u0a3f\u0a2e\u0a3e\u0a39\u0a40","\u0a1a\u0a4c\u0a25\u0a40 \u0a24\u0a3f\u0a2e\u0a3e\u0a39\u0a40"]),t.s)
 B.a22=A.a(s(["EEEE, d MMMM y","d MMMM y","d/MM/y","d/MM/yy"]),t.s)
 B.wq=A.a(s(["\u0cad\u0cbe\u0ca8\u0cc1\u0cb5\u0cbe\u0cb0","\u0cb8\u0ccb\u0cae\u0cb5\u0cbe\u0cb0","\u0cae\u0c82\u0c97\u0cb3\u0cb5\u0cbe\u0cb0","\u0cac\u0cc1\u0ca7\u0cb5\u0cbe\u0cb0","\u0c97\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0cb0","\u0cb6\u0cc1\u0c95\u0ccd\u0cb0\u0cb5\u0cbe\u0cb0","\u0cb6\u0ca8\u0cbf\u0cb5\u0cbe\u0cb0"]),t.s)
@@ -116582,11 +116582,11 @@ B.a3S=A.a(s(["EEEE, d MMMM y","d MMMM y","d MMM y","d/MM/yy"]),t.s)
 B.a3V=A.a(s(["\u0a88.\u0ab8.\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac7","\u0a88.\u0ab8."]),t.s)
 B.xy=A.a(s(["\u0698","\u0641","\u0645","\u0622","\u0645","\u0698","\u0698","\u0627","\u0633","\u0627","\u0646","\u062f"]),t.s)
 B.a3W=A.a(s(["\u0b95\u0bbe\u0bb2\u0bbe.1","\u0b95\u0bbe\u0bb2\u0bbe.2","\u0b95\u0bbe\u0bb2\u0bbe.3","\u0b95\u0bbe\u0bb2\u0bbe.4"]),t.s)
-B.aty=new A.a_("Spring 2025 - dates by arrangement",null,B.lm,null,null,null,null,null,null,null)
-B.afI=new A.m(B.bo,B.aty,null)
-B.atB=new A.a_("Mo - Fr, 8:00 - 12:00 or 14:00 - 18:00",null,B.ir,null,null,null,null,null,null,null)
-B.afQ=new A.m(B.bo,B.atB,null)
-B.a3X=A.a(s([B.afI,B.afQ,B.d6]),t.p)
+B.atx=new A.a_("Spring 2025 - dates by arrangement",null,B.lm,null,null,null,null,null,null,null)
+B.afJ=new A.m(B.bo,B.atx,null)
+B.atA=new A.a_("Mo - Fr, 8:00 - 12:00 or 14:00 - 18:00",null,B.ir,null,null,null,null,null,null,null)
+B.afR=new A.m(B.bo,B.atA,null)
+B.a3X=A.a(s([B.afJ,B.afR,B.d6]),t.p)
 B.Mz=new A.AY(0,"topLeft")
 B.MC=new A.AY(3,"bottomRight")
 B.ayE=new A.oU(B.Mz,B.MC)
@@ -118631,8 +118631,8 @@ B.lq=new A.a_("Trainer",null,B.bv,null,null,null,null,null,null,null)
 B.asJ=new A.a_("Jesko Rehberg",null,B.iq,null,null,null,null,null,null,null)
 B.a18=A.a(s([B.lq,B.asJ]),t.p)
 B.Tv=new A.je(B.z,B.f,B.e,B.v,null,B.G,null,0,B.a18,null)
-B.afx=new A.m(B.r,B.Tv,null)
-B.a8G=A.a(s([B.PP,B.afx]),t.p)
+B.afy=new A.m(B.r,B.Tv,null)
+B.a8G=A.a(s([B.PP,B.afy]),t.p)
 B.aiP=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a8G,null)
 B.af5=new A.m(B.ae,B.aiP,null)
 B.aur=new A.a_("\u2022 Mecklenburg-Vorpommern",null,B.a7,null,null,null,null,null,null,null)
@@ -118649,7 +118649,7 @@ B.atZ=new A.a_("Nutzen Sie die finanzielle Unterst\xfctzung f\xfcr Ihre beruflic
 B.afe=new A.m(B.ae,B.atZ,null)
 B.c0=new A.ag(null,30,null,null)
 B.lo=new A.p(!0,B.Q,null,null,null,null,24,B.a1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.atj=new A.a_("Jens Henneberg",null,B.lo,null,null,null,null,null,null,null)
+B.ati=new A.a_("Jens Henneberg",null,B.lo,null,null,null,null,null,null,null)
 B.aA=new A.ag(null,10,null,null)
 B.cM=new A.p(!0,B.j,null,null,null,null,18,B.a1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.auA=new A.a_("Jens Henneberg verf\xfcgt \xfcber einen vielseitigen Hintergrund, der sowohl juristische als auch technische Expertise vereint. Nach dem erfolgreichen Abschluss des Ersten Juristischen Staatsexamens absolvierte sie ihr Referendariat am OLG Celle mit Stationen in der Justiz, Verwaltung und Anwaltschaft. Erg\xe4nzend dazu erwarb sie einen Bachelor of Science in Informatik und besitzt eine Ausbildung zum Versicherungskaufmann. Durch diese interdisziplin\xe4re Ausbildung verbindet sie fundierte rechtliche, betriebswirtschaftliche und technische Kenntnisse.",null,B.cM,null,null,null,null,null,null,null)
@@ -118661,7 +118661,7 @@ B.aq_=new A.p(!0,null,null,null,null,null,18,B.a1,null,null,null,null,null,null,
 B.asQ=new A.a_("Beruflich hat sie sich von einer juristischen Laufbahn hin zu einer f\xfchrenden Rolle in der IT-Industrie entwickelt. Sie war als Chief Software Architect t\xe4tig und \xfcbernahm strategische Verantwortung als Produktmanager f\xfcr Generative KI. Derzeit arbeitet sie als Cloud Solution Architect bei Microsoft, wo sie komplexe Cloud- und KI-L\xf6sungen entwirft. Ihre fr\xfchere Erfahrung als Gesch\xe4ftsf\xfchrer eines Verbandes sowie in einer Gro\xdfkanzlei und im Versicherungswesen unterstreicht ihre vielseitige Karriereentwicklung.",null,B.aq_,null,null,null,null,null,null,null)
 B.Mc=new A.a_("P\xe4dagogische Laufbahn",null,B.pz,null,null,null,null,null,null,null)
 B.asN=new A.a_("Auch in der Wissensvermittlung bringt sie umfangreiche Erfahrung mit. Seit f\xfcnf Jahren f\xfchrt sie Workshops und Schulungen zu IT-rechtlichen Themen durch und bildet F\xfchrungskr\xe4fte in KI-Governance und dem EU AI Act weiter. Regelm\xe4\xdfige Vortr\xe4ge auf Fachkonferenzen zu KI-Ethik und Compliance machen sie zu einer gefragten Expertin. Zudem engagiert sie sich im Mentoring von Junior-Entwicklern, wobei sie besonderes Augenmerk auf die rechtskonforme Softwareentwicklung legt.",null,B.cM,null,null,null,null,null,null,null)
-B.a7u=A.a(s([B.c0,B.atj,B.aA,B.auA,B.c0,B.M9,B.aA,B.auz,B.c0,B.Mg,B.aA,B.asQ,B.c0,B.Mc,B.aA,B.asN]),t.p)
+B.a7u=A.a(s([B.c0,B.ati,B.aA,B.auA,B.c0,B.M9,B.aA,B.auz,B.c0,B.Mg,B.aA,B.asQ,B.c0,B.Mc,B.aA,B.asN]),t.p)
 B.Tp=new A.je(B.z,B.f,B.e,B.v,null,B.G,null,0,B.a7u,null)
 B.aff=new A.m(B.bo,B.Tp,null)
 B.auc=new A.a_("Mit unserer praxisnahen KI Strategie und Compliance Schulung unterst\xfctzen wir Sie dabei, die rechtlichen Anforderungen zu verstehen und ein wirksames KI Compliance Management in Ihrem Unternehmen zu etablieren. Wir beleuchten KI Datenschutz Risiken und zeigen, wie Sie durch fundierte KI Governance im Unternehmen einen verantwortungsvollen Umgang mit KI sicherstellen k\xf6nnen.",null,B.a7,null,null,null,null,null,null,null)
@@ -118703,26 +118703,28 @@ B.Fv=new A.m(B.ae,B.asR,null)
 B.tS=new A.c1(58214,"MaterialIcons",null,!1)
 B.WY=new A.co(B.tS,40,null,null,B.Q,null,null)
 B.bp=new A.p(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.asw=new A.a_("EN / DE",null,B.bp,null,null,null,null,null,null,null)
-B.Yi=A.a(s([B.WY,B.asw]),t.p)
+B.asv=new A.a_("EN / DE",null,B.bp,null,null,null,null,null,null,null)
+B.Yi=A.a(s([B.WY,B.asv]),t.p)
 B.aiL=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.Yi,null)
 B.afp=new A.m(B.b1,B.aiL,null)
 B.auO=new A.a_("Herzlich willkommen zur umfassenden Schulung zu KI Compliance und KI Governance! In der dynamischen Welt der K\xfcnstlichen Intelligenz und generativen KI begegnen Unternehmen sowohl enormen Chancen als auch komplexen Risiken. Der EU AI Act stellt Unternehmen vor neue Herausforderungen bei der KI-Nutzung.",null,B.a7,null,null,null,null,null,null,null)
 B.afq=new A.m(B.ae,B.auO,null)
+B.asy=new A.a_("Der Kurs ist bereits als Bildungsurlaub anerkannt in: Brandenburg, Bremen, Niedersachsen,Rheinland-Pfalz, Saarland, und Sachsen-Anhalt.",null,B.a7,null,null,null,null,null,null,null)
+B.afr=new A.m(B.ae,B.asy,null)
 B.atG=new A.a_("Die KI-Verordnung bringt neue Verpflichtungen mit sich \u2013 besonders f\xfcr KMU und den Mittelstand sind die Risiken der KI im Unternehmen oft schwer einzusch\xe4tzen. Vom DSGVO-konformen Einsatz bis zur strategischen KI-Nutzung: Mit unserer Expertise helfen wir Ihnen, eine robuste KI Strategie zu entwickeln, die sowohl die Compliance-Anforderungen erf\xfcllt als auch Innovationspotenziale erschlie\xdft.",null,B.a7,null,null,null,null,null,null,null)
-B.afr=new A.m(B.ae,B.atG,null)
+B.afs=new A.m(B.ae,B.atG,null)
 B.M1=new A.p(!0,B.j,null,null,null,null,24,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.atl=new A.a_("Next Dates",null,B.M1,null,null,null,null,null,null,null)
-B.afs=new A.m(B.ee,B.atl,null)
+B.atk=new A.a_("Next Dates",null,B.M1,null,null,null,null,null,null,null)
+B.aft=new A.m(B.ee,B.atk,null)
 B.eG=new A.ag(40,null,null,null)
 B.auC=new A.a_("Kostenloses Beratungsgespr\xe4ch ",null,B.d8,null,null,null,null,null,null,null)
 B.ZR=A.a(s([B.eG,B.auC]),t.p)
 B.aiM=new A.eG(B.C,B.f,B.cm,B.h,null,B.G,null,0,B.ZR,null)
-B.afw=new A.m(B.r,B.aiM,null)
+B.afx=new A.m(B.r,B.aiM,null)
 B.at4=new A.a_("\u2022 Berlin",null,B.a7,null,null,null,null,null,null,null)
 B.Fw=new A.m(B.b1,B.at4,null)
 B.au9=new A.a_("Are you interested, but still have questions?",null,B.M1,null,null,null,null,null,null,null)
-B.afy=new A.m(B.hs,B.au9,null)
+B.afz=new A.m(B.hs,B.au9,null)
 B.Na=new A.k_("assets/images/profile_angela.jpg",null,null)
 B.PU=new A.jd(null,null,B.Na,50,null)
 B.au8=new A.a_("Angela Diaz",null,B.iq,null,null,null,null,null,null,null)
@@ -118731,55 +118733,53 @@ B.Ts=new A.je(B.z,B.f,B.e,B.v,null,B.G,null,0,B.a62,null)
 B.ag8=new A.m(B.r,B.Ts,null)
 B.a3T=A.a(s([B.PU,B.ag8]),t.p)
 B.aiX=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a3T,null)
-B.afz=new A.m(B.ae,B.aiX,null)
+B.afA=new A.m(B.ae,B.aiX,null)
 B.atQ=new A.a_("\u2022 Brandenburg",null,B.a7,null,null,null,null,null,null,null)
 B.Fx=new A.m(B.b1,B.atQ,null)
-B.atC=new A.a_("Contact Form",null,B.d8,null,null,null,null,null,null,null)
-B.afA=new A.m(B.r,B.atC,null)
+B.atB=new A.a_("Contact Form",null,B.d8,null,null,null,null,null,null,null)
+B.afB=new A.m(B.r,B.atB,null)
 B.X3=new A.co(B.tS,24,null,null,B.j,null,null)
 B.hX=new A.m(B.r,B.X3,null)
 B.auN=new A.a_("\u2022 Schleswig-Holstein",null,B.a7,null,null,null,null,null,null,null)
-B.afB=new A.m(B.b1,B.auN,null)
+B.afC=new A.m(B.b1,B.auN,null)
 B.aut=new A.a_("Arrange appointment",null,B.d8,null,null,null,null,null,null,null)
-B.afC=new A.m(B.r,B.aut,null)
+B.afD=new A.m(B.r,B.aut,null)
 B.t6=new A.ab(0,32,0,8)
 B.Md=new A.a_("Kursvorstellung",null,B.c1,null,null,null,null,null,null,null)
-B.afE=new A.m(B.t6,B.Md,null)
+B.afF=new A.m(B.t6,B.Md,null)
 B.atb=new A.a_("Dive deep into this exciting domain in our ground-breaking online course. Acquire the skills that are in demand in a changing job market.",null,B.a7,null,null,null,null,null,null,null)
-B.afF=new A.m(B.ae,B.atb,null)
+B.afG=new A.m(B.ae,B.atb,null)
 B.auF=new A.a_("06.01.2025 - 10.01.2025",null,B.lm,null,null,null,null,null,null,null)
-B.afG=new A.m(B.bo,B.auF,null)
+B.afH=new A.m(B.bo,B.auF,null)
 B.auJ=new A.a_("In einer Welt, die von Daten und Informationen \xfcberflutet wird, ist die F\xe4higkeit, nat\xfcrliche Sprache zu verarbeiten und zu generieren, von unsch\xe4tzbarem Wert. Sei es die Entwicklung intelligenter virtueller Assistenten, die Automatisierung von Schreibaufgaben oder die Extraktion wertvoller Erkenntnisse aus riesigen Textmengen - generative KI und NLP sind die Schl\xfcsseltechnologien der Zukunft.",null,B.a7,null,null,null,null,null,null,null)
 B.Fy=new A.m(B.ae,B.auJ,null)
 B.auq=new A.a_("Kursanerkennung",null,B.c1,null,null,null,null,null,null,null)
-B.afH=new A.m(B.t6,B.auq,null)
+B.afI=new A.m(B.t6,B.auq,null)
 B.auL=new A.a_("Bildungsgutschein und Qualifizierungsgeld",null,B.c1,null,null,null,null,null,null,null)
-B.afJ=new A.m(B.cj,B.auL,null)
+B.afK=new A.m(B.cj,B.auL,null)
 B.ln=new A.p(!0,B.j,null,"Lora",null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aum=new A.a_("Zukunftstechnologie im Urlaub: Generative KI als Bildungsurlaub",null,B.ln,null,null,null,null,null,null,null)
-B.afK=new A.m(B.r,B.aum,null)
+B.afL=new A.m(B.r,B.aum,null)
 B.asP=new A.a_(u.x,null,B.ln,null,null,null,null,null,null,null)
-B.afL=new A.m(B.r,B.asP,null)
+B.afM=new A.m(B.r,B.asP,null)
 B.WI=new A.c1(62036,"Awesome Line Icons 1.3.0","line_icons",!1)
 B.WT=new A.co(B.WI,24,null,null,B.j,null,null)
 B.oq=new A.m(B.r,B.WT,null)
 B.atL=new A.a_("\u2022 Sachsen-Anhalt",null,B.a7,null,null,null,null,null,null,null)
 B.Fz=new A.m(B.b1,B.atL,null)
 B.at3=new A.a_("Es wird zus\xe4tzlich geplant den Kurs in den folgenden Bundesl\xe4ndern als Bildungsurlaub anerkennen zu lassen: Rheinland-Pfalz, Mecklenburg-Vorpommern, Hessen.",null,B.a7,null,null,null,null,null,null,null)
-B.afM=new A.m(B.ae,B.at3,null)
+B.afN=new A.m(B.ae,B.at3,null)
 B.atN=new A.a_("\u2022 Rheinland-Pfalz",null,B.a7,null,null,null,null,null,null,null)
 B.FA=new A.m(B.b1,B.atN,null)
 B.aub=new A.a_("You are interested, but still have questions?",null,B.c1,null,null,null,null,null,null,null)
-B.afN=new A.m(B.ci,B.aub,null)
+B.afO=new A.m(B.ci,B.aub,null)
 B.atT=new A.a_("Take advantage of financial support for your professional development! With an education voucher (Bildungsgutschein) from the JobCenter, you can cover the full cost of our certified courses. There is also the 'Qualifizierungsgeld', which covers your ongoing living costs during your training. These funding options make it easier for you to find new career prospects. Contact us to find out more about the requirements and how to apply!",null,B.a7,null,null,null,null,null,null,null)
-B.afP=new A.m(B.ae,B.atT,null)
+B.afQ=new A.m(B.ae,B.atT,null)
 B.LU=new A.p(!0,B.k,null,"Inter",null,null,20,B.a1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.atf=new A.a_("Kostenloses Infopaket herunterladen",null,B.LU,null,null,null,null,null,null,null)
 B.or=new A.m(B.dK,B.atf,null)
-B.asu=new A.a_("Der Kurs ist bereits als Bildungsurlaub anerkannt in: Brandenburg, Bremen, Niedersachsen,Rheinland-Pfalz.",null,B.a7,null,null,null,null,null,null,null)
-B.afR=new A.m(B.ae,B.asu,null)
-B.atg=new A.a_("Die Anerkennung ist in Arbeit f\xfcr: Berlin, Hamburg, Hessen, Mecklenburg-Vorpommern, Nordrhein-Westfalen, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein.",null,B.a7,null,null,null,null,null,null,null)
-B.afS=new A.m(B.ae,B.atg,null)
+B.atE=new A.a_("Die Anerkennung ist in Arbeit f\xfcr: Berlin, Hamburg, Hessen, Mecklenburg-Vorpommern, Nordrhein-Westfalen, Schleswig-Holstein.",null,B.a7,null,null,null,null,null,null,null)
+B.afS=new A.m(B.ae,B.atE,null)
 B.ass=new A.a_("Data scientists are the wizards of the modern age, transmuting complex data into pure insight. Leveraging machine learning, modeling, and mining, they reveal potential hidden in data to predict trends, optimize operations, and drive innovation across industries. From tech titans to healthcare pioneers, organizations rely on data science mastery to fuel smarter decisions and competitive advantage. Whether future-proofing your skills or launching an exciting new career, command of data science unlocks boundless opportunity. Enroll now and gain spellbinding power to shape tomorrow.",null,B.a7,null,null,null,null,null,null,null)
 B.afT=new A.m(B.ae,B.ass,null)
 B.Wx=new A.c1(61843,"MaterialIcons",null,!1)
@@ -118803,8 +118803,8 @@ B.afX=new A.m(B.ae,B.asr,null)
 B.ast=new A.a_("Der Kurs ist in den folgenden Bundesl\xe4ndern als Bildungsurlaub anerkannt:",null,B.a7,null,null,null,null,null,null,null)
 B.FB=new A.m(B.ae,B.ast,null)
 B.V4=new A.ab(0,16,0,32)
-B.ath=new A.a_("Machen Sie Ihr Unternehmen fit f\xfcr die Zukunft! In unserem Online-Kurs \u201eKI-Strategie und Compliance\u201c lernen Sie, wie Sie K\xfcnstliche Intelligenz erfolgreich und rechtskonform in Ihrem Unternehmen einsetzen. Verstehen Sie die Chancen, minimieren Sie Risiken und setzen Sie KI gezielt f\xfcr nachhaltigen Erfolg ein. Sichern Sie sich jetzt Ihren Platz und gestalten Sie die digitale Transformation aktiv mit!",null,B.a7,null,null,null,null,null,null,null)
-B.afY=new A.m(B.V4,B.ath,null)
+B.atg=new A.a_("Machen Sie Ihr Unternehmen fit f\xfcr die Zukunft! In unserem Online-Kurs \u201eKI-Strategie und Compliance\u201c lernen Sie, wie Sie K\xfcnstliche Intelligenz erfolgreich und rechtskonform in Ihrem Unternehmen einsetzen. Verstehen Sie die Chancen, minimieren Sie Risiken und setzen Sie KI gezielt f\xfcr nachhaltigen Erfolg ein. Sichern Sie sich jetzt Ihren Platz und gestalten Sie die digitale Transformation aktiv mit!",null,B.a7,null,null,null,null,null,null,null)
+B.afY=new A.m(B.V4,B.atg,null)
 B.auD=new A.a_("\u2022 Bremen",null,B.a7,null,null,null,null,null,null,null)
 B.FC=new A.m(B.b1,B.auD,null)
 B.asB=new A.a_("Setzen Sie auf ma\xdfgeschneiderte Schulungen, die Ihr Team zukunftssicher machen!",null,B.a7,null,null,null,null,null,null,null)
@@ -118836,8 +118836,8 @@ B.PT=new A.jd(null,null,B.Nb,50,null)
 B.atJ=new A.a_("Babak Banijamali",null,B.iq,null,null,null,null,null,null,null)
 B.a5C=A.a(s([B.lq,B.atJ]),t.p)
 B.Tn=new A.je(B.z,B.f,B.e,B.v,null,B.G,null,0,B.a5C,null)
-B.afv=new A.m(B.r,B.Tn,null)
-B.a89=A.a(s([B.PT,B.afv]),t.p)
+B.afw=new A.m(B.r,B.Tn,null)
+B.a89=A.a(s([B.PT,B.afw]),t.p)
 B.aiT=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a89,null)
 B.ag9=new A.m(B.ae,B.aiT,null)
 B.atV=new A.a_("Dieser Bildungsurlaub bietet dir eine einzigartige Gelegenheit, deine Kompetenzen in einem stark nachgefragten Bereich zu erweitern und beruflich von den Vorteilen der KI-Entwicklung zu profitieren. W\xe4hrend des Kurses wirst du praxisorientierte Projekte umsetzen und dabei lernen, wie neuronale Netzwerke die Entscheidungsfindung und Automatisierung in verschiedensten Branchen unterst\xfctzen k\xf6nnen. Am Ende des Kurses bist du nicht nur in der Lage, KI-Modelle zu entwickeln und produktiv zu nutzen, sondern verf\xfcgst auch \xfcber die Kenntnisse, um moderne KI-Frameworks wie PyTorch gezielt und zukunftsorientiert anzuwenden.",null,B.a7,null,null,null,null,null,null,null)
@@ -118889,8 +118889,8 @@ B.ah0=new A.zg(3,"scale")
 B.ah1=new A.zg(4,"unknown")
 B.ah2=new A.H1(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.eJ=new A.p(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.atu=new A.a_("Expertenwissen",null,B.eJ,null,null,null,null,null,null,null)
-B.ah3=new A.vh(B.eZ,B.aw,B.atu,null)
+B.att=new A.a_("Expertenwissen",null,B.eJ,null,null,null,null,null,null,null)
+B.ah3=new A.vh(B.eZ,B.aw,B.att,null)
 B.asX=new A.a_("Beliebt",null,B.eJ,null,null,null,null,null,null,null)
 B.ah4=new A.vh(B.eZ,B.aw,B.asX,null)
 B.auy=new A.a_("Neu",null,B.eJ,null,null,null,null,null,null,null)
@@ -118975,29 +118975,29 @@ B.a8l=A.a(s([B.oq,B.af6]),t.p)
 B.oD=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a8l,null)
 B.pA=new A.p(!0,B.aw,null,null,null,null,24,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.auw=new A.a_("KI Strategie",null,B.pA,null,null,null,null,null,null,null)
-B.afu=new A.m(B.r,B.auw,null)
-B.a__=A.a(s([B.afu]),t.p)
+B.afv=new A.m(B.r,B.auw,null)
+B.a__=A.a(s([B.afv]),t.p)
 B.aiO=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a__,null)
 B.WD=new A.c1(61505,"Awesome Line Icons 1.3.0","line_icons",!1)
 B.Xd=new A.co(B.WD,24,null,null,B.j,null,null)
-B.afO=new A.m(B.r,B.Xd,null)
+B.afP=new A.m(B.r,B.Xd,null)
 B.auM=new A.a_("Remote",null,B.il,null,null,null,null,null,null,null)
 B.afi=new A.m(B.f7,B.auM,null)
-B.ZC=A.a(s([B.afO,B.afi]),t.p)
+B.ZC=A.a(s([B.afP,B.afi]),t.p)
 B.i2=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.ZC,null)
 B.asE=new A.a_("AI Engineering",null,B.pA,null,null,null,null,null,null,null)
 B.afm=new A.m(B.r,B.asE,null)
 B.a_6=A.a(s([B.afm]),t.p)
 B.aiS=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a_6,null)
-B.ato=new A.a_("Generative KI mit Python",null,B.pA,null,null,null,null,null,null,null)
-B.agd=new A.m(B.r,B.ato,null)
+B.atn=new A.a_("Generative KI mit Python",null,B.pA,null,null,null,null,null,null,null)
+B.agd=new A.m(B.r,B.atn,null)
 B.a0B=A.a(s([B.agd]),t.p)
 B.aiY=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.a0B,null)
 B.pD=new A.p(!0,B.j,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aul=new A.a_("Bildungsurlaub",null,B.pD,null,null,null,null,null,null,null)
-B.aft=new A.m(B.r,B.aul,null)
+B.afu=new A.m(B.r,B.aul,null)
 B.WZ=new A.co(B.tR,50,null,null,B.j,null,null)
-B.ZH=A.a(s([B.aft,B.d6,B.WZ,B.d6]),t.p)
+B.ZH=A.a(s([B.afu,B.d6,B.WZ,B.d6]),t.p)
 B.oE=new A.eG(B.C,B.f,B.e,B.h,null,B.G,null,0,B.ZH,null)
 B.ajM=new A.a_N(null,null)
 B.eE=new A.vI(0,"idle")
@@ -119719,11 +119719,11 @@ B.asl=new A.a_("Contact me using the contact form or arrange a direct meeting.",
 B.asm=new A.a_("Prompt Engineering",null,B.bp,B.bk,null,null,null,null,null,null)
 B.aso=new A.a_("Coding f\xfcr MitarbeiterInnen",null,B.LR,null,null,null,null,null,null,null)
 B.asp=new A.a_("Info",null,B.im,null,null,null,null,null,null,null)
-B.asv=new A.a_("Contact me via the contact form or arrange a direct meeting.",null,B.ct,null,null,null,null,null,null,null)
+B.asu=new A.a_("Contact me via the contact form or arrange a direct meeting.",null,B.ct,null,null,null,null,null,null,null)
 B.apq=new A.p(!0,null,null,"Inter",null,null,20,B.a1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.asx=new A.a_("Published Articles",null,B.apq,null,null,null,null,null,null,null)
+B.asw=new A.a_("Published Articles",null,B.apq,null,null,null,null,null,null,null)
 B.M2=new A.p(!0,B.k,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.asy=new A.a_("Send message",null,B.M2,null,null,null,null,null,null,null)
+B.asx=new A.a_("Send message",null,B.M2,null,null,null,null,null,null,null)
 B.asD=new A.a_("Name und Sitz des Anbieters",null,B.a6,null,null,null,null,null,null,null)
 B.asF=new A.a_("Oops!",null,null,null,null,null,null,null,null,null)
 B.asS=new A.a_("Vertretungsberechtigter Gesch\xe4ftsf\xfchrer: Bert Gollnick",null,B.a6,null,null,null,null,null,null,null)
@@ -119733,20 +119733,20 @@ B.at0=new A.a_("Book directly",null,B.d8,null,null,null,null,null,null,null)
 B.at2=new A.a_("Bert Gollnick ist Senior Data Scientist mit Schwerpunkt auf k\xfcnstlicher Intelligenz. Seit vielen Jahren unterrichtet er Kurse zu Data Science und Machine Learning, j\xfcngst auch zu generativer KI und nat\xfcrlicher Sprachverarbeitung. Bert hat an der Technischen Universit\xe4t Berlin Luft- und Raumfahrttechnik und an der Universit\xe4t Hagen Volkswirtschaftslehre studiert. Er lebt und arbeitet in Hamburg und bietet Pr\xe4senzkurse im deutschsprachigen Raum sowie Online-Kurse f\xfcr ein internationales Publikum an.",null,B.cM,null,null,null,null,null,null,null)
 B.at8=new A.a_("Berufliche Laufbahn",null,B.pF,null,null,null,null,null,null,null)
 B.at9=new A.a_("Er hat Luft- und Raumfahrttechnik an der TU Berlin und Volkswirtschaftslehre an der Universit\xe4t Hagen studiert. Im Bereich Data Science hat er sich auf Machine Learning, und speziellDeep Learning spezialisiert.",null,B.cM,null,null,null,null,null,null,null)
-B.ati=new A.a_("2014",null,B.a6,null,null,null,null,null,null,null)
-B.atk=new A.a_("Auf gehts!",null,null,null,null,null,null,null,null,null)
-B.atm=new A.a_("Gern erstellen wir Ihnen ein pers\xf6nliches Angebot oder eine pers\xf6nliche Rechnung.",null,B.ct,null,null,null,null,null,null,null)
+B.ath=new A.a_("2014",null,B.a6,null,null,null,null,null,null,null)
+B.atj=new A.a_("Auf gehts!",null,null,null,null,null,null,null,null,null)
+B.atl=new A.a_("Gern erstellen wir Ihnen ein pers\xf6nliches Angebot oder eine pers\xf6nliche Rechnung.",null,B.ct,null,null,null,null,null,null,null)
 B.M7=new A.a_("Error loading SVG.",null,null,null,null,null,null,null,null,null)
-B.atn=new A.a_("Er ist Gr\xfcnder und Gesch\xe4ftsf\xfchrer von Gollnick Data Solutions.",null,B.cM,null,null,null,null,null,null,null)
-B.atr=new A.a_("2007",null,B.a6,null,null,null,null,null,null,null)
-B.ats=new A.a_("Contact Information",null,B.M0,null,null,null,null,null,null,null)
-B.att=new A.a_("Trainingsprozess bei Deep Learning",null,B.bp,B.bk,null,null,null,null,null,null)
-B.atv=new A.a_("Your Trainer",null,B.im,null,null,null,null,null,null,null)
-B.atx=new A.a_("Bert Gollnick",null,B.lo,null,null,null,null,null,null,null)
-B.atz=new A.a_("Nachricht senden",null,B.M2,null,null,null,null,null,null,null)
-B.atA=new A.a_("Owner: Bert Gollnick",null,B.a6,null,null,null,null,null,null,null)
-B.atD=new A.a_("2023",null,B.a6,null,null,null,null,null,null,null)
-B.atE=new A.a_("Registergericht: Amtsgericht Hamburg",null,B.a6,null,null,null,null,null,null,null)
+B.atm=new A.a_("Er ist Gr\xfcnder und Gesch\xe4ftsf\xfchrer von Gollnick Data Solutions.",null,B.cM,null,null,null,null,null,null,null)
+B.atq=new A.a_("2007",null,B.a6,null,null,null,null,null,null,null)
+B.atr=new A.a_("Contact Information",null,B.M0,null,null,null,null,null,null,null)
+B.ats=new A.a_("Trainingsprozess bei Deep Learning",null,B.bp,B.bk,null,null,null,null,null,null)
+B.atu=new A.a_("Your Trainer",null,B.im,null,null,null,null,null,null,null)
+B.atw=new A.a_("Bert Gollnick",null,B.lo,null,null,null,null,null,null,null)
+B.aty=new A.a_("Nachricht senden",null,B.M2,null,null,null,null,null,null,null)
+B.atz=new A.a_("Owner: Bert Gollnick",null,B.a6,null,null,null,null,null,null,null)
+B.atC=new A.a_("2023",null,B.a6,null,null,null,null,null,null,null)
+B.atD=new A.a_("Registergericht: Amtsgericht Hamburg",null,B.a6,null,null,null,null,null,null,null)
 B.M8=new A.a_("Loading...",null,null,null,null,null,null,null,null,null)
 B.atK=new A.a_("Stiltransfer zur \xdcbertragung des Stils auf ein anderes Bild",null,B.bp,B.bk,null,null,null,null,null,null)
 B.atM=new A.a_("Registernummer: HRB 183259",null,B.a6,null,null,null,null,null,null,null)
