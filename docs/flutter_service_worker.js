@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9f9993b1f57dc27c69a4a7b330416727",
-"assets/AssetManifest.bin.json": "19926a9afe717a6d7f7544e88e3e70e4",
-"assets/AssetManifest.json": "b05b489b1a2fbcfbf3efae5792b1b3e0",
+const RESOURCES = {"assets/AssetManifest.bin": "f519981352157f184b91d98addb4af56",
+"assets/AssetManifest.bin.json": "8f3fae064b2a51e7c897c3da1e3b99d7",
+"assets/AssetManifest.json": "25d7e4c67dedbba1e7ac72fe4980ab41",
 "assets/assets/fonts/DancingScript-Bold.ttf": "6c5b41b0622681bb6aafb3d4ed2a1171",
 "assets/assets/fonts/DancingScript-Regular.ttf": "949b41b511eeacbbf6884959b6eedc56",
 "assets/assets/fonts/JosefinSlab-Bold.ttf": "9e85e7de127ce629d3d112f122041886",
@@ -38,6 +38,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f9993b1f57dc27c69a4a7b330416727
 "assets/assets/images/applied_nlp.png": "c3c1118538262d8f315c97caef1487f5",
 "assets/assets/images/badge.svg": "1cb85d16f2735091a903a41051fed234",
 "assets/assets/images/bert_ribbons.svg": "1a37b8e890c75983ac4b7b5374725b79",
+"assets/assets/images/BildungsurlaubDE.png": "9819370413e365da3c5d0e77dd7c47b3",
 "assets/assets/images/CerturiaAZAV.png": "8a28b10a0c932c801abf0a842c6bb727",
 "assets/assets/images/Chain_with_loop.png": "1e947f4d7d4f9be2474d9b1a78a41380",
 "assets/assets/images/claire_s_no_bg.png": "9e5bee0272f094dd469946299a9c7380",
@@ -55,6 +56,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f9993b1f57dc27c69a4a7b330416727
 "assets/assets/images/GenAiForEmployees_PromptEngineering.png": "635bc2d517bcd559a82ec3b11e5ec063",
 "assets/assets/images/GollnickData_Logo.png": "174b2ee0ac59ccb1021fe109e3b910ee",
 "assets/assets/images/GollnickData_Logo.svg": "6e7d54e8cc7bd068d17cb9df6fa79331",
+"assets/assets/images/GollnickData_Logo_with_text.svg": "36c372fb8a4a1d9498b43d103ed0adcb",
 "assets/assets/images/GunnarFaustmann.jpeg": "c4c9eb663a01d7919bc74777a1966481",
 "assets/assets/images/horizontal_banner.svg": "761ae1554f55a6b11677e308f2ee2ed5",
 "assets/assets/images/igel.png": "fafb6c6f4932599522aec6f2592ca1d9",
@@ -1376,15 +1378,15 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f9993b1f57dc27c69a4a7b330416727
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.ico": "05cc2957e293cb88f8285e565eaee790",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "26e608e081ba349d12ec3be559475a06",
+"flutter_bootstrap.js": "928390e85249092ecd38f21afe8a3125",
 "icons/apple-touch-icon.png": "09e1d52f798867156659d042b033c471",
 "icons/Icon-192.png": "e17c4742fce72b19ac91c80c9eb479be",
 "icons/Icon-512.png": "8b74f20fa10c344a7d083a876d199d3c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1b013e039c7f751867d2b7ca2878b389",
-"/": "1b013e039c7f751867d2b7ca2878b389",
-"main.dart.js": "37f90cea51ca3b3fc59fa2c1b9be8e59",
+"index.html": "b99625b372de4fc5e34167aada87184d",
+"/": "b99625b372de4fc5e34167aada87184d",
+"main.dart.js": "429098ba9015ac3fd97f3534a463a619",
 "manifest.json": "b05a3411979535077ffeebd8e7a84b78",
 "version.json": "70e92e53b82782e46b06c6bc9bcec67d"};
 // The application shell files that are downloaded before a service worker can
