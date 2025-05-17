@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a87fef93b6ea109dfb8ec5dbcd6cf79e",
-"assets/AssetManifest.bin.json": "6a3ddad1e0f114e9b7325907558f84b3",
-"assets/AssetManifest.json": "3ff41ab1bde486ec996562dc518aa0d8",
+const RESOURCES = {"assets/AssetManifest.bin": "52959f0239728278780ba21f15c21456",
+"assets/AssetManifest.bin.json": "465103d967eeea3477bf06daabe7af7a",
+"assets/AssetManifest.json": "f2ae87e346870e112864ed27c0e9167d",
 "assets/assets/fonts/DancingScript-Bold.ttf": "6c5b41b0622681bb6aafb3d4ed2a1171",
 "assets/assets/fonts/DancingScript-Regular.ttf": "949b41b511eeacbbf6884959b6eedc56",
 "assets/assets/fonts/JosefinSlab-Bold.ttf": "9e85e7de127ce629d3d112f122041886",
@@ -39,6 +39,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a87fef93b6ea109dfb8ec5dbcd6cf79e
 "assets/assets/images/badge.svg": "fe23f02e39a820a724f4a84c77775c09",
 "assets/assets/images/bert_ribbons.svg": "f5a74c62da45863f2427cf48ef4ff62e",
 "assets/assets/images/BildungsurlaubDE.png": "9819370413e365da3c5d0e77dd7c47b3",
+"assets/assets/images/book_genai_de.png": "4966f8c146e7d2d8668bac80d72d2c97",
+"assets/assets/images/book_genai_en.jpg": "ce1b45f2cc33c7041221d59fa9974747",
+"assets/assets/images/book_genai_en.png": "d97f56aeaa0f66420a09b8b364950bd3",
 "assets/assets/images/bu_foerderung_1.png": "eec780983c5311853c4550e171201cd3",
 "assets/assets/images/bu_foerderung_2.png": "762c1cdbeb6589eb68e0c59965557cae",
 "assets/assets/images/bu_foerderung_3.png": "ff0846116d63e1174ae90aa1bee4be92",
@@ -1391,15 +1394,15 @@ const RESOURCES = {"assets/AssetManifest.bin": "a87fef93b6ea109dfb8ec5dbcd6cf79e
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.ico": "05cc2957e293cb88f8285e565eaee790",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "db691106fcfd1175921d6a7f5dd8a85c",
+"flutter_bootstrap.js": "c934d070da8875d4cb4142565032376f",
 "icons/apple-touch-icon.png": "09e1d52f798867156659d042b033c471",
 "icons/Icon-192.png": "e17c4742fce72b19ac91c80c9eb479be",
 "icons/Icon-512.png": "8b74f20fa10c344a7d083a876d199d3c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b2d2b0f9721bf4cd829a0eab567503d3",
-"/": "b2d2b0f9721bf4cd829a0eab567503d3",
-"main.dart.js": "80596c1b0bae940e1e2fc3f614a0d7a1",
+"index.html": "bc4e0d80905c48f00619dd0a0a0a75be",
+"/": "bc4e0d80905c48f00619dd0a0a0a75be",
+"main.dart.js": "3c891cb22e32f1888b19e02cd235b096",
 "manifest.json": "b05a3411979535077ffeebd8e7a84b78",
 "version.json": "70e92e53b82782e46b06c6bc9bcec67d"};
 // The application shell files that are downloaded before a service worker can
