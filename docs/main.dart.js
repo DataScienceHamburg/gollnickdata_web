@@ -30082,7 +30082,7 @@ aUa:function aUa(a){this.a=a},
 boZ(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g={},f=A.aC(a,h,t.l).w.a.a>1200,e=A.kJ(a)
 A.m6("carouselController",new A.aSU())
 s=$.aV()
-g.a=!1
+g.a=!0
 r=A.ca(B.a_k,B.h,f?B.y:B.w,h,B.f,B.e,0,h,h,B.A)
 q=f?B.y:B.w
 p=f?300:1/0
@@ -33606,7 +33606,7 @@ var $async$aVd=A.J(function(k,a0){if(k===1){p.push(a0)
 s=q}while(true)switch(s){case 0:m=""
 q=3
 s=6
-return A.H(A.Q0("service_scojudy","template_vle25gz",A.G(["vorname",i,"name",e,"adresse",a,"plz",g,"ort",f,"user_email",c,"message",d,"phone",h,"selected_courses",m],t.N,t.z),B.mZ),$async$aVd)
+return A.H(A.Q0("service_scojudy","template_vle25gz",A.G(["vorname",i,"name",e,"adresse",a,"plz",g,"ort",f,"user_email",c,"message",d,"phone",h,"selected_courses",m,"widmung",j],t.N,t.z),B.mZ),$async$aVd)
 case 6:A.h7("SUCCESS!")
 q=1
 s=5
@@ -106218,8 +106218,8 @@ A.aSU.prototype={
 $0(){return A.aj1()},
 $S:105}
 A.aSV.prototype={
-$2(a,b){var s=this,r=null,q=s.b,p=s.c,o=t.p,n=A.aD(A.a([A.fd(new A.h(B.n,A.jX(q,B.Zm,r),r),1),A.fd(new A.h(B.n,A.jX(p,B.Zq,r),r),1)],o),B.h,B.f,B.e,r),m=s.d,l=A.jX(m,B.Zr,r),k=s.e,j=s.f,i=A.aD(A.a([A.fd(new A.h(B.n,A.jX(k,B.Zp,r),r),1),A.fd(new A.h(B.n,A.jX(j,B.Zo,r),r),2)],o),B.h,B.f,B.e,r),h=s.r,g=A.jX(h,B.o3,r),f=s.a,e=f.a,d=A.e7(r,r,r,new A.aK(B.i,t.R),r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aK(new A.bS(A.bn(4),B.B),t.v),r,r,r,r,r,r)
-return A.U(A.a([n,new A.h(B.n,l,r),i,new A.h(B.n,g,r),new A.h(B.n,new A.DE(e,new A.aSS(f,b),B.ax_,B.uT,r),r),new A.h(B.n,A.iH(!1,B.ai7,r,r,r,r,r,r,q.a.a.length===0||p.a.a.length===0||m.a.a.length===0||k.a.a.length===0||j.a.a.length===0?r:new A.aST(f,q,p,m,k,j,h,a),r,d),r)],o),B.h,B.f,B.e)},
+$2(a,b){var s=this,r=null,q=s.b,p=s.c,o=t.p,n=s.d,m=s.e,l=s.f,k=s.r,j=s.a
+return A.U(A.a([A.aD(A.a([A.fd(new A.h(B.n,A.jX(q,B.Zm,r),r),1),A.fd(new A.h(B.n,A.jX(p,B.Zq,r),r),1)],o),B.h,B.f,B.e,r),new A.h(B.n,A.jX(n,B.Zr,r),r),A.aD(A.a([A.fd(new A.h(B.n,A.jX(m,B.Zp,r),r),1),A.fd(new A.h(B.n,A.jX(l,B.Zo,r),r),2)],o),B.h,B.f,B.e,r),new A.h(B.n,A.jX(k,B.o3,r),r),new A.h(B.n,new A.DE(j.a,new A.aSS(j,b),B.ax_,B.uT,r),r),new A.h(B.n,A.iH(!1,B.ai7,r,r,r,r,r,r,new A.aST(j,q,p,n,m,l,k,a),r,A.e7(r,r,r,new A.aK(B.i,t.R),r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aK(new A.bS(A.bn(4),B.B),t.v),r,r,r,r,r,r)),r)],o),B.h,B.f,B.e)},
 $S:615}
 A.aSS.prototype={
 $1(a){this.b.$1(new A.aSR(this.a,a))},
@@ -106228,8 +106228,8 @@ A.aSR.prototype={
 $0(){this.a.a=this.b===!0},
 $S:0}
 A.aST.prototype={
-$0(){var s=this,r=s.b,q=r.a.a,p=s.c,o=p.a.a,n=s.d,m=n.a.a,l=s.e,k=l.a.a,j=s.f,i=j.a.a,h=s.r
-A.aVd(m,!1,h.a.a,"Ich bestelle das Buch Generative KI mit Python",o,i,k,"",q,s.a.a)
+$0(){var s=this,r=s.b,q=r.a.a,p=s.c,o=p.a.a,n=s.d,m=n.a.a,l=s.e,k=l.a.a,j=s.f,i=j.a.a,h=s.r,g=h.a.a
+A.aVd(m,!1,g,"Ich bestelle das Buch Generative KI mit Python",o,i,k,"",q,s.a.a?"ja":"nein")
 s.w.ar(t.Pu).f.HE(B.aoH)
 r.h0(0,B.cf)
 p.h0(0,B.cf)
