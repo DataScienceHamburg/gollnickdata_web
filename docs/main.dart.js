@@ -8114,7 +8114,7 @@ return A.O($async$R8,r)},
 b16(a){var s
 if(a.length===0)return!1
 s=A.y(["require_tld",!0,"require_protocol",!1,"allow_underscores",!1],t.N,t.K)
-s.m(0,"protocols",B.a86)
+s.m(0,"protocols",B.a87)
 return A.b8U(a,s)},
 aEb:function aEb(a,b){this.a=a
 this.b=b},
@@ -22892,7 +22892,7 @@ q=b.as
 if(a.as!==q)return q?-1:1
 return 0},
 bg_(a,b){var s=A.a8(b).h("a7<1,eQ>")
-return A.bfi(!0,A.ah(new A.a7(b,new A.amS(),s),!0,s.h("ao.E")),a,B.a7k,!0,B.W_,null)},
+return A.bfi(!0,A.ah(new A.a7(b,new A.amS(),s),!0,s.h("ao.E")),a,B.a7l,!0,B.W_,null)},
 bfX(a){a.c7()
 a.bt(A.b8F())},
 Fe(a){var s=a.a,r=s instanceof A.uA?s:null
@@ -23496,7 +23496,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 aqN(a,b){var s
-if(a.k(0,b))return new A.RW(B.a7r)
+if(a.k(0,b))return new A.RW(B.a7s)
 s=A.a([],t.fJ)
 A.bG("debugDidFindAncestor")
 a.og(new A.aqO(b,A.b_(t.u),s))
@@ -28648,7 +28648,7 @@ a1=A.dU(b5)
 p=t.N
 a2=J.oq(a1,p)
 for(a3=0;a3<a1;++a3)a2[a3]=new A.te(!0).tL(b5.A7(A.dU(b5)),0,b4,!0)
-if(s<=9)a4=B.a7o
+if(s<=9)a4=B.a7p
 else{a1=A.dU(b5)
 a5=J.oq(a1,t.yp)
 for(a3=0;a3<a1;++a3){a6=A.dU(b5)
@@ -28662,7 +28662,7 @@ a1=A.dU(b5)
 b1=A.Gv(a1,new A.azP(b5,q),!1,t.R5)
 b2=new Uint8Array(A.eh(b5.A7(b5.a.byteLength-b5.c)))
 p=e==null?b4:A.bz(e)
-c=A.b4R(B.a6O[d])
+c=A.b4R(B.a6P[d])
 a5=J.oq(a1,t.hj)
 for(b3=0;b3<a1;++b3)a5[b3]=new A.rc(b1[b3])
 return A.bjr(i,q,b2,b8,s,a9,b0,a0,f,a5,l,m,a4,a2,p,c,h,g)},
@@ -29856,7 +29856,7 @@ o=A.dW(i,i,i,new A.bH(new A.aTZ(),t.g),i,i,i,i,i,i,i,i,i,i,i,i,new A.aI(B.ar,t.o
 j=A.bh(12)
 o=A.H(A.a([p,l,B.at,m,B.at,n,B.et,A.c3(B.a3,A.a([A.id(!1,A.z9(A.as(B.a0,A.H(A.a([B.iA,new A.f(B.fD,A.t(u.Z,i,i,i,i,A.ak(i,i,A.aJ(B.d.al(178.5),B.j.D()>>>16&255,B.j.D()>>>8&255,B.j.D()&255),i,i,i,i,i,i,i,i,16,i,i,B.a6,i,i,!0,i,i,i,i,i,i,i,i),i,i),i)],k),B.h,B.f,B.e),B.n,i,B.fq,i,i,i,i,i,i,i,i,i),new A.bi(i,i,i,j,i,B.fO,B.R)),i,i,i,i,i,i,new A.aU_(),i,o),A.d9(i,A.e2(i,i,B.fL,i,i,new A.aU0(),i,i,i),i,i,i,8,8,i)],k),B.E,B.a2)],k),B.t,B.f,B.e)
 p=g?800:1/0
-return A.H(A.a([B.ajO,A.c7(A.a([new A.f(B.dg,new A.a1(r,i,o,i),i),new A.f(B.cW,new A.a1(p,i,A.H(A.a([B.ahD,B.ajM,B.ajG,B.ahU,B.aif,B.ajJ,B.aj9,B.aig,B.ajx,B.aio,B.ak0,B.ajP,B.aiW,new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arn,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arW,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arK,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arC,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arF,B.a1,i,i,B.M,B.W),i),B.ahK,B.aiO,B.ahS,B.ajz,B.ajl,B.aiq,A.lP(i,i,i,B.bp,i,i,!0,i,B.ars,B.a1,i,i,B.M,B.W),B.aiw,B.aiN,B.ahR,B.ajW,B.ajX,B.aiJ,B.ai5,B.ai3,B.ahW,B.ajA,B.ai_,B.ajq,B.ajQ,B.ajd,B.ajI,B.aij,B.aih,B.ajs,B.aiy,B.aiu,B.ahz,B.aje,B.ahV,B.GY,B.aim,B.lu,B.lv,B.lA,B.ls,B.lt,B.lz,B.lC,B.ly,B.lw,B.H_,B.aj8,B.pk,B.a_,A.fn(a,"03.11.2025 - 07.11.2025",B.aF,g,"10 Pl\xe4tze frei","https://buy.stripe.com/8x228q12gawK9Pu0Ia5kk0G","Mo - Fr, 9:00 - 17:00"),B.a_,B.qv,A.ep(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],q),"Voraussetzungen"),A.b9w(a),new A.h_(A.y(["Tag 1: Das Fundament (wie die Profis es bauen)",A.a(["Infrastructure as Code mit Bicep - Der Gamechanger!","Azure KI-Services professionell aufsetzen","Schockierend: Wie KI bereits heute 30% der Jobs ver\xe4ndert","Praxis: Episode 1 - Ihre erste versionierbare KI-Infrastruktur"],q),"Tag 2: Die Sprach-Revolution",A.a(["Natural Language Processing auf Enterprise-Level","Custom Named Entity Recognition f\xfcr Ihre Dom\xe4ne","Augen\xf6ffner: Wie KI Sprachbarrieren eliminiert","Praxis: Episode 2 - Knowledge Mining in Aktion"],q),"Tag 3: Sehen wie eine Maschine",A.a(["Computer Vision jenseits der Basics","Content Safety - sch\xfctzen Sie Ihr Unternehmen","Kontrovers: \xdcberwachung vs. Privatsph\xe4re","Praxis: Episode 3 - RAG mit GPT-4"],q),"Tag 4: Die KI-Explosion",A.a(["Document Intelligence automatisiert","Generative AI professionell einsetzen","Zukunft: Kreativit\xe4t oder Arbeitslosigkeit?","Praxis: Episode 4 & 5 - Custom Models meistern"],q),"Tag 5: Der Durchbruch",A.a(["End-to-End L\xf6sung deployen","Agentic AI orchestrieren","Pflicht: EU AI Act verstehen und umsetzen","Finale: Episode 6 - Ihr kompletter Digital Assistant","Bonus: Intensive Pr\xfcfungsvorbereitung"],q)],t.N,t.yp),h,i),A.ep(A.a(["\ud83c\udf81 GRATIS dazu: Ihr Infrastructure as Code Starterpaket (Wert: 499\u20ac)","\u2713 Alle Bicep-Templates aus dem Kurs","\u2713 CI/CD Pipeline-Vorlagen","\u2713 Best Practice Deployment-Skripte","\u2713 Compliance-Checkliste EU AI Act","\u2713 40 Unterrichtseinheiten mit hochwertigem Inhalt","\u2713 Alle Code-Skripte","\u2713 S\xe4mtliche Pr\xe4sentationen","\u2713 Teilnahmezertifikat"],q),"Das ist inklusive"),A.ahb(a),A.ts(a,h),B.a_,A.tp(a,A.a(["generativeKI","aiEngineering"],q)),B.a_],k),B.t,B.f,B.e),i),i)],k),B.t,s,i,B.f,B.e,0,i,i,B.A)],k),B.h,B.f,B.e)},
+return A.H(A.a([B.aju,A.c7(A.a([new A.f(B.dg,new A.a1(r,i,o,i),i),new A.f(B.cW,new A.a1(p,i,A.H(A.a([B.ahD,B.ajN,B.ajH,B.ahU,B.aif,B.ajK,B.aj9,B.aig,B.ajy,B.aio,B.ak0,B.ajP,B.aiW,new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arn,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arW,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arK,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arC,B.a1,i,i,B.M,B.W),i),new A.f(B.a9,A.lP(i,i,i,B.bp,i,i,!0,i,B.arF,B.a1,i,i,B.M,B.W),i),B.ahK,B.aiO,B.ahS,B.ajA,B.ajl,B.aiq,A.lP(i,i,i,B.bp,i,i,!0,i,B.ars,B.a1,i,i,B.M,B.W),B.aiw,B.aiN,B.ahR,B.ajW,B.ajX,B.aiJ,B.ai5,B.ai3,B.ahW,B.ajB,B.ai_,B.ajq,B.ajQ,B.ajd,B.ajJ,B.aij,B.aih,B.ajs,B.aiy,B.aiu,B.ahz,B.aje,B.ahV,B.GY,B.aim,B.lu,B.lv,B.lA,B.ls,B.lt,B.lz,B.lC,B.ly,B.lw,B.H_,B.aj8,B.pk,B.a_,A.fn(a,"03.11.2025 - 07.11.2025",B.aF,g,"10 Pl\xe4tze frei","https://buy.stripe.com/8x228q12gawK9Pu0Ia5kk0G","Mo - Fr, 9:00 - 17:00"),B.a_,B.qv,A.ep(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],q),"Voraussetzungen"),A.b9w(a),new A.h_(A.y(["Tag 1: Das Fundament (wie die Profis es bauen)",A.a(["Infrastructure as Code mit Bicep - Der Gamechanger!","Azure KI-Services professionell aufsetzen","Schockierend: Wie KI bereits heute 30% der Jobs ver\xe4ndert","Praxis: Episode 1 - Ihre erste versionierbare KI-Infrastruktur"],q),"Tag 2: Die Sprach-Revolution",A.a(["Natural Language Processing auf Enterprise-Level","Custom Named Entity Recognition f\xfcr Ihre Dom\xe4ne","Augen\xf6ffner: Wie KI Sprachbarrieren eliminiert","Praxis: Episode 2 - Knowledge Mining in Aktion"],q),"Tag 3: Sehen wie eine Maschine",A.a(["Computer Vision jenseits der Basics","Content Safety - sch\xfctzen Sie Ihr Unternehmen","Kontrovers: \xdcberwachung vs. Privatsph\xe4re","Praxis: Episode 3 - RAG mit GPT-4"],q),"Tag 4: Die KI-Explosion",A.a(["Document Intelligence automatisiert","Generative AI professionell einsetzen","Zukunft: Kreativit\xe4t oder Arbeitslosigkeit?","Praxis: Episode 4 & 5 - Custom Models meistern"],q),"Tag 5: Der Durchbruch",A.a(["End-to-End L\xf6sung deployen","Agentic AI orchestrieren","Pflicht: EU AI Act verstehen und umsetzen","Finale: Episode 6 - Ihr kompletter Digital Assistant","Bonus: Intensive Pr\xfcfungsvorbereitung"],q)],t.N,t.yp),h,i),A.ep(A.a(["\ud83c\udf81 GRATIS dazu: Ihr Infrastructure as Code Starterpaket (Wert: 499\u20ac)","\u2713 Alle Bicep-Templates aus dem Kurs","\u2713 CI/CD Pipeline-Vorlagen","\u2713 Best Practice Deployment-Skripte","\u2713 Compliance-Checkliste EU AI Act","\u2713 40 Unterrichtseinheiten mit hochwertigem Inhalt","\u2713 Alle Code-Skripte","\u2713 S\xe4mtliche Pr\xe4sentationen","\u2713 Teilnahmezertifikat"],q),"Das ist inklusive"),A.ahb(a),A.ts(a,h),B.a_,A.tp(a,A.a(["generativeKI","aiEngineering"],q)),B.a_],k),B.t,B.f,B.e),i),i)],k),B.t,s,i,B.f,B.e,0,i,i,B.A)],k),B.h,B.f,B.e)},
 aTY:function aTY(){},
 aTZ:function aTZ(){},
 aU_:function aU_(){},
@@ -30054,7 +30054,7 @@ s=A.dW(m,m,m,new A.bH(new A.aU6(),t.g),m,m,m,m,m,m,m,m,m,m,m,m,new A.aI(B.ar,t.o
 n=A.bh(12)
 s=A.H(A.a([d,o,B.at,p,B.at,q,B.et,A.c3(B.a3,A.a([A.id(!1,A.z9(A.as(B.a0,A.H(A.a([B.iA,new A.f(B.fD,A.t(u.Z,m,m,m,m,A.ak(m,m,A.aJ(B.d.al(178.5),B.j.D()>>>16&255,B.j.D()>>>8&255,B.j.D()&255),m,m,m,m,m,m,m,m,16,m,m,B.a6,m,m,!0,m,m,m,m,m,m,m,m),m,m),m)],r),B.h,B.f,B.e),B.n,m,B.fq,m,m,m,m,m,m,m,m,m),new A.bi(m,m,m,n,m,B.fO,B.R)),m,m,m,m,m,m,new A.aU7(),m,s),A.d9(m,A.e2(m,m,B.fL,m,m,new A.aU8(),m,m,m),m,m,m,8,8,m)],r),B.E,B.a2)],r),B.t,B.f,B.e)
 d=j?800:1/0
-return A.H(A.a([new A.f(B.bA,h,m),A.c7(A.a([new A.f(B.dg,new A.a1(f,m,s,m),m),new A.f(B.cW,new A.a1(d,m,A.H(A.a([B.aiA,B.ai9,B.aiB,new A.Li(m),B.aj_,B.ajy,B.aj2,B.ak_,B.aiY,B.iz,B.a_,A.fn(a,"08.09.2025 - 12.09.2025",B.aF,j,"noch 7 Pl\xe4tze frei","https://buy.stripe.com/cN25oreYT4gO3O89Ba",k),B.a_,A.fn(a,"01.12.2025 - 05.12.2025",B.aF,j,"noch 10 Pl\xe4tze frei","https://buy.stripe.com/00gdUX3gb28GckE8x1",k),B.a_,B.ayA,A.ep(A.a(["Stabile Internetverbindung (mind. 10 Mbit/s)","Aktuelle Version von Microsoft Teams","Webcam und Mikrofon","Optional: Zweiter Bildschirm","F\xfchrungserfahrung (optional)","Grundlegendes Verst\xe4ndnis von KI (optional)","Strategische Verantwortung im Unternehmen (optional)"],e),"Voraussetzungen"),new A.h_(B.acJ,l,m),A.ep(A.a([u.k,"Umfangreiche digitale Kursmaterialien","Teilnahmezertifikat"],e),"Das ist inklusive"),A.ahb(a),A.ts(a,l),B.a_,A.tp(a,A.a(["generativeKI","aiEngineering"],e)),B.a_],r),B.t,B.f,B.e),m),m)],r),B.t,g,m,B.f,B.e,0,m,m,B.A)],r),B.h,B.f,B.e)},
+return A.H(A.a([new A.f(B.bA,h,m),A.c7(A.a([new A.f(B.dg,new A.a1(f,m,s,m),m),new A.f(B.cW,new A.a1(d,m,A.H(A.a([B.aiA,B.ai9,B.aiB,new A.Li(m),B.aj_,B.ajz,B.aj2,B.ak_,B.aiY,B.iz,B.a_,A.fn(a,"08.09.2025 - 12.09.2025",B.aF,j,"noch 7 Pl\xe4tze frei","https://buy.stripe.com/cN25oreYT4gO3O89Ba",k),B.a_,A.fn(a,"01.12.2025 - 05.12.2025",B.aF,j,"noch 10 Pl\xe4tze frei","https://buy.stripe.com/00gdUX3gb28GckE8x1",k),B.a_,B.ayA,A.ep(A.a(["Stabile Internetverbindung (mind. 10 Mbit/s)","Aktuelle Version von Microsoft Teams","Webcam und Mikrofon","Optional: Zweiter Bildschirm","F\xfchrungserfahrung (optional)","Grundlegendes Verst\xe4ndnis von KI (optional)","Strategische Verantwortung im Unternehmen (optional)"],e),"Voraussetzungen"),new A.h_(B.acJ,l,m),A.ep(A.a([u.k,"Umfangreiche digitale Kursmaterialien","Teilnahmezertifikat"],e),"Das ist inklusive"),A.ahb(a),A.ts(a,l),B.a_,A.tp(a,A.a(["generativeKI","aiEngineering"],e)),B.a_],r),B.t,B.f,B.e),m),m)],r),B.t,g,m,B.f,B.e,0,m,m,B.A)],r),B.h,B.f,B.e)},
 aU6:function aU6(){},
 aU7:function aU7(){},
 aU8:function aU8(){},
@@ -30157,7 +30157,7 @@ return new A.f(B.bF,A.d3(A.bA(s,A.c3(B.a3,A.a([A.as(s,A.H(A.a([B.amR,B.py,B.aj7,
 btb(a){var s=null,r=A.bh(0),q=A.a([new A.cA(5,B.aQ,A.aJ(B.d.al(127.5),B.J.D()>>>16&255,B.J.D()>>>8&255,B.J.D()&255),B.bn,7)],t.E),p=t.p
 return new A.f(B.bF,A.d3(A.bA(s,A.c3(B.a3,A.a([A.as(s,A.H(A.a([B.amJ,B.py,B.aja,A.aB(A.a([A.eD(A.H(A.a([B.px,B.f8,A.aB(A.a([B.dQ,new A.f(B.cA,A.lo("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.t,B.f,B.e),1),new A.f(B.nW,A.ip("assets/images/ai_logo.svg",B.i,s,120,s,s,120),s)],p),B.t,B.aW,B.e,s)],p),B.t,B.f,B.e),B.n,s,s,new A.bi(B.j,s,s,r,q,s,B.R),s,500,s,s,s,s,s,350),B.akU],p),B.E,B.a2),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aW7(a),s,s,s,s,s,s),B.au,s,s,s,s),s)},
 btd(a){var s=null,r=A.bh(0),q=A.a([new A.cA(5,B.aQ,A.aJ(B.d.al(127.5),B.J.D()>>>16&255,B.J.D()>>>8&255,B.J.D()&255),B.bn,7)],t.E),p=t.p
-return new A.f(B.bF,A.d3(A.bA(s,A.c3(B.a3,A.a([A.as(s,A.H(A.a([B.amD,B.py,B.ajN,A.aB(A.a([A.eD(A.H(A.a([B.px,B.f8,A.aB(A.a([B.dQ,new A.f(B.cA,A.lo("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.t,B.f,B.e),1),new A.f(B.nW,A.ip("assets/images/code.svg",B.i,s,100,s,s,100),s)],p),B.t,B.aW,B.e,s)],p),B.t,B.f,B.e),B.n,s,s,new A.bi(B.j,s,s,r,q,s,B.R),s,500,s,s,s,s,s,350),B.akW],p),B.E,B.a2),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aW9(a),s,s,s,s,s,s),B.au,s,s,s,s),s)},
+return new A.f(B.bF,A.d3(A.bA(s,A.c3(B.a3,A.a([A.as(s,A.H(A.a([B.amD,B.py,B.ajO,A.aB(A.a([A.eD(A.H(A.a([B.px,B.f8,A.aB(A.a([B.dQ,new A.f(B.cA,A.lo("DE",24,40),s)],p),B.h,B.f,B.e,s)],p),B.t,B.f,B.e),1),new A.f(B.nW,A.ip("assets/images/code.svg",B.i,s,100,s,s,100),s)],p),B.t,B.aW,B.e,s)],p),B.t,B.f,B.e),B.n,s,s,new A.bi(B.j,s,s,r,q,s,B.R),s,500,s,s,s,s,s,350),B.akW],p),B.E,B.a2),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aW9(a),s,s,s,s,s,s),B.au,s,s,s,s),s)},
 tp(a,b){var s,r=null,q=A.aC(a,r,t.l).w.a.a>1200,p=q?B.x:B.w,o=t.p,n=A.a([],o)
 if(B.b.n(b,"generativeKI")){s=q?350:1/0
 n.push(new A.f(B.N,new A.a1(s,345,A.btc(a),r),r))}if(B.b.n(b,"kistrategie")){s=q?350:1/0
@@ -30254,7 +30254,7 @@ else j=e?14:12
 i=t.p
 j=A.H(A.a([n,A.aB(A.a([m,l,A.t("  ("+k+")",h,h,h,h,A.ak(h,h,B.i,h,h,h,h,h,h,h,h,j,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],i),B.h,B.f,B.e,h),B.at,A.iA(!1,"de",A.a(["NLP Einf\xfchrung","Large Language Models","Vortrainierte Netzwerke","Prompt Engineering","Vektor-Datenbanken","RAG","Agentensysteme"],o),B.bM,!0),B.et],i),B.t,B.f,B.e)
 n=f?800:1/0
-return A.H(A.a([new A.f(B.bA,r,h),A.c7(A.a([new A.f(B.dg,new A.a1(p,h,j,h),h),new A.f(B.cW,new A.a1(n,h,A.H(A.a([B.aiz,B.ajB,B.ai4,B.aiM,B.a_,A.btg(a),B.a_,B.awE,B.at,A.aYs(new A.JK(new A.aTF(g,new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s)),h),h),B.at,A.tp(a,A.a(["generativeKI","aiEngineering"],o)),B.a_],i),B.t,B.f,B.e),h),h)],i),B.t,q,h,B.f,B.e,0,h,h,B.A)],i),B.h,B.f,B.e)},
+return A.H(A.a([new A.f(B.bA,r,h),A.c7(A.a([new A.f(B.dg,new A.a1(p,h,j,h),h),new A.f(B.cW,new A.a1(n,h,A.H(A.a([B.aiz,B.ajC,B.ai4,B.aiM,B.a_,A.btg(a),B.a_,B.awE,B.at,A.aYs(new A.JK(new A.aTF(g,new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s),new A.hy(B.c2,s)),h),h),B.at,A.tp(a,A.a(["generativeKI","aiEngineering"],o)),B.a_],i),B.t,B.f,B.e),h),h)],i),B.t,q,h,B.f,B.e,0,h,h,B.A)],i),B.h,B.f,B.e)},
 aTE:function aTE(){},
 aTF:function aTF(a,b,c,d,e,f,g){var _=this
 _.a=a
@@ -30386,11 +30386,11 @@ aWL:function aWL(a){this.a=a},
 b9v(a){var s=null,r=new A.ll(new A.bW(new A.aO($.ay,t.wC),t.Fe)),q=t.J,p=t.p
 return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/Tokenizer.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gS_(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/Chain_with_loop.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gMY(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/RouterChain.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gRA(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/VectorDB_DataIngestionPipeline.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gSk(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/CosineSimilarity.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gNu(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/RAG_general.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gRf(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/RAG_basedOnVectorDB.png",s,s,300,s,s),B.V,A.t(A.I(a,B.k,q).gRg(),s,s,s,s,B.aD,B.aA,s)],p),B.h,B.f,B.e),s)],p),A.nO(1.7777777777777777,!0,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWC(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWD(r),s,s,s),s,s,s,24,s,s)],p),B.E,B.a2)},
 btf(a){var s=null,r=new A.ll(new A.bW(new A.aO($.ay,t.wC),t.Fe)),q=t.p
-return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_Trainingsprocess.png",s,s,300,s,s),B.V,B.ayO],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_ProjectFaceMask.png",s,s,300,s,s),B.V,B.aAT],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_StyleTransfer.png",s,s,300,s,s),B.V,B.azh],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_AudioClassification.png",s,s,300,s,s),B.V,B.awK],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!0,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWa(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWb(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
+return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_Trainingsprocess.png",s,s,300,s,s),B.V,B.ayP],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_ProjectFaceMask.png",s,s,300,s,s),B.V,B.aAT],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_StyleTransfer.png",s,s,300,s,s),B.V,B.azi],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/AiEng_AudioClassification.png",s,s,300,s,s),B.V,B.awK],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!0,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWa(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWb(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
 b9w(a){var s=null,r=new A.ll(new A.bW(new A.aO($.ay,t.wC),t.Fe)),q=t.p
 return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_grouping.png",s,s,300,s,s),B.V,B.aAr],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_ml.png",s,s,300,s,s),B.V,B.axT],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_pie_analogy.png",s,s,300,s,s),B.V,B.awX],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_best_fit.png",s,s,300,s,s),B.V,B.aAD],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_cross_validation.png",s,s,300,s,s),B.V,B.axG],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_confusion_matrix.png",s,s,300,s,s),B.V,B.aAJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/python_ml_ds_random_forest.png",s,s,300,s,s),B.V,B.ayh],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!0,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWG(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWH(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
 bth(a){var s=null,r=new A.ll(new A.bW(new A.aO($.ay,t.wC),t.Fe)),q=t.p
-return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/graph_rag_sample1.png",s,s,300,s,s),B.V,B.az3],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/graph_rag_sample2.png",s,s,300,s,s),B.V,B.az0],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!1,B.WA,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWE(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWF(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
+return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/graph_rag_sample1.png",s,s,300,s,s),B.V,B.az4],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/graph_rag_sample2.png",s,s,300,s,s),B.V,B.az1],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!1,B.WA,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWE(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWF(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
 btg(a){var s=null,r=new A.ll(new A.bW(new A.aO($.ay,t.wC),t.Fe)),q=t.p
 return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.d3(A.bA(s,A.be("assets/images/genai_book_1.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWo(a),s,s,s,s,s,s),B.au,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_2.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWp(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_3.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWq(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_4.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWu(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_5.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWv(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_6.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWw(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_7.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWx(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_8.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWy(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_9.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWz(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_10.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWA(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_11.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWB(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.bA(s,A.be("assets/images/genai_book_12.jpg",s,s,300,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWr(a),s,s,s,s,s,s),B.V,B.cJ],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!1,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWs(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWt(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
 aWC:function aWC(a){this.a=a},
@@ -30428,7 +30428,7 @@ aWc:function aWc(){},
 aWs:function aWs(a){this.a=a},
 aWt:function aWt(a){this.a=a},
 btk(a){var s=null,r=new A.ll(new A.bW(new A.aO($.ay,t.wC),t.Fe)),q=t.p
-return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_site_layout.png",s,s,300,s,s),B.V,B.azj],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_scada_pc.png",s,s,300,s,s),B.V,B.ax_],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_waked_sectors.png",s,s,300,s,s),B.V,B.awG],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_ws_ti_heatmap.png",s,s,300,s,s),B.V,B.aAp],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!0,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWM(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWN(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
+return A.c3(B.a3,A.a([A.nP(r,A.a([new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_site_layout.png",s,s,300,s,s),B.V,B.azk],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_scada_pc.png",s,s,300,s,s),B.V,B.ax_],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_waked_sectors.png",s,s,300,s,s),B.V,B.awG],q),B.h,B.f,B.e),s),new A.a1(s,400,A.H(A.a([A.be("assets/images/wind_ws_ti_heatmap.png",s,s,300,s,s),B.V,B.aAp],q),B.h,B.f,B.e),s)],q),A.nO(1.7777777777777777,!0,B.cn,!0,!0,0,400,0,!1,1)),A.d9(50,A.e2(s,s,B.eb,s,s,new A.aWM(r),s,s,s),s,s,24,s,s,s),A.d9(50,A.e2(s,s,B.ec,s,s,new A.aWN(r),s,s,s),s,s,s,24,s,s)],q),B.E,B.a2)},
 aWM:function aWM(a){this.a=a},
 aWN:function aWN(a){this.a=a},
 btl(a,b,c){var s=null,r=A.hu(a).mt(A.cj([B.aM,B.bf],t.B))
@@ -31825,7 +31825,7 @@ ZT(a,b){var s=A.a([],t.H9)
 B.b.G(s,a)
 return new A.hs(s,b)},
 b9a(a,b){var s,r,q,p
-if(a==="")return A.ZT(B.a7l,b==null?B.d4:b)
+if(a==="")return A.ZT(B.a7m,b==null?B.d4:b)
 s=new A.aCC(a,B.fd,a.length)
 s.xA()
 r=A.a([],t.H9)
@@ -33717,7 +33717,7 @@ ep(a,b){var s,r,q=null,p=t.p,o=A.a([A.t(b,q,q,q,q,B.ba,q,q),B.at],p)
 for(s=a.length,r=0;r<a.length;a.length===s||(0,A.Q)(a),++r)B.b.G(o,A.a([A.t("\u25aa "+a[r],q,q,q,q,B.z,q,q)],p))
 return new A.f(B.dH,A.H(o,B.t,B.f,B.e),q)},
 kd(a,b,c,d,e,f,g){var s=null,r=b?"e":"",q=A.a([],t.p)
-if(a==="en")q.push(B.ayS)
+if(a==="en")q.push(B.ayT)
 if(a==="de")q.push(A.t("Dein"+r+" Trainer",s,s,s,s,B.fe,s,s))
 if(a==="es")q.push(B.aAA)
 if(f)q.push(B.ahA)
@@ -36983,7 +36983,7 @@ a9o(){var s=this.Q
 s===$&&A.b()
 return s},
 SP(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.a7z
+if(a<0||b<0)return B.a7A
 s=this.a
 s===$&&A.b()
 s=s.a
@@ -40332,7 +40332,7 @@ if(r.f!==B.uE){r.f=B.uE
 r.Zz()}}return r.d.a.aba(a)},
 Zz(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-ab9(a){if(B.b.n(B.a6Z,a))return this.f===B.ke
+ab9(a){if(B.b.n(B.a7_,a))return this.f===B.ke
 return!1}}
 A.anq.prototype={
 $0(){return new A.eO(Date.now(),0,!1)},
@@ -46209,7 +46209,7 @@ if(s==null||s.length<b)s=this.c=new Uint8Array(b)
 return J.ea((s&&B.aa).gbe(s),s.byteOffset,b)}}
 A.aGN.prototype={
 C(a,b){this.BK(0,b,0,J.cl(b),!1)},
-aV(a){this.BK(0,B.a7h,0,0,!0)},
+aV(a){this.BK(0,B.a7i,0,0,!0)},
 eH(a,b,c,d){A.ew(b,c,a.length,null,null)
 this.BK(0,a,b,c,d)}}
 A.aGp.prototype={
@@ -56098,7 +56098,7 @@ air(a){var s,r=this,q=null,p=r.a,o=p.db
 o=o.dy
 s=o
 if(s==null)s=B.lm
-return new A.KR(q,q,q,new A.aMi(),q,q,q,q,q,p.e,p.f,q,q,q,B.a7w,r.gaqA(),p.cx,q,B.aty,s,p.k1,r.gaqt(),q,q,r.a.ok,!1,!1,q,q,q,new A.uM(r,t.bT))},
+return new A.KR(q,q,q,new A.aMi(),q,q,q,q,q,p.e,p.f,q,q,q,B.a7x,r.gaqA(),p.cx,q,B.aty,s,p.k1,r.gaqt(),q,q,r.a.ok,!1,!1,q,q,q,new A.uM(r,t.bT))},
 H(a){var s=null,r=A.oc(!1,!1,this.air(a),s,s,s,s,!0,s,s,s,new A.aMj(),s,s),q=this.a.to,p=this.d
 p===$&&A.b()
 return A.oW(q,new A.uQ(p,r,s))}}
@@ -68005,7 +68005,7 @@ return new A.uN(r.a.dL(s.gkj()),r.b,r.c)},
 eE(a){var s=this.b
 return s.a.c.eE(a.a1(0,s.gkj()))},
 yl(){var s,r,q=this.b,p=q.gkj()
-if(!isFinite(p.a)||!isFinite(p.b))return B.a7j
+if(!isFinite(p.a)||!isFinite(p.b))return B.a7k
 s=q.f
 if(s==null){s=q.a.c.yl()
 q.f=s}if(p.k(0,B.q))r=s
@@ -77175,7 +77175,7 @@ break
 case 1:return A.N(q,r)}})
 return A.O($async$K7,r)},
 alx(a,b){var s,r,q,p
-if(a===b)return B.a7v
+if(a===b)return B.a7w
 s=A.a([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.cL(B.ig,a)
@@ -79098,7 +79098,7 @@ A.oO.prototype={}
 A.a_i.prototype={
 nY(a,b,c){var s,r,q,p,o,n=$.ax.aR$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.vz,r=0;r<2;++r){q=B.a73[r]
+for(s=t.vz,r=0;r<2;++r){q=B.a74[r]
 p=n.e
 p.toString
 o=A.aXv(p,q,s)
@@ -81441,7 +81441,7 @@ h.LW()
 r=h.gamm()
 q=q.pj
 h.e!==$&&A.b1()
-h.e=new A.a0Y(s,new A.dc(B.acH,l),new A.vd(),p,B.dT,0,k,h.gaoF(),h.gaoH(),r,B.dT,0,j,h.gaoz(),h.gaoB(),r,i,B.a7s,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.SO(),new A.SO())
+h.e=new A.a0Y(s,new A.dc(B.acH,l),new A.vd(),p,B.dT,0,k,h.gaoF(),h.gaoH(),r,B.dT,0,j,h.gaoz(),h.gaoB(),r,i,B.a7t,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.SO(),new A.SO())
 return h},
 C7(a,b){var s,r,q,p=this,o=p.a.c,n=o.a.a.length
 if(n<a.b||n<a.a)return
@@ -84958,7 +84958,7 @@ if(b==null)return!1
 if(J.a9(b)!==A.D(s))return!1
 return b instanceof A.bU&&b.a===s.a&&b.b===s.b&&b.c==s.c&&b.d===s.d&&A.dB(null,null)},
 gu(a){var s=this
-return A.S(s.a,s.b,s.c,s.d,A.bs(B.a7i),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+return A.S(s.a,s.b,s.c,s.d,A.bs(B.a7j),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 j(a){return"IconData(U+"+B.c.o3(B.l.j7(this.a,16).toUpperCase(),5,"0")+")"}}
 A.uU.prototype={
 dg(a){return!this.w.k(0,a.w)},
@@ -86024,7 +86024,7 @@ g=s&&d
 b=s?d:b.ch
 if(b==null)b=B.h4
 s=s&&d
-f=new A.GV(a1,a,q,p,l,o,n,a0,g===!0,m,k,h,c,j,i,b,new A.yx(d),B.a7q,s===!0)
+f=new A.GV(a1,a,q,p,l,o,n,a0,g===!0,m,k,h,c,j,i,b,new A.yx(d),B.a7r,s===!0)
 if(!f.k(0,e.e))e.a0(new A.aMB(e,f))},
 Et(){this.xI()},
 a4p(){if(this.d==null)this.xI()},
@@ -86356,7 +86356,7 @@ r.G(0,s.a80(null,l))
 l.a.toString
 q=r.a
 p=0
-for(;!1;++p){o=B.a7x[p]
+for(;!1;++p){o=B.a7y[p]
 n=l.c
 n.toString
 m=new A.ka(o.Ny(n),null,!0,B.r_,B.dB,new A.xn(new ($.ahv())(B.dB)),B.dB)
@@ -86712,7 +86712,7 @@ H(a){var s,r,q=this,p=null,o=q.gaod(),n=A.ql(a),m=q.cq$,l=q.d
 l===$&&A.b()
 s=q.a.ax
 if(l.gT()==null){r=q.gVf()
-r=J.qz(r.slice(0),A.a8(r).c)}else r=B.a7y
+r=J.qz(r.slice(0),A.a8(r).c)}else r=B.a7z
 return new A.uQ(p,new A.e5(new A.avA(q,a),A.Gw(B.di,new A.QN(!1,A.aYn(A.oc(!0,p,A.KH(m,new A.zJ(r,s,l)),p,p,p,q.y,!1,p,p,p,p,p,!0),n),p),o,q.gao4(),p,p,o),p,t.w3),p)}}
 A.avz.prototype={
 $1(a){var s=this.a.c
@@ -92154,7 +92154,7 @@ r.Dj()
 return s.bd()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gK9(),p=0;p<s.length;s.length===r||(0,A.Q)(s),++p)s[p].N(0,q)
-o.b=B.a7u
+o.b=B.a7v
 o.y=!1
 o.en()},
 fz(a,b){return a.pb(b)},
@@ -101473,7 +101473,7 @@ if(a.ghb(0)==="\x00"){a.c="\ufffd"
 a.b=null}else{s=this.a
 if(s.z&&!A.b_p(a.ghb(0)))s.z=!1}return this.adp(a)},
 cm(a){var s,r,q,p=this,o=p.b,n=o.c,m=B.b.gJ(n)
-if(!B.b.n(B.a6R,a.b))if(a.b==="font")s=a.e.an(0,"color")||a.e.an(0,"face")||a.e.an(0,"size")
+if(!B.b.n(B.a6S,a.b))if(a.b==="font")s=a.e.an(0,"color")||a.e.an(0,"face")||a.e.an(0,"size")
 else s=!1
 else s=!0
 if(s){s=p.a
@@ -103953,7 +103953,7 @@ if(s===b)return!0
 else if(b instanceof A.IS)return B.a_n.iS(s.a,b.a)&&s.b===b.b&&s.c===b.c&&s.d===b.d&&s.e===b.e&&s.f===b.f&&s.r===b.r
 else return!1},
 gu(a){var s=this,r=s.a
-return(2815139460^A.S(A.bs(r==null?B.a7p:r),s.d,s.e,s.f,s.b,s.r,s.c,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a))>>>0}}
+return(2815139460^A.S(A.bs(r==null?B.a7q:r),s.d,s.e,s.f,s.b,s.r,s.c,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a))>>>0}}
 A.a0z.prototype={
 QK(a,b){var s=null,r=new A.aO8(a,s,A.a([],t.HZ),new A.Nz(s,b,s)),q=this.a6B(r)
 r.x!==$&&A.b1()
@@ -104188,7 +104188,7 @@ i.a=b1+1
 b2=A.b4A(d,c,b0,h[b1],g)}else b2=c3
 c4=q.Q2(c4,b2,(e&254)===140);++c2.db
 c4=c2.GP(c4);--c2.db}else if(e===146){b3=s.a7v()
-b4=B.a6X[b3&15]
+b4=B.a6Y[b3&15]
 d=B.l.bT(b3,4)
 c=B.l.bT(b3,5)
 c4=c2.Tc(c4,b4,(B.l.bT(b3,6)&1)===1,(d&1)===1,(c&1)===1)}else if(e===147)q.nM$=new A.IT(c3,0,0,B.pA,A.a([],p),A.a([],o))
@@ -105905,8 +105905,8 @@ n=A.p8(B.d8,B.cK,new A.f(B.co,A.t(A.I(l,B.k,p).gEn(),i,i,i,i,B.ah,i,i),i),n,!1,!
 l=A.on(B.j,new A.kv(B.kg,B.i,40))
 k=j.c
 k.toString
-r=new A.f(B.aS,A.H(A.a([B.bB,B.ayW,B.V,B.ay7,B.V,B.ayD,B.bB,B.azO,B.V,B.ayj,B.bB,B.ayi,B.V,B.aAI,B.iS,new A.a1(a0,i,new A.f(B.o,s,i),i),B.bB,B.aA1,A.aB(A.a([new A.f(B.jX,new A.a1(1100,150,A.c7(A.a([q,B.bB,o,m,n,A.p8(B.d8,B.cK,new A.f(B.c9,A.t(A.I(k,B.k,p).gE3(),i,i,i,i,B.ah,i,i),i),l,!1,!0,B.az8)],a4),B.h,r,i,B.f,B.e,0,i,i,B.A),i),i)],a4),B.h,B.ac,B.e,i)],a4),B.t,B.f,B.e),i)
-a0=r}else if(s==="Jesko Rehberg")a0=B.ajv
+r=new A.f(B.aS,A.H(A.a([B.bB,B.ayX,B.V,B.ay7,B.V,B.ayD,B.bB,B.azO,B.V,B.ayj,B.bB,B.ayi,B.V,B.aAI,B.iS,new A.a1(a0,i,new A.f(B.o,s,i),i),B.bB,B.aA1,A.aB(A.a([new A.f(B.jX,new A.a1(1100,150,A.c7(A.a([q,B.bB,o,m,n,A.p8(B.d8,B.cK,new A.f(B.c9,A.t(A.I(k,B.k,p).gE3(),i,i,i,i,B.ah,i,i),i),l,!1,!0,B.az9)],a4),B.h,r,i,B.f,B.e,0,i,i,B.A),i),i)],a4),B.h,B.ac,B.e,i)],a4),B.t,B.f,B.e),i)
+a0=r}else if(s==="Jesko Rehberg")a0=B.ajw
 else a0=s==="Jens Henneberg"?B.ai8:B.ajp
 return A.dS(a2,B.j,A.dI(A.bO(A.as(i,A.H(A.a([B.bB,B.azT,B.MN,a5,B.MN,a0,A.fQ(a6,A.dH(i,i))],a4),B.t,B.f,B.e),B.n,i,i,i,i,i,i,i,B.dI,i,i,a3),i,i),i,B.v,i,i,B.w),i,i,i)}}
 A.aFI.prototype={
@@ -105979,7 +105979,7 @@ a3=a9?50:100
 a3=A.ip("assets/images/badge.svg",a6,B.o_,a9?50:100,a6,a6,a3)
 a4=A.t("Bert Gollnick",a6,a6,a6,a6,A.ak(a6,a6,B.y,a6,a6,a6,a6,a6,"DancingScript",a6,a6,a9?18:36,a6,a6,B.a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6)
 a5=A.as(a6,a6,B.n,B.y,a6,a6,a6,2,a6,a6,a6,a6,a6,a9?100:200)
-return A.dS(s,B.j,A.dI(A.bO(A.c3(B.a0,A.a([new A.f(B.Xc,A.as(B.a0,new A.f(B.fE,A.H(A.a([A.c3(B.mH,A.a([j,new A.f(new A.ad(0,i,0,0),new A.S3(g,h,a6),a6),new A.f(new A.ad(0,f,0,0),e,a6),new A.f(new A.ad(0,d,0,0),c,a6),new A.f(new A.ad(0,b,0,0),a,a6),new A.f(new A.ad(0,a0,0,0),A.aB(A.a([a2,a3,A.H(A.a([a4,a5,A.t("Bert Gollnick, Dozent",a6,a6,a6,a6,A.ak(a6,a6,B.y,a6,a6,a6,a6,a6,a8,a6,a6,a9?10:20,a6,a6,B.a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6)],a1),B.h,B.f,B.e)],a1),B.h,B.ac,B.e,a6),a6)],a1),B.E,B.a2)],a1),B.h,B.ac,B.e),a6),B.n,a6,new A.ar(0,o,m,n),new A.bi(B.bi,a6,l,k,B.a7d,a6,B.R),a6,a6,a6,a6,a6,a6,a6,a6),a6)],a1),B.E,B.a2),a6,a6),a6,B.v,a6,a6,B.w),a6,a6,a6)}}
+return A.dS(s,B.j,A.dI(A.bO(A.c3(B.a0,A.a([new A.f(B.Xc,A.as(B.a0,new A.f(B.fE,A.H(A.a([A.c3(B.mH,A.a([j,new A.f(new A.ad(0,i,0,0),new A.S3(g,h,a6),a6),new A.f(new A.ad(0,f,0,0),e,a6),new A.f(new A.ad(0,d,0,0),c,a6),new A.f(new A.ad(0,b,0,0),a,a6),new A.f(new A.ad(0,a0,0,0),A.aB(A.a([a2,a3,A.H(A.a([a4,a5,A.t("Bert Gollnick, Dozent",a6,a6,a6,a6,A.ak(a6,a6,B.y,a6,a6,a6,a6,a6,a8,a6,a6,a9?10:20,a6,a6,B.a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6)],a1),B.h,B.f,B.e)],a1),B.h,B.ac,B.e,a6),a6)],a1),B.E,B.a2)],a1),B.h,B.ac,B.e),a6),B.n,a6,new A.ar(0,o,m,n),new A.bi(B.bi,a6,l,k,B.a7e,a6,B.R),a6,a6,a6,a6,a6,a6,a6,a6),a6)],a1),B.E,B.a2),a6,a6),a6,B.v,a6,a6,B.w),a6,a6,a6)}}
 A.ajB.prototype={
 $1(a){return J.e(J.bl(a,"id"),this.a.c)},
 $S:609}
@@ -106186,7 +106186,7 @@ if(i)f=24
 else f=20
 f=A.H(A.a([g,B.q1,A.aB(A.a([A.t("Preis: auf Anfrage",e,e,e,e,A.ak(e,e,B.i,e,e,e,e,e,e,e,e,f,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],n),B.h,B.f,B.e,e),B.at,A.kd(d,!0,!1,!1,!0,!1,!1),B.at,A.iA(!1,d,A.a(["SQL","Git","Python","R","PyTorch","Flutter","Generative AI"],h),B.bM,!0),B.et],n),B.t,B.f,B.e)
 g=i?800:1/0
-return new A.uh(2,A.dS(s,B.j,A.dI(A.H(A.a([A.bO(new A.a1(q,e,A.H(A.a([new A.f(B.bA,p,e),new A.K1(o,B.aq,B.aq,B.i,e),B.at,m,B.at,new A.a1(e,k.a.b,new A.K2(A.a([j,A.dI(A.H(A.a([A.bO(A.as(e,A.H(A.a([A.c7(A.a([new A.f(B.dg,new A.a1(l,e,f,e),e),new A.f(B.cW,new A.a1(g,e,A.H(A.a([B.awV,B.ait,B.aia,B.ajD,B.at,A.bO(new A.K9(i,!1,e),e,e),new A.h_(B.adt,d,e),A.ep(A.a([u.H,"S\xe4mtliche Pr\xe4sentationen","Gutscheine f\xfcr meine Online-Kurse","Teilnahmezertifikate"],h),"Das ist inklusive"),A.ts(a,d),B.a_,A.tp(a,A.a(["generativeKI","aiEngineering"],h)),B.a_],n),B.t,B.f,B.e),e),e)],n),B.t,r,e,B.f,B.e,0,e,e,B.A)],n),B.h,B.f,B.e),B.n,e,e,B.bD,e,e,e,e,e,e,e,c),e,e),A.fQ(a,A.dH(e,e))],n),B.h,B.f,B.e),e,B.v,e,e,B.w)],n),e),e)],n),B.h,B.f,B.e),e),e,e)],n),B.h,B.f,B.e),e,B.v,e,e,B.w),e,e,e),e)},
+return new A.uh(2,A.dS(s,B.j,A.dI(A.H(A.a([A.bO(new A.a1(q,e,A.H(A.a([new A.f(B.bA,p,e),new A.K1(o,B.aq,B.aq,B.i,e),B.at,m,B.at,new A.a1(e,k.a.b,new A.K2(A.a([j,A.dI(A.H(A.a([A.bO(A.as(e,A.H(A.a([A.c7(A.a([new A.f(B.dg,new A.a1(l,e,f,e),e),new A.f(B.cW,new A.a1(g,e,A.H(A.a([B.awV,B.ait,B.aia,B.ajE,B.at,A.bO(new A.K9(i,!1,e),e,e),new A.h_(B.adt,d,e),A.ep(A.a([u.H,"S\xe4mtliche Pr\xe4sentationen","Gutscheine f\xfcr meine Online-Kurse","Teilnahmezertifikate"],h),"Das ist inklusive"),A.ts(a,d),B.a_,A.tp(a,A.a(["generativeKI","aiEngineering"],h)),B.a_],n),B.t,B.f,B.e),e),e)],n),B.t,r,e,B.f,B.e,0,e,e,B.A)],n),B.h,B.f,B.e),B.n,e,e,B.bD,e,e,e,e,e,e,e,c),e,e),A.fQ(a,A.dH(e,e))],n),B.h,B.f,B.e),e,B.v,e,e,B.w)],n),e),e)],n),B.h,B.f,B.e),e),e,e)],n),B.h,B.f,B.e),e,B.v,e,e,B.w),e,e,e),e)},
 $C:"$3",
 $R:3,
 $S:612}
@@ -106341,7 +106341,7 @@ o=f?800:1/0
 l=f?50:150
 k=A.bh(0)
 j=f?B.x:B.w
-return A.dS(h,B.j,A.dI(A.H(A.a([A.bO(A.as(i,A.H(A.a([new A.f(B.N,s,i),A.c7(A.a([new A.f(B.e9,new A.a1(q,i,n,i),i),new A.f(B.dJ,new A.a1(o,i,A.H(A.a([B.GV,B.aju,B.ajw,B.aiD,A.as(i,A.c7(A.a([B.aj1,B.lB,B.bx,A.bsX(a)],m),B.h,j,i,B.f,B.e,0,i,i,B.A),B.n,i,i,new A.bi(i,i,i,k,i,i,B.R),i,l,i,i,i,i,i,i),A.ep(A.a(["Basic programming skills in Python",u.W,"Interest in new technologies","High motivation"],p),"Requirements"),A.b9v(a),new A.h_(B.adw,"de",i),A.ep(A.a(["40 teaching units with high-quality content","All code scripts","All presentations","Vouchers for my AI courses (PyTorch Ultimate, Applied Generative AI) with more than 30h of video material","Certificate of participation"],p),"This is included"),B.aiS,B.ax5,A.bO(A.aB(A.a([new A.f(B.c8,A.bsa(a),i),new A.f(B.fE,new A.f(B.aS,A.ur(B.uX,B.H0,A.bqG(),A.dW(i,i,i,new A.aI(B.i,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aI(new A.bR(A.bh(30),B.B),t.v),i,i,i,i,i,i)),i),i)],m),B.h,B.f,B.e,i),i,i)],m),B.t,B.f,B.e),i),i)],m),B.t,r,i,B.f,B.e,0,i,i,B.A)],m),B.h,B.f,B.e),B.n,i,i,B.bD,i,i,i,i,i,i,i,g),i,i),A.fQ(a,A.dH(i,i))],m),B.h,B.f,B.e),i,B.v,i,i,B.w),i,i,i)},
+return A.dS(h,B.j,A.dI(A.H(A.a([A.bO(A.as(i,A.H(A.a([new A.f(B.N,s,i),A.c7(A.a([new A.f(B.e9,new A.a1(q,i,n,i),i),new A.f(B.dJ,new A.a1(o,i,A.H(A.a([B.GV,B.ajv,B.ajx,B.aiD,A.as(i,A.c7(A.a([B.aj1,B.lB,B.bx,A.bsX(a)],m),B.h,j,i,B.f,B.e,0,i,i,B.A),B.n,i,i,new A.bi(i,i,i,k,i,i,B.R),i,l,i,i,i,i,i,i),A.ep(A.a(["Basic programming skills in Python",u.W,"Interest in new technologies","High motivation"],p),"Requirements"),A.b9v(a),new A.h_(B.adw,"de",i),A.ep(A.a(["40 teaching units with high-quality content","All code scripts","All presentations","Vouchers for my AI courses (PyTorch Ultimate, Applied Generative AI) with more than 30h of video material","Certificate of participation"],p),"This is included"),B.aiS,B.ax5,A.bO(A.aB(A.a([new A.f(B.c8,A.bsa(a),i),new A.f(B.fE,new A.f(B.aS,A.ur(B.uX,B.H0,A.bqG(),A.dW(i,i,i,new A.aI(B.i,t.R),i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aI(new A.bR(A.bh(30),B.B),t.v),i,i,i,i,i,i)),i),i)],m),B.h,B.f,B.e,i),i,i)],m),B.t,B.f,B.e),i),i)],m),B.t,r,i,B.f,B.e,0,i,i,B.A)],m),B.h,B.f,B.e),B.n,i,i,B.bD,i,i,i,i,i,i,i,g),i,i),A.fQ(a,A.dH(i,i))],m),B.h,B.f,B.e),i,B.v,i,i,B.w),i,i,i)},
 $C:"$3",
 $R:3,
 $S:17}
@@ -106617,7 +106617,7 @@ j=A.bh(0)
 k=A.as(g,A.c7(B.a8I,B.h,d?B.x:B.w,g,B.f,B.e,0,g,g,B.A),B.n,g,g,new A.bi(g,g,g,j,g,g,B.R),g,k,g,g,g,g,g,g)
 j=d?50:150
 i=A.bh(0)
-j=A.as(g,A.c7(B.a77,B.h,d?B.x:B.w,g,B.f,B.e,0,g,g,B.A),B.n,g,g,new A.bi(g,g,g,i,g,g,B.R),g,j,g,g,g,g,g,g)
+j=A.as(g,A.c7(B.a78,B.h,d?B.x:B.w,g,B.f,B.e,0,g,g,B.A),B.n,g,g,new A.bi(g,g,g,i,g,g,B.R),g,j,g,g,g,g,g,g)
 i=d?50:150
 h=A.bh(0)
 return A.dS(f,B.j,A.dI(A.H(A.a([A.bO(A.as(g,A.H(A.a([new A.f(B.N,s,g),A.c7(A.a([new A.f(B.e9,new A.a1(q,g,n,g),g),new A.f(B.dJ,new A.a1(o,g,A.H(A.a([B.ajc,B.ahQ,B.ahF,B.H6,l,B.H2,B.GU,new A.Lh(g),B.iz,k,j,A.as(g,A.c7(B.a5b,B.h,d?B.x:B.w,g,B.f,B.e,0,g,g,B.A),B.n,g,g,new A.bi(g,g,g,h,g,g,B.R),g,i,g,g,g,g,g,g),A.ep(A.a([u.v,u.r,"Interesse an neuen Technologien","hohe Motivation"],p),"Voraussetzungen"),new A.h_(B.acL,"de",g),A.ep(A.a([u.m,"Alle Code-Skripte","S\xe4mtliche Pr\xe4sentationen",u.u,"Teilnahmezertifikat"],p),"Das ist inklusive"),B.GT,B.NF,B.a_,A.bO(A.aB(A.a([new A.f(B.fE,new A.f(B.jY,A.c3(B.a3,A.a([A.id(!1,B.GZ,g,g,g,g,g,g,A.bqH(),g,A.dW(g,g,g,new A.aI(B.i,t.R),g,g,g,g,g,g,g,g,g,g,g,g,g,g,new A.aI(new A.bR(A.bh(0),B.B),t.v),g,g,g,g,g,g)),B.lH],m),B.n,B.a2),g),g),new A.f(B.c8,A.bsc(a),g)],m),B.h,B.f,B.e,g),g,g),B.a_],m),B.t,B.f,B.e),g),g)],m),B.t,r,g,B.f,B.e,0,g,g,B.A)],m),B.h,B.f,B.e),B.n,g,g,B.bD,g,g,g,g,g,g,g,e),g,g),A.fQ(a,A.dH(g,g))],m),B.h,B.f,B.e),g,B.v,g,g,B.w),g,g,g)},
@@ -106660,7 +106660,7 @@ a=r.z
 s=a?new A.aI(B.aq,b):new A.aI(B.S,b)
 a=A.aB(A.a([A.xW(q,!1,q,s,q,!1,q,q,new A.aGj(r),q,q,new A.bR(A.bh(50),B.B),q,q,!1,a),A.t("Generative KI mit Python (AZAV, Bildungsgutschein)",q,q,q,q,o,q,q)],k),B.h,B.f,B.e,q)
 s=A.aB(A.a([A.xW(q,!1,q,q,q,!1,q,q,new A.aGk(r),q,q,q,q,q,!1,r.d),B.XI],k),B.h,B.f,B.e,q)
-return A.dS(n,q,A.dI(A.bO(A.as(q,A.aYs(A.H(A.a([B.azo,new A.f(B.o,m,q),new A.f(B.o,l,q),j,i,h,new A.f(B.o,g,q),new A.f(B.o,f,q),new A.f(B.o,e,q),new A.f(B.o,d,q),c,new A.f(B.a9,a,q),s,A.aB(A.a([new A.f(B.o,A.id(!1,B.az_,q,q,q,q,q,q,new A.aGl(r,a0),q,A.dW(q,q,q,r.d?new A.aI(B.aF,b):new A.aI(B.fY,b),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q)],k),B.h,B.ac,B.e,q)],k),B.t,B.f,B.e),r.x),B.n,q,B.jm,q,q,q,q,q,B.dI,q,q,1/0),q,q),q,B.v,q,q,B.w),q,q,q)}}
+return A.dS(n,q,A.dI(A.bO(A.as(q,A.aYs(A.H(A.a([B.azp,new A.f(B.o,m,q),new A.f(B.o,l,q),j,i,h,new A.f(B.o,g,q),new A.f(B.o,f,q),new A.f(B.o,e,q),new A.f(B.o,d,q),c,new A.f(B.a9,a,q),s,A.aB(A.a([new A.f(B.o,A.id(!1,B.az0,q,q,q,q,q,q,new A.aGl(r,a0),q,A.dW(q,q,q,r.d?new A.aI(B.aF,b):new A.aI(B.fY,b),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q)],k),B.h,B.ac,B.e,q)],k),B.t,B.f,B.e),r.x),B.n,q,B.jm,q,q,q,q,q,B.dI,q,q,1/0),q,q),q,B.v,q,q,B.w),q,q,q)}}
 A.aGd.prototype={
 $0(){return A.mh("mailto:info@gollnickdata.de")},
 $S:0}
@@ -106844,7 +106844,7 @@ A.aNW.prototype={
 $0(){},
 $S:0}
 A.aNF.prototype={
-$3(b2,b3,b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=1000,d=A.aC(b2,f,t.l).w.a.a>1200,c=b3.jz($.pL(),t.kf).f,b=t.J,a=A.ld(!0,f,f,f,B.oj,f,f,A.t(A.I(b2,B.k,b).gAQ(),f,f,f,f,B.Nn,f,f)),a0=d?1200:360,a1=d?B.x:B.w,a2=d?B.h:B.t,a3=d?300:1/0,a4=this.a,a5=t.p,a6=A.H(A.a([B.ajH,B.amz,B.ajt,B.aix,B.aii,new A.f(B.df,a4.aHq(c,A.a(["Python","R","SQL","Git","PyTorch","GenAI","RAG","Deployment","App-Feasibility","Career Development"],t.s)),f)],a5),B.t,B.f,B.e),a7=d?800:1/0,a8=A.t(A.I(b2,B.k,b).gQp(),f,f,f,f,B.asn,f,f),a9=A.aVM(d?1/0:370),b0=A.d0(0,e),b1=a4.d?1:0
+$3(b2,b3,b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=1000,d=A.aC(b2,f,t.l).w.a.a>1200,c=b3.jz($.pL(),t.kf).f,b=t.J,a=A.ld(!0,f,f,f,B.oj,f,f,A.t(A.I(b2,B.k,b).gAQ(),f,f,f,f,B.Nn,f,f)),a0=d?1200:360,a1=d?B.x:B.w,a2=d?B.h:B.t,a3=d?300:1/0,a4=this.a,a5=t.p,a6=A.H(A.a([B.ajI,B.amz,B.ajt,B.aix,B.aii,new A.f(B.df,a4.aHq(c,A.a(["Python","R","SQL","Git","PyTorch","GenAI","RAG","Deployment","App-Feasibility","Career Development"],t.s)),f)],a5),B.t,B.f,B.e),a7=d?800:1/0,a8=A.t(A.I(b2,B.k,b).gQp(),f,f,f,f,B.asn,f,f),a9=A.aVM(d?1/0:370),b0=A.d0(0,e),b1=a4.d?1:0
 b1=A.eb(new A.f(B.fC,A.t(A.I(b2,B.k,b).gQz(),f,f,f,f,B.Ns,f,f),f),B.Y,b0,b1)
 b0=A.d0(0,e)
 s=a4.d?1:0
@@ -107356,7 +107356,7 @@ $0(){A.el(this.a,B.a3s[this.b],t.X)},
 $S:0}
 A.aUh.prototype={
 $2(a,b){var s=null,r=A.bh(0),q=B.oP[b],p=A.a([new A.cA(5,B.aQ,B.J.H4(0.5),B.bn,7)],t.E),o=t.p
-p=A.as(s,A.H(A.a([A.aB(A.a([new A.f(B.o,A.t(this.a[b],s,s,s,s,A.ak(s,s,B.a3T[b],s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],o),B.h,B.f,B.e,s),A.aB(A.a([A.eD(new A.f(B.o,A.t(this.b[b],s,s,s,!0,B.hp,s,s),s),1),B.bx,A.ip("assets/images/graph.svg",s,s,50,s,s,50),B.bx],o),B.h,B.f,B.e,s),B.ajF,B.f8,A.aB(A.a([B.dQ,new A.f(B.cA,A.lo(B.ot[b],24,40),s)],o),B.h,B.f,B.e,s)],o),B.t,B.f,B.e),B.n,s,s,new A.bi(q,s,s,r,p,s,B.R),s,500,s,s,s,s,s,350)
+p=A.as(s,A.H(A.a([A.aB(A.a([new A.f(B.o,A.t(this.a[b],s,s,s,s,A.ak(s,s,B.a3T[b],s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],o),B.h,B.f,B.e,s),A.aB(A.a([A.eD(new A.f(B.o,A.t(this.b[b],s,s,s,!0,B.hp,s,s),s),1),B.bx,A.ip("assets/images/graph.svg",s,s,50,s,s,50),B.bx],o),B.h,B.f,B.e,s),B.ajG,B.f8,A.aB(A.a([B.dQ,new A.f(B.cA,A.lo(B.ot[b],24,40),s)],o),B.h,B.f,B.e,s)],o),B.t,B.f,B.e),B.n,s,s,new A.bi(q,s,s,r,p,s,B.R),s,500,s,s,s,s,s,350)
 r=A.HK(B.aaI[b],B.de,A.t(B.a51[b],s,s,s,s,B.cI,s,s))
 return new A.f(B.bF,A.d3(A.bA(s,A.c3(B.a3,A.a([p,r],o),B.E,B.a2),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aUg(a,b),s,s,s,s,s,s),B.au,s,s,s,s),s)},
 $S:39}
@@ -107370,7 +107370,7 @@ q=A.HK(B.wq[b],B.de,A.t(B.a2p[b],s,s,s,s,B.cI,s,s))
 return new A.f(B.bF,A.d3(A.bA(s,A.c3(B.a3,A.a([r,q],o),B.E,B.a2),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTG(a,b),s,s,s,s,s,s),B.au,s,s,s,s),s)},
 $S:39}
 A.aTG.prototype={
-$0(){A.el(this.a,B.a6N[this.b],t.X)},
+$0(){A.el(this.a,B.a6O[this.b],t.X)},
 $S:0}
 A.aUf.prototype={
 $2(a,b){var s=null,r=B.oP[b],q=A.bh(0),p=A.a([new A.cA(2,B.aQ,A.aJ(B.d.al(127.5),B.J.D()>>>16&255,B.J.D()>>>8&255,B.J.D()&255),B.bn,5)],t.E),o=t.p,n=A.H(A.a([A.t(this.a[b],s,s,s,s,A.ak(s,s,B.vk[b],s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.f(B.o,A.bO(A.be("assets/images/GenAiCourse_Logo.png",s,s,135,s,s),s,s),s),B.at,B.q1,A.t(this.b[b],s,s,s,s,A.ak(s,s,B.vk[b],s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.aB(A.a([B.dQ,new A.f(B.cA,A.lo(B.a2x[b],24,40),s)],o),B.h,B.f,B.e,s)],o),B.e4,B.f,B.e),m=A.as(s,s,B.n,s,s,s,s,s,s,s,s,s,s,s)
@@ -107455,7 +107455,7 @@ $0(){return A.RY()},
 $S:73}
 A.aTF.prototype={
 $2(a,b){var s=this,r=null,q=s.b,p=s.c,o=t.p,n=s.d,m=s.e,l=s.f,k=s.r,j=s.a
-return A.H(A.a([A.aB(A.a([A.eD(new A.f(B.o,A.k1(q,B.ZO,r),r),1),A.eD(new A.f(B.o,A.k1(p,B.ZS,r),r),1)],o),B.h,B.f,B.e,r),new A.f(B.o,A.k1(n,B.ZT,r),r),A.aB(A.a([A.eD(new A.f(B.o,A.k1(m,B.ZR,r),r),1),A.eD(new A.f(B.o,A.k1(l,B.ZQ,r),r),2)],o),B.h,B.f,B.e,r),new A.f(B.o,A.k1(k,B.ol,r),r),new A.f(B.o,new A.DS(j.a,new A.aTC(j,b),B.azb,B.op,r),r),new A.f(B.o,A.id(!1,B.ajb,r,r,r,r,r,r,new A.aTD(j,q,p,n,m,l,k,a),r,A.dW(r,r,r,new A.aI(B.i,t.R),r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aI(new A.bR(A.bh(4),B.B),t.v),r,r,r,r,r,r)),r)],o),B.h,B.f,B.e)},
+return A.H(A.a([A.aB(A.a([A.eD(new A.f(B.o,A.k1(q,B.ZO,r),r),1),A.eD(new A.f(B.o,A.k1(p,B.ZS,r),r),1)],o),B.h,B.f,B.e,r),new A.f(B.o,A.k1(n,B.ZT,r),r),A.aB(A.a([A.eD(new A.f(B.o,A.k1(m,B.ZR,r),r),1),A.eD(new A.f(B.o,A.k1(l,B.ZQ,r),r),2)],o),B.h,B.f,B.e,r),new A.f(B.o,A.k1(k,B.ol,r),r),new A.f(B.o,new A.DS(j.a,new A.aTC(j,b),B.azc,B.op,r),r),new A.f(B.o,A.id(!1,B.ajb,r,r,r,r,r,r,new A.aTD(j,q,p,n,m,l,k,a),r,A.dW(r,r,r,new A.aI(B.i,t.R),r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aI(new A.bR(A.bh(4),B.B),t.v),r,r,r,r,r,r)),r)],o),B.h,B.f,B.e)},
 $S:621}
 A.aTC.prototype={
 $1(a){this.b.$1(new A.aTB(this.a,a))},
@@ -107477,7 +107477,7 @@ $S:0}
 A.aVc.prototype={
 $1(a){var s=null,r=this.a,q=t.p
 r=A.aB(A.a([A.t(A.I(r,B.k,t.J).gFp(),s,s,s,s,B.ah,s,s),A.bA(s,B.ok,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aVb(r),s,s,s,s,s,s)],q),B.h,B.aW,B.e,s)
-return A.aXx(new A.a1(s,350,A.H(A.a([B.ayw,B.axl,B.NJ,B.awy,B.NO,B.ay2,B.azW,B.ay9,A.bA(s,B.Nx,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.brI(),s,s,s,s,s,s),B.NM,B.azF,B.at,B.awP,B.aza,B.azk,B.axR],q),B.t,B.f,B.e),s),B.dz,r)},
+return A.aXx(new A.a1(s,350,A.H(A.a([B.ayw,B.axl,B.NJ,B.awy,B.NO,B.ay2,B.azW,B.ay9,A.bA(s,B.Nx,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.brI(),s,s,s,s,s,s),B.NM,B.azF,B.at,B.awP,B.azb,B.azl,B.axR],q),B.t,B.f,B.e),s),B.dz,r)},
 $S:124}
 A.aVb.prototype={
 $0(){A.hr(this.a,!1).fi()},
@@ -107552,7 +107552,7 @@ A.aVT.prototype={
 $1(a){var s,r=null,q=this.a,p=t.p
 q=A.aB(A.a([A.t(A.I(q,B.k,t.J).gGo(),r,r,r,r,B.j1,r,r),A.bA(r,B.ok,B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aVS(q),r,r,r,r,r,r)],p),B.h,B.aW,B.e,r)
 s=this.b?800:360
-return A.aXx(new A.a1(s,300,A.H(A.a([B.awJ,B.V,B.ayI,B.NJ,B.az2,B.NO,B.awA,A.bA(r,B.Nx,B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,A.bsU(),r,r,r,r,r,r),B.NM],p),B.t,B.f,B.e),r),B.dz,q)},
+return A.aXx(new A.a1(s,300,A.H(A.a([B.awJ,B.V,B.ayI,B.NJ,B.az3,B.NO,B.awA,A.bA(r,B.Nx,B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,A.bsU(),r,r,r,r,r,r),B.NM],p),B.t,B.f,B.e),r),B.dz,q)},
 $S:124}
 A.aVS.prototype={
 $0(){A.hr(this.a,!1).fi()},
@@ -108672,7 +108672,7 @@ $ifg:1}
 A.aP.prototype={
 bW(a,b){var s=this.bM(new A.yj(a,b))
 return s instanceof A.c_?-1:s.b},
-gep(a){return B.a7m},
+gep(a){return B.a7n},
 la(a,b,c){},
 j(a){var s=this.ll(0)
 return B.c.bc(s,"Instance of '")?B.c.n_(B.c.c_(s,13),"'",""):s}}
@@ -113803,7 +113803,7 @@ A.afm.prototype={}
 A.L8.prototype={
 j(a){return"XmlNodeTypeException: "+this.a}}
 A.aEY.prototype={
-gnw(a){return B.a7t},
+gnw(a){return B.a7u},
 SN(a,b){return null}}
 A.a58.prototype={
 SN(a,b){var s,r,q=A.bqM(a,b)
@@ -117600,8 +117600,8 @@ B.PK=new A.bi(B.cy,null,null,null,null,null,B.R)
 B.Us=new A.C(0.23529411764705882,0,0,0,B.m)
 B.agN=new A.k(0,4)
 B.PS=new A.cA(0.5,B.aQ,B.Us,B.agN,10)
-B.a6L=A.a(s([B.PS]),t.E)
-B.PL=new A.bi(null,null,null,B.rq,B.a6L,null,B.R)
+B.a6M=A.a(s([B.PS]),t.E)
+B.PL=new A.bi(null,null,null,B.rq,B.a6M,null,B.R)
 B.j=new A.C(1,1,1,1,B.m)
 B.bD=new A.bi(B.j,null,null,null,null,null,B.R)
 B.hG=new A.DF(1,"contain")
@@ -117862,7 +117862,7 @@ B.av=new A.a2S()
 B.dA=new A.a2T()
 B.ft=new A.aEs()
 B.ht=new A.a3_(0,0,0,0)
-B.a7q=A.a(s([]),A.ai("u<alA>"))
+B.a7r=A.a(s([]),A.ai("u<alA>"))
 B.aGt=new A.aEA()
 B.cr={}
 B.iw=new A.R(B.cr,[],t.w)
@@ -118390,8 +118390,8 @@ B.uf=new A.uv(!1,!1,!1,!0)
 B.ea=new A.VP(0,"tight")
 B.u1=new A.ad(0,16,16,16)
 B.z=new A.p(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.azm=new A.q("Wir als anerkannter Bildungstr\xe4ger k\xf6nnen diesen Kurs \xfcber das Arbeitsamt anbieten. Diese Weiterbildung ist offiziell zertifiziert und f\xf6rderf\xe4hig. Profitieren Sie von dieser M\xf6glichkeit und lassen Sie sich Ihre berufliche Qualifikation durch das Arbeitsamt f\xf6rdern. Nehmen Sie jetzt Kontakt mit uns auf, um mehr \xfcber die Voraussetzungen und die n\xe4chsten Starttermine zu erfahren! ",null,B.z,null,null,null,null,null,null,null)
-B.aiv=new A.f(B.u1,B.azm,null)
+B.azn=new A.q("Wir als anerkannter Bildungstr\xe4ger k\xf6nnen diesen Kurs \xfcber das Arbeitsamt anbieten. Diese Weiterbildung ist offiziell zertifiziert und f\xf6rderf\xe4hig. Profitieren Sie von dieser M\xf6glichkeit und lassen Sie sich Ihre berufliche Qualifikation durch das Arbeitsamt f\xf6rdern. Nehmen Sie jetzt Kontakt mit uns auf, um mehr \xfcber die Voraussetzungen und die n\xe4chsten Starttermine zu erfahren! ",null,B.z,null,null,null,null,null,null,null)
+B.aiv=new A.f(B.u1,B.azn,null)
 B.ug=new A.my(1,B.ea,B.aiv,null)
 B.eM=new A.VP(1,"loose")
 B.ah=new A.p(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -118401,8 +118401,8 @@ B.XH=new A.my(1,B.ea,B.XW,null)
 B.awL=new A.q("Ich habe die Datenschutzerkl\xe4rung gelesen und akzeptiere sie.",null,B.ah,null,null,!0,null,null,null,null)
 B.XV=new A.ly(1,B.eM,B.awL,null)
 B.XI=new A.my(1,B.ea,B.XV,null)
-B.ayV=new A.q("As a recognized training provider, we can offer this course through the employment office. This further training is officially certified and eligible for funding. Take advantage of this opportunity and have your professional qualification funded by the employment office. Contact us now to find out more about the requirements and the next start dates!",null,B.z,null,null,null,null,null,null,null)
-B.ai1=new A.f(B.u1,B.ayV,null)
+B.ayW=new A.q("As a recognized training provider, we can offer this course through the employment office. This further training is officially certified and eligible for funding. Take advantage of this opportunity and have your professional qualification funded by the employment office. Contact us now to find out more about the requirements and the next start dates!",null,B.z,null,null,null,null,null,null,null)
+B.ai1=new A.f(B.u1,B.ayW,null)
 B.XJ=new A.my(1,B.ea,B.ai1,null)
 B.XK=new A.yM(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.k2=new A.o5(!1,!1,!1,!1)
@@ -118725,8 +118725,8 @@ B.a_K=A.a(s(["y('e')'ko' MMMM'ren' d('a'), EEEE","y('e')'ko' MMMM'ren' d('a')","
 B.fg=new A.p(!0,B.aq,null,null,null,null,48,B.al,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ny=new A.q("Generative KI mit Python",null,B.fg,null,null,null,null,null,null,null)
 B.fh=new A.p(!0,B.i,null,null,null,null,48,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ayT=new A.q("- Das Buch zu GenAI",null,B.fh,null,null,null,null,null,null,null)
-B.aj5=new A.f(B.bX,B.ayT,null)
+B.ayU=new A.q("- Das Buch zu GenAI",null,B.fh,null,null,null,null,null,null,null)
+B.aj5=new A.f(B.bX,B.ayU,null)
 B.a_L=A.a(s([B.Ny,B.aj5]),t.p)
 B.a_M=A.a(s(["/graph_rag"]),t.b)
 B.a_N=A.a(s(["\u0c15\u0c4d\u0c30\u0c40\u0c2a\u0c42","\u0c15\u0c4d\u0c30\u0c40\u0c36"]),t.s)
@@ -118863,9 +118863,9 @@ B.azC=new A.q("nach Absprache",null,B.ff,null,null,null,null,null,null,null)
 B.aid=new A.f(B.aS,B.azC,null)
 B.j5=new A.p(!0,B.Z,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aAa=new A.q("Mo - Fr, 9:00 - 13:00",null,B.j5,null,null,null,null,null,null,null)
-B.ajK=new A.f(B.aS,B.aAa,null)
+B.ajL=new A.f(B.aS,B.aAa,null)
 B.bx=new A.a1E(null)
-B.a10=A.a(s([B.aid,B.ajK,B.bx]),t.p)
+B.a10=A.a(s([B.aid,B.ajL,B.bx]),t.p)
 B.a11=A.a(s(["\u091c\u0928","\u092b\u0947\u0947\u092c","\u092e\u093e\u0930\u094d\u091a","\u0905\u092a\u094d\u0930","\u092e\u0947","\u091c\u0941\u0928","\u091c\u0941\u0932","\u0905\u0917","\u0938\u0947\u092a","\u0905\u0915\u094d\u091f\u094b","\u0928\u094b\u092d\u0947","\u0921\u093f\u0938\u0947"]),t.s)
 B.a13=A.a(s([65533]),t.t)
 B.os=A.a(s(["dd","dt","li","option","optgroup","p","rp","rt"]),t.s)
@@ -119124,8 +119124,8 @@ B.a36=A.a(s(["f.h.","e.h."]),t.s)
 B.x5=A.a(s(["\u0436\u0435\u043a\u0441\u0435\u043d\u0431\u0456","\u0434\u04af\u0439\u0441\u0435\u043d\u0431\u0456","\u0441\u0435\u0439\u0441\u0435\u043d\u0431\u0456","\u0441\u04d9\u0440\u0441\u0435\u043d\u0431\u0456","\u0431\u0435\u0439\u0441\u0435\u043d\u0431\u0456","\u0436\u04b1\u043c\u0430","\u0441\u0435\u043d\u0431\u0456"]),t.s)
 B.aAk=new A.q("KI Strategie & ",null,B.fg,null,null,null,null,null,null,null)
 B.azS=new A.q("Compliance",null,B.fh,null,null,null,null,null,null,null)
-B.ajL=new A.f(B.bX,B.azS,null)
-B.a38=A.a(s([B.aAk,B.ajL]),t.p)
+B.ajM=new A.f(B.bX,B.azS,null)
+B.a38=A.a(s([B.aAk,B.ajM]),t.p)
 B.x6=A.a(s(["\u0ead\u0eb2\u0e97\u0eb4\u0e94","\u0e88\u0eb1\u0e99","\u0ead\u0eb1\u0e87\u0e84\u0eb2\u0e99","\u0e9e\u0eb8\u0e94","\u0e9e\u0eb0\u0eab\u0eb1\u0e94","\u0eaa\u0eb8\u0e81","\u0ec0\u0eaa\u0ebb\u0eb2"]),t.s)
 B.a39=A.a(s(["urtarrilak","otsailak","martxoak","apirilak","maiatzak","ekainak","uztailak","abuztuak","irailak","urriak","azaroak","abenduak"]),t.s)
 B.a3a=A.a(s(["\u17a2\u17b6\u1791\u17b7\u178f\u17d2\u1799","\u1785\u1793\u17d2\u1791","\u17a2\u1784\u17d2\u1782\u17b6\u179a","\u1796\u17bb\u1792","\u1796\u17d2\u179a\u17a0\u179f\u17d2\u1794\u178f\u17b7\u17cd","\u179f\u17bb\u1780\u17d2\u179a","\u179f\u17c5\u179a\u17cd"]),t.s)
@@ -119562,10 +119562,10 @@ B.azt=new A.q("KI-Entwickler",null,B.m9,null,null,null,null,null,null,null)
 B.aAx=new A.q("- Python, ML und Deep Learning, Generative KI & Strategie",null,B.iY,null,null,null,null,null,null,null)
 B.ai7=new A.f(B.bX,B.aAx,null)
 B.a6n=A.a(s([B.azt,B.ai7]),t.p)
-B.ayZ=new A.q("Spring 2025 - dates by arrangement",null,B.ff,null,null,null,null,null,null,null)
-B.aj6=new A.f(B.aS,B.ayZ,null)
-B.az4=new A.q("Mo - Fr, 8:00 - 12:00 or 14:00 - 18:00",null,B.j5,null,null,null,null,null,null,null)
-B.ajn=new A.f(B.aS,B.az4,null)
+B.az_=new A.q("Spring 2025 - dates by arrangement",null,B.ff,null,null,null,null,null,null,null)
+B.aj6=new A.f(B.aS,B.az_,null)
+B.az5=new A.q("Mo - Fr, 8:00 - 12:00 or 14:00 - 18:00",null,B.j5,null,null,null,null,null,null,null)
+B.ajn=new A.f(B.aS,B.az5,null)
 B.a6o=A.a(s([B.aj6,B.ajn,B.bx]),t.p)
 B.O6=new A.BG(0,"topLeft")
 B.O9=new A.BG(3,"bottomRight")
@@ -119607,21 +119607,21 @@ B.a6C=A.a(s(["address","div","p"]),t.s)
 B.a6D=A.a(s(["\u0d1e\u0d3e\u0d2f\u0d31\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d24\u0d3f\u0d19\u0d4d\u0d15\u0d33\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d1a\u0d4a\u0d35\u0d4d\u0d35\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d2c\u0d41\u0d27\u0d28\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d35\u0d4d\u0d2f\u0d3e\u0d34\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d35\u0d46\u0d33\u0d4d\u0d33\u0d3f\u0d2f\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d36\u0d28\u0d3f\u0d2f\u0d3e\u0d34\u0d4d\u200c\u0d1a"]),t.s)
 B.eR=A.a(s(["am","pm"]),t.s)
 B.ei=A.a(s(["ene","feb","mar","abr","may","jun","jul","ago","sept","oct","nov","dic"]),t.s)
-B.a6E=A.a(s(["\u0a08. \u0a2a\u0a42.","\u0a38\u0a70\u0a28"]),t.s)
+B.a6F=A.a(s(["\u0a08. \u0a2a\u0a42.","\u0a38\u0a70\u0a28"]),t.s)
 B.yZ=A.a(s(["\u0908\u0938\u093e \u092a\u0942\u0930\u094d\u0935","\u0938\u0928\u094d"]),t.s)
-B.a6F=A.a(s(["\u043f\u0440.\u0425\u0440.","\u0441\u043b.\u0425\u0440."]),t.s)
+B.a6G=A.a(s(["\u043f\u0440.\u0425\u0440.","\u0441\u043b.\u0425\u0440."]),t.s)
 B.z0=A.a(s(["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"]),t.s)
 B.z_=A.a(s(["\u10d8","\u10d7","\u10db","\u10d0","\u10db","\u10d8","\u10d8","\u10d0","\u10e1","\u10dd","\u10dc","\u10d3"]),t.s)
-B.a6G=A.a(s(["\u0434\u043f","\u043f\u043f"]),t.s)
+B.a6H=A.a(s(["\u0434\u043f","\u043f\u043f"]),t.s)
 B.z1=A.a(s(["Pazar","Pazartesi","Sal\u0131","\xc7ar\u015famba","Per\u015fembe","Cuma","Cumartesi"]),t.s)
-B.a6I=A.a(s(["HH:mm:ss (zzzz)","HH:mm:ss z","HH:mm:ss","HH:mm"]),t.s)
-B.a6J=A.a(s(["H\u6642mm\u5206ss\u79d2 zzzz","H:mm:ss z","H:mm:ss","H:mm"]),t.s)
+B.a6J=A.a(s(["HH:mm:ss (zzzz)","HH:mm:ss z","HH:mm:ss","HH:mm"]),t.s)
+B.a6K=A.a(s(["H\u6642mm\u5206ss\u79d2 zzzz","H:mm:ss z","H:mm:ss","H:mm"]),t.s)
 B.aGF=A.a(s(["bla"]),t.s)
-B.a6K=A.a(s(["\u0996\u09cd\u09f0\u09c0\u09b7\u09cd\u099f\u09aa\u09c2\u09f0\u09cd\u09ac","\u0996\u09cd\u09f0\u09c0\u09b7\u09cd\u099f\u09be\u09ac\u09cd\u09a6"]),t.s)
+B.a6L=A.a(s(["\u0996\u09cd\u09f0\u09c0\u09b7\u09cd\u099f\u09aa\u09c2\u09f0\u09cd\u09ac","\u0996\u09cd\u09f0\u09c0\u09b7\u09cd\u099f\u09be\u09ac\u09cd\u09a6"]),t.s)
 B.z2=A.a(s(["\u0412","\u041f","\u0412","\u0421","\u0427","\u041f","\u0421"]),t.s)
-B.a6M=A.a(s(["\u0d15\u0d4d\u0d30\u0d3f\u0d38\u0d4d\u200c\u0d24\u0d41\u0d35\u0d3f\u0d28\u0d4d \u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4d","\u0d06\u0d28\u0d4d\u0d28\u0d4b \u0d21\u0d4a\u0d2e\u0d3f\u0d28\u0d3f"]),t.s)
+B.a6N=A.a(s(["\u0d15\u0d4d\u0d30\u0d3f\u0d38\u0d4d\u200c\u0d24\u0d41\u0d35\u0d3f\u0d28\u0d4d \u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4d","\u0d06\u0d28\u0d4d\u0d28\u0d4b \u0d21\u0d4a\u0d2e\u0d3f\u0d28\u0d3f"]),t.s)
 B.z3=A.a(s(["\u0d1c","\u0d2b\u0d46","\u0d2e\u0d3e","\u0d0f","\u0d2e\u0d46","\u0d1c\u0d42\u0d7a","\u0d1c\u0d42","\u0d13","\u0d38\u0d46","\u0d12","\u0d28","\u0d21\u0d3f"]),t.s)
-B.a6N=A.a(s(["/genai_book_de","/genai_book_en"]),t.b)
+B.a6O=A.a(s(["/genai_book_de","/genai_book_en"]),t.b)
 B.z5=A.a(s(["{1}, {0}","{1}, {0}","{1} {0}","{1}, {0}"]),t.s)
 B.Lh=new A.dl(0,"srcOver")
 B.pB=new A.dl(1,"srcIn")
@@ -119652,15 +119652,15 @@ B.Ly=new A.dl(25,"softLight")
 B.Lz=new A.dl(26,"src")
 B.LA=new A.dl(27,"srcOut")
 B.LB=new A.dl(28,"xor")
-B.a6O=A.a(s([B.Lh,B.pB,B.Ls,B.LC,B.LD,B.LE,B.LF,B.LG,B.LH,B.LI,B.Li,B.Lj,B.Lk,B.Ll,B.Lm,B.Ln,B.Lo,B.Lp,B.Lq,B.Lr,B.Lt,B.Lu,B.Lv,B.Lw,B.Lx,B.Ly,B.Lz,B.LA,B.LB]),A.ai("u<dl>"))
-B.a6Q=A.a(s(["enne Kristust","p\xe4rast Kristust"]),t.s)
-B.a6R=A.a(s(["b","big","blockquote","body","br","center","code","dd","div","dl","dt","em","embed","h1","h2","h3","h4","h5","h6","head","hr","i","img","li","listing","menu","meta","nobr","ol","p","pre","ruby","s","small","span","strike","strong","sub","sup","table","tt","u","ul","var"]),t.s)
+B.a6P=A.a(s([B.Lh,B.pB,B.Ls,B.LC,B.LD,B.LE,B.LF,B.LG,B.LH,B.LI,B.Li,B.Lj,B.Lk,B.Ll,B.Lm,B.Ln,B.Lo,B.Lp,B.Lq,B.Lr,B.Lt,B.Lu,B.Lv,B.Lw,B.Lx,B.Ly,B.Lz,B.LA,B.LB]),A.ai("u<dl>"))
+B.a6R=A.a(s(["enne Kristust","p\xe4rast Kristust"]),t.s)
+B.a6S=A.a(s(["b","big","blockquote","body","br","center","code","dd","div","dl","dt","em","embed","h1","h2","h3","h4","h5","h6","head","hr","i","img","li","listing","menu","meta","nobr","ol","p","pre","ruby","s","small","span","strike","strong","sub","sup","table","tt","u","ul","var"]),t.s)
 B.z6=A.a(s(["\u099c\u09be\u09a8\u09c1","\u09ab\u09c7\u09ac\u09cd\u09f0\u09c1","\u09ae\u09be\u09f0\u09cd\u099a","\u098f\u09aa\u09cd\u09f0\u09bf\u09b2","\u09ae\u09c7\u2019","\u099c\u09c1\u09a8","\u099c\u09c1\u09b2\u09be\u0987","\u0986\u0997","\u099b\u09c7\u09aa\u09cd\u09a4\u09c7","\u0985\u0995\u09cd\u099f\u09cb","\u09a8\u09f1\u09c7","\u09a1\u09bf\u099a\u09c7"]),t.s)
 B.z7=A.a(s(["\u0b30\u0b2c\u0b3f","\u0b38\u0b4b\u0b2e","\u0b2e\u0b19\u0b4d\u0b17\u0b33","\u0b2c\u0b41\u0b27","\u0b17\u0b41\u0b30\u0b41","\u0b36\u0b41\u0b15\u0b4d\u0b30","\u0b36\u0b28\u0b3f"]),t.s)
-B.a6S=A.a(s(["\u099c\u09be\u09a8\u09c1","\u09ab\u09c7\u09ac","\u09ae\u09be\u09b0\u09cd\u099a","\u098f\u09aa\u09cd\u09b0\u09bf\u09b2","\u09ae\u09c7","\u099c\u09c1\u09a8","\u099c\u09c1\u09b2\u09be\u0987","\u0986\u0997\u09b8\u09cd\u099f","\u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0","\u0985\u0995\u09cd\u099f\u09cb\u09ac\u09b0","\u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0","\u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0"]),t.s)
-B.a6T=A.a(s(["{1} '\xe0s' {0}","{1} '\xe0s' {0}","{1}, {0}","{1}, {0}"]),t.s)
-B.a6U=A.a(s(["Xan.","Feb.","Mar.","Abr.","Maio","Xu\xf1o","Xul.","Ago.","Set.","Out.","Nov.","Dec."]),t.s)
-B.a6V=A.a(s(["eKr.","jKr."]),t.s)
+B.a6T=A.a(s(["\u099c\u09be\u09a8\u09c1","\u09ab\u09c7\u09ac","\u09ae\u09be\u09b0\u09cd\u099a","\u098f\u09aa\u09cd\u09b0\u09bf\u09b2","\u09ae\u09c7","\u099c\u09c1\u09a8","\u099c\u09c1\u09b2\u09be\u0987","\u0986\u0997\u09b8\u09cd\u099f","\u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0","\u0985\u0995\u09cd\u099f\u09cb\u09ac\u09b0","\u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0","\u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0"]),t.s)
+B.a6U=A.a(s(["{1} '\xe0s' {0}","{1} '\xe0s' {0}","{1}, {0}","{1}, {0}"]),t.s)
+B.a6V=A.a(s(["Xan.","Feb.","Mar.","Abr.","Maio","Xu\xf1o","Xul.","Ago.","Set.","Out.","Nov.","Dec."]),t.s)
+B.a6W=A.a(s(["eKr.","jKr."]),t.s)
 B.Lf=new A.fF(0,"normal")
 B.amT=new A.fF(1,"multiply")
 B.an_=new A.fF(2,"screen")
@@ -119677,126 +119677,126 @@ B.amW=new A.fF(12,"hue")
 B.amX=new A.fF(13,"saturation")
 B.amY=new A.fF(14,"color")
 B.amZ=new A.fF(15,"luminosity")
-B.a6X=A.a(s([B.Lf,B.amT,B.an_,B.an0,B.an1,B.an2,B.an3,B.an4,B.an5,B.an6,B.amU,B.amV,B.amW,B.amX,B.amY,B.amZ]),A.ai("u<fF>"))
+B.a6Y=A.a(s([B.Lf,B.amT,B.an_,B.an0,B.an1,B.an2,B.an3,B.an4,B.an5,B.an6,B.amU,B.amV,B.amW,B.amX,B.amY,B.amZ]),A.ai("u<fF>"))
 B.b5=A.a(s(["h:mm:ss a zzzz","h:mm:ss a z","h:mm:ss a","h:mm a"]),t.s)
-B.a6Z=A.a(s(["click","scroll"]),t.s)
-B.a7_=A.a(s(["EEEE\u060c d MMMM y","d MMMM y","dd\u200f/MM\u200f/y","d\u200f/M\u200f/y"]),t.s)
+B.a7_=A.a(s(["click","scroll"]),t.s)
+B.a70=A.a(s(["EEEE\u060c d MMMM y","d MMMM y","dd\u200f/MM\u200f/y","d\u200f/M\u200f/y"]),t.s)
 B.ej=A.a(s(["dom","lun","mar","mi\xe9","jue","vie","s\xe1b"]),t.s)
-B.a70=A.a(s(["EEEE, d. MMMM y.","d. MMMM y.","d. MMM y.","d. M. y."]),t.s)
-B.a71=A.a(s(["EEEE, d MMMM y","d MMMM y","d MMM y","d.MM.y"]),t.s)
-B.a72=A.a(s(["EEEE dd MMMM y","dd MMMM y","dd MMM y","y-MM-dd"]),t.s)
+B.a71=A.a(s(["EEEE, d. MMMM y.","d. MMMM y.","d. MMM y.","d. M. y."]),t.s)
+B.a72=A.a(s(["EEEE, d MMMM y","d MMMM y","d MMM y","d.MM.y"]),t.s)
+B.a73=A.a(s(["EEEE dd MMMM y","dd MMMM y","dd MMM y","y-MM-dd"]),t.s)
 B.z8=A.a(s(["Y","D","S","C","P","J","S"]),t.s)
 B.PY=new A.xB()
 B.iH=new A.a0P(1,"page")
 B.lQ=new A.fG(B.aB,B.iH)
-B.a73=A.a(s([B.PY,B.lQ]),A.ai("u<bx>"))
+B.a74=A.a(s([B.PY,B.lQ]),A.ai("u<bx>"))
 B.z9=A.a(s(["\u05d9\u05e0\u05d5\u05d0\u05e8","\u05e4\u05d1\u05e8\u05d5\u05d0\u05e8","\u05de\u05e8\u05e5","\u05d0\u05e4\u05e8\u05d9\u05dc","\u05de\u05d0\u05d9","\u05d9\u05d5\u05e0\u05d9","\u05d9\u05d5\u05dc\u05d9","\u05d0\u05d5\u05d2\u05d5\u05e1\u05d8","\u05e1\u05e4\u05d8\u05de\u05d1\u05e8","\u05d0\u05d5\u05e7\u05d8\u05d5\u05d1\u05e8","\u05e0\u05d5\u05d1\u05de\u05d1\u05e8","\u05d3\u05e6\u05de\u05d1\u05e8"]),t.s)
-B.a74=A.a(s(["\u7b2c\u4e00\u5b63\u5ea6","\u7b2c\u4e8c\u5b63\u5ea6","\u7b2c\u4e09\u5b63\u5ea6","\u7b2c\u56db\u5b63\u5ea6"]),t.s)
-B.a75=A.a(s(["Sul","Llun","Maw","Mer","Iau","Gwe","Sad"]),t.s)
+B.a75=A.a(s(["\u7b2c\u4e00\u5b63\u5ea6","\u7b2c\u4e8c\u5b63\u5ea6","\u7b2c\u4e09\u5b63\u5ea6","\u7b2c\u56db\u5b63\u5ea6"]),t.s)
+B.a76=A.a(s(["Sul","Llun","Maw","Mer","Iau","Gwe","Sad"]),t.s)
 B.kO=A.a(s(["\u06cc\u06a9\u0634\u0646\u0628\u0647","\u062f\u0648\u0634\u0646\u0628\u0647","\u0633\u0647\u200c\u0634\u0646\u0628\u0647","\u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647","\u067e\u0646\u062c\u0634\u0646\u0628\u0647","\u062c\u0645\u0639\u0647","\u0634\u0646\u0628\u0647"]),t.s)
-B.a76=A.a(s(["\u0b16\u0b4d\u0b30\u0b40\u0b37\u0b4d\u0b1f\u0b2a\u0b42\u0b30\u0b4d\u0b2c","\u0b16\u0b4d\u0b30\u0b40\u0b37\u0b4d\u0b1f\u0b3e\u0b2c\u0b4d\u0b26"]),t.s)
+B.a77=A.a(s(["\u0b16\u0b4d\u0b30\u0b40\u0b37\u0b4d\u0b1f\u0b2a\u0b42\u0b30\u0b4d\u0b2c","\u0b16\u0b4d\u0b30\u0b40\u0b37\u0b4d\u0b1f\u0b3e\u0b2c\u0b4d\u0b26"]),t.s)
 B.zb=A.a(s(["\u039a","\u0394","\u03a4","\u03a4","\u03a0","\u03a0","\u03a3"]),t.s)
 B.kP=A.a(s(["h1","h2","h3","h4","h5","h6"]),t.s)
 B.zd=A.a(s(["nede\u013ea","pondelok","utorok","streda","\u0161tvrtok","piatok","sobota"]),t.s)
 B.azL=new A.q("01.09.2025 - 26.09.2025",null,B.ff,null,null,null,null,null,null,null)
 B.aiV=new A.f(B.aS,B.azL,null)
-B.a77=A.a(s([B.aiV,B.lB,B.bx]),t.p)
+B.a78=A.a(s([B.aiV,B.lB,B.bx]),t.p)
 B.ze=A.a(s(["Ahd","Isn","Sel","Rab","Kha","Jum","Sab"]),t.s)
 B.zf=A.a(s(["ned\u011ble","pond\u011bl\xed","\xfater\xfd","st\u0159eda","\u010dtvrtek","p\xe1tek","sobota"]),t.s)
-B.a78=A.a(s(["H:mm:ss (zzzz)","H:mm:ss (z)","HH:mm:ss","HH:mm"]),t.s)
-B.a7a=A.a(s(["eKr","pKr"]),t.s)
-B.a7b=A.a(s(["EEEE, d 'de' MMMM 'de' y","d 'de' MMMM 'de' y","d MMM y","d/M/y"]),t.s)
-B.a7c=A.a(s(["sunnuntai","maanantai","tiistai","keskiviikko","torstai","perjantai","lauantai"]),t.s)
+B.a79=A.a(s(["H:mm:ss (zzzz)","H:mm:ss (z)","HH:mm:ss","HH:mm"]),t.s)
+B.a7b=A.a(s(["eKr","pKr"]),t.s)
+B.a7c=A.a(s(["EEEE, d 'de' MMMM 'de' y","d 'de' MMMM 'de' y","d MMM y","d/M/y"]),t.s)
+B.a7d=A.a(s(["sunnuntai","maanantai","tiistai","keskiviikko","torstai","perjantai","lauantai"]),t.s)
 B.kQ=A.a(s(["\u65e5","\u6708","\u706b","\u6c34","\u6728","\u91d1","\u571f"]),t.s)
 B.U_=new A.C(0.25882352941176473,0,0,0,B.m)
 B.PQ=new A.cA(3,B.aQ,B.U_,B.q,10)
-B.a7d=A.a(s([B.PQ]),t.E)
-B.a7e=A.a(s(["\u043f\u0440\u0432\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435","\u0432\u0442\u043e\u0440\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435","\u0442\u0440\u0435\u0442\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435","\u0447\u0435\u0442\u0432\u0440\u0442\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435"]),t.s)
-B.a7f=A.a(s(["EEEE, d. MMMM y","d. MMMM y","d. MMM y","dd.MM.yy"]),t.s)
+B.a7e=A.a(s([B.PQ]),t.E)
+B.a7f=A.a(s(["\u043f\u0440\u0432\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435","\u0432\u0442\u043e\u0440\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435","\u0442\u0440\u0435\u0442\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435","\u0447\u0435\u0442\u0432\u0440\u0442\u043e \u0442\u0440\u043e\u043c\u0435\u0441\u0435\u0447\u0458\u0435"]),t.s)
+B.a7g=A.a(s(["EEEE, d. MMMM y","d. MMMM y","d. MMM y","dd.MM.yy"]),t.s)
 B.zh=A.a(s(["S","M","\xde","M","F","F","L"]),t.s)
-B.a7v=A.a(s([]),t.QP)
+B.a7w=A.a(s([]),t.QP)
 B.zj=A.a(s([]),A.ai("u<buh>"))
-B.a7k=A.a(s([]),t.D)
-B.a7r=A.a(s([]),t.fJ)
-B.a7j=A.a(s([]),t.ER)
-B.a7o=A.a(s([]),A.ai("u<B<h>>"))
-B.a7w=A.a(s([]),t.tc)
+B.a7l=A.a(s([]),t.D)
+B.a7s=A.a(s([]),t.fJ)
+B.a7k=A.a(s([]),t.ER)
+B.a7p=A.a(s([]),A.ai("u<B<h>>"))
+B.a7x=A.a(s([]),t.tc)
 B.kR=A.a(s([]),t.jl)
-B.a7y=A.a(s([]),t.wi)
+B.a7z=A.a(s([]),t.wi)
 B.zk=A.a(s([]),A.ai("u<ZJ>"))
-B.a7x=A.a(s([]),A.ai("u<b47<@>>"))
-B.a7m=A.a(s([]),t.Vz)
-B.a7l=A.a(s([]),t.H9)
+B.a7y=A.a(s([]),A.ai("u<b47<@>>"))
+B.a7n=A.a(s([]),t.Vz)
+B.a7m=A.a(s([]),t.H9)
 B.oB=A.a(s([]),t.AO)
-B.a7n=A.a(s([]),A.ai("u<rc>"))
-B.a7u=A.a(s([]),t.D1)
+B.a7o=A.a(s([]),A.ai("u<rc>"))
+B.a7v=A.a(s([]),t.D1)
 B.oE=A.a(s([]),t.QF)
-B.a7z=A.a(s([]),t.Lx)
-B.a7s=A.a(s([]),t.fm)
+B.a7A=A.a(s([]),t.Lx)
+B.a7t=A.a(s([]),t.fm)
 B.aGG=A.a(s([]),t.p)
-B.a7t=A.a(s([]),A.ai("u<l0>"))
+B.a7u=A.a(s([]),A.ai("u<l0>"))
 B.zi=A.a(s([]),t.ov)
 B.oC=A.a(s([]),t.n)
-B.a7h=A.a(s([]),t.t)
+B.a7i=A.a(s([]),t.t)
 B.Q=A.a(s([]),t.b)
-B.a7p=A.a(s([]),t.ef)
-B.a7i=A.a(s([]),t._m)
+B.a7q=A.a(s([]),t.ef)
+B.a7j=A.a(s([]),t._m)
 B.oD=A.a(s([]),t.Wy)
-B.a7A=A.a(s(["H \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 mm \u0e19\u0e32\u0e17\u0e35 ss \u0e27\u0e34\u0e19\u0e32\u0e17\u0e35 zzzz","H \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 mm \u0e19\u0e32\u0e17\u0e35 ss \u0e27\u0e34\u0e19\u0e32\u0e17\u0e35 z","HH:mm:ss","HH:mm"]),t.s)
+B.a7B=A.a(s(["H \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 mm \u0e19\u0e32\u0e17\u0e35 ss \u0e27\u0e34\u0e19\u0e32\u0e17\u0e35 zzzz","H \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 mm \u0e19\u0e32\u0e17\u0e35 ss \u0e27\u0e34\u0e19\u0e32\u0e17\u0e35 z","HH:mm:ss","HH:mm"]),t.s)
 B.kS=A.a(s(["EEEE, d MMMM, y","d MMMM, y","d MMM, y","d/M/yy"]),t.s)
 B.kT=A.a(s(["\u0b1c\u0b3e\u0b28\u0b41\u0b06\u0b30\u0b40","\u0b2b\u0b47\u0b2c\u0b43\u0b06\u0b30\u0b40","\u0b2e\u0b3e\u0b30\u0b4d\u0b1a\u0b4d\u0b1a","\u0b05\u0b2a\u0b4d\u0b30\u0b47\u0b32","\u0b2e\u0b07","\u0b1c\u0b41\u0b28","\u0b1c\u0b41\u0b32\u0b3e\u0b07","\u0b05\u0b17\u0b37\u0b4d\u0b1f","\u0b38\u0b47\u0b2a\u0b4d\u0b1f\u0b47\u0b2e\u0b4d\u0b2c\u0b30","\u0b05\u0b15\u0b4d\u0b1f\u0b4b\u0b2c\u0b30","\u0b28\u0b2d\u0b47\u0b2e\u0b4d\u0b2c\u0b30","\u0b21\u0b3f\u0b38\u0b47\u0b2e\u0b4d\u0b2c\u0b30"]),t.s)
-B.a7C=A.a(s(["e paradites","e pasdites"]),t.s)
+B.a7D=A.a(s(["e paradites","e pasdites"]),t.s)
 B.zl=A.a(s(["diumenge","dilluns","dimarts","dimecres","dijous","divendres","dissabte"]),t.s)
-B.a7D=A.a(s(["die","h\xebn","mar","m\xebr","enj","pre","sht"]),t.s)
-B.a7E=A.a(s(["przed nasz\u0105 er\u0105","naszej ery"]),t.s)
-B.a7F=A.a(s(["\u0406 \u0442\u049b\u0441.","\u0406\u0406 \u0442\u049b\u0441.","\u0406\u0406\u0406 \u0442\u049b\u0441.","IV \u0442\u049b\u0441."]),t.s)
-B.a7G=A.a(s(["\u0c9c\u0ca8","\u0cab\u0cc6\u0cac\u0ccd\u0cb0","\u0cae\u0cbe\u0cb0\u0ccd\u0c9a\u0ccd","\u0c8f\u0caa\u0ccd\u0cb0\u0cbf","\u0cae\u0cc7","\u0c9c\u0cc2\u0ca8\u0ccd","\u0c9c\u0cc1\u0cb2\u0cc8","\u0c86\u0c97","\u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82","\u0c85\u0c95\u0ccd\u0c9f\u0ccb","\u0ca8\u0cb5\u0cc6\u0c82","\u0ca1\u0cbf\u0cb8\u0cc6\u0c82"]),t.s)
+B.a7E=A.a(s(["die","h\xebn","mar","m\xebr","enj","pre","sht"]),t.s)
+B.a7F=A.a(s(["przed nasz\u0105 er\u0105","naszej ery"]),t.s)
+B.a7G=A.a(s(["\u0406 \u0442\u049b\u0441.","\u0406\u0406 \u0442\u049b\u0441.","\u0406\u0406\u0406 \u0442\u049b\u0441.","IV \u0442\u049b\u0441."]),t.s)
+B.a7H=A.a(s(["\u0c9c\u0ca8","\u0cab\u0cc6\u0cac\u0ccd\u0cb0","\u0cae\u0cbe\u0cb0\u0ccd\u0c9a\u0ccd","\u0c8f\u0caa\u0ccd\u0cb0\u0cbf","\u0cae\u0cc7","\u0c9c\u0cc2\u0ca8\u0ccd","\u0c9c\u0cc1\u0cb2\u0cc8","\u0c86\u0c97","\u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82","\u0c85\u0c95\u0ccd\u0c9f\u0ccb","\u0ca8\u0cb5\u0cc6\u0c82","\u0ca1\u0cbf\u0cb8\u0cc6\u0c82"]),t.s)
 B.zm=A.a(s(["\u064a","\u0641","\u0645","\u0623","\u0648","\u0646","\u0644","\u063a","\u0633","\u0643","\u0628","\u062f"]),t.s)
 B.zn=A.a(s(["\u0930\u0935\u093f","\u0938\u094b\u092e","\u092e\u0902\u0917\u0933","\u092c\u0941\u0927","\u0917\u0941\u0930\u0941","\u0936\u0941\u0915\u094d\u0930","\u0936\u0928\u093f"]),t.s)
 B.zo=A.a(s(["avant J\xe9sus-Christ","apr\xe8s J\xe9sus-Christ"]),t.s)
 B.zp=A.a(s(["Januar","Februar","M\xe4rz","April","Mai","Juni","Juli","Auguscht","Sept\xe4mber","Oktoober","Nov\xe4mber","Dez\xe4mber"]),t.s)
-B.a7H=A.a(s(["EEEE, d MMMM y '\u0433'.","d MMMM y '\u0433'.","d MMM y '\u0433'.","d.MM.yy"]),t.s)
-B.a7I=A.a(s(["{1} 'kl'. {0}","{1} 'kl'. {0}","{1} {0}","{1} {0}"]),t.s)
-B.a7J=A.a(s(["{0} {1}","{0} {1}","{0}, {1}","{0}, {1}"]),t.s)
+B.a7I=A.a(s(["EEEE, d MMMM y '\u0433'.","d MMMM y '\u0433'.","d MMM y '\u0433'.","d.MM.yy"]),t.s)
+B.a7J=A.a(s(["{1} 'kl'. {0}","{1} 'kl'. {0}","{1} {0}","{1} {0}"]),t.s)
+B.a7K=A.a(s(["{0} {1}","{0} {1}","{0}, {1}","{0}, {1}"]),t.s)
 B.oF=A.a(s(["HH.mm.ss zzzz","HH.mm.ss z","HH.mm.ss","HH.mm"]),t.s)
-B.a7K=A.a(s(["pirms m\u016bsu \u0113ras","m\u016bsu \u0113r\u0101"]),t.s)
+B.a7L=A.a(s(["pirms m\u016bsu \u0113ras","m\u016bsu \u0113r\u0101"]),t.s)
 B.zq=A.a(s(["H:mm:ss (zzzz)","H:mm:ss z","H:mm:ss","H:mm"]),t.s)
-B.a7L=A.a(s(["\u043f. \u043d. \u0435.","\u043d. \u0435."]),t.s)
+B.a7M=A.a(s(["\u043f. \u043d. \u0435.","\u043d. \u0435."]),t.s)
 B.zr=A.a(s(["So","Mo","Di","Mi","Do","Fr","Sa"]),t.s)
 B.zs=A.a(s(["sun.","m\xe1n.","\xferi.","mi\xf0.","fim.","f\xf6s.","lau."]),t.s)
-B.a7M=A.a(s(["{1} - {0}","{1} - {0}","{1}, {0}","{1}, {0}"]),t.s)
+B.a7N=A.a(s(["{1} - {0}","{1} - {0}","{1}, {0}","{1}, {0}"]),t.s)
 B.zt=A.a(s(["EEEE d MMMM y","d MMMM y","d MMM y","y-MM-dd"]),t.s)
 B.zu=A.a(s(["sekmadienis","pirmadienis","antradienis","tre\u010diadienis","ketvirtadienis","penktadienis","\u0161e\u0161tadienis"]),t.s)
-B.a7N=A.a(s(["fm","em"]),t.s)
+B.a7O=A.a(s(["fm","em"]),t.s)
 B.zv=A.a(s(["\u0458\u0430\u043d\u0443\u0430\u0440","\u0444\u0435\u0431\u0440\u0443\u0430\u0440","\u043c\u0430\u0440\u0442","\u0430\u043f\u0440\u0438\u043b","\u043c\u0430\u0458","\u0458\u0443\u043d","\u0458\u0443\u043b","\u0430\u0432\u0433\u0443\u0441\u0442","\u0441\u0435\u043f\u0442\u0435\u043c\u0431\u0430\u0440","\u043e\u043a\u0442\u043e\u0431\u0430\u0440","\u043d\u043e\u0432\u0435\u043c\u0431\u0430\u0440","\u0434\u0435\u0446\u0435\u043c\u0431\u0430\u0440"]),t.s)
 B.kU=A.a(s(["dim.","lun.","mar.","mer.","jeu.","ven.","sam."]),t.s)
 B.kV=A.a(s(["\u516c\u5143\u524d","\u516c\u5143"]),t.s)
-B.a7P=A.a(s(["1T","2T","3T","4T"]),t.s)
+B.a7Q=A.a(s(["1T","2T","3T","4T"]),t.s)
 B.zx=A.a(s(["\u043d\u0435\u0434\u0435\u0459\u0430","\u043f\u043e\u043d\u0435\u0434\u0435\u0459\u0430\u043a","\u0443\u0442\u043e\u0440\u0430\u043a","\u0441\u0440\u0435\u0434\u0430","\u0447\u0435\u0442\u0432\u0440\u0442\u0430\u043a","\u043f\u0435\u0442\u0430\u043a","\u0441\u0443\u0431\u043e\u0442\u0430"]),t.s)
 B.oG=A.a(s([B.a6,B.uy,B.og,B.I,B.aT,B.uz,B.al,B.uB,B.i8]),A.ai("u<ku>"))
 B.aU=A.a(s(["S","M","T","W","T","F","S"]),t.s)
-B.a7R=A.a(s(["\u12d3/\u12d3","\u12d3/\u121d"]),t.s)
-B.a7S=A.a(s(["dop.","odp."]),t.s)
-B.a7T=A.a(s(["y-'\u0436'., d-MMMM, EEEE","y-'\u0436'., d-MMMM","y-'\u0436'., d-MMM","d/M/yy"]),t.s)
+B.a7S=A.a(s(["\u12d3/\u12d3","\u12d3/\u121d"]),t.s)
+B.a7T=A.a(s(["dop.","odp."]),t.s)
+B.a7U=A.a(s(["y-'\u0436'., d-MMMM, EEEE","y-'\u0436'., d-MMMM","y-'\u0436'., d-MMM","d/M/yy"]),t.s)
 B.zz=A.a(s(["I","Ch","M","E","M","M","G","A","M","H","T","Rh"]),t.s)
 B.zA=A.a(s(["\u044f","\u0444","\u043c","\u0430","\u043c","\u044e","\u044e","\u0430","\u0441","\u043e","\u043d","\u0434"]),t.s)
-B.a7U=A.a(s(["chwarter 1af","2il chwarter","3ydd chwarter","4ydd chwarter"]),t.s)
+B.a7V=A.a(s(["chwarter 1af","2il chwarter","3ydd chwarter","4ydd chwarter"]),t.s)
 B.zB=A.a(s(["\u09b0\u09ac\u09bf\u09ac\u09be\u09b0","\u09b8\u09cb\u09ae\u09ac\u09be\u09b0","\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0","\u09ac\u09c1\u09a7\u09ac\u09be\u09b0","\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0","\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0","\u09b6\u09a8\u09bf\u09ac\u09be\u09b0"]),t.s)
 B.zC=A.a(s(["\u099c\u09be","\u09ab\u09c7","\u09ae\u09be","\u098f","\u09ae\u09c7","\u099c\u09c1\u09a8","\u099c\u09c1","\u0986","\u09b8\u09c7","\u0985","\u09a8","\u09a1\u09bf"]),t.s)
-B.a7W=A.a(s(["1\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf","2\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf","3\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf","4\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf"]),t.s)
+B.a7X=A.a(s(["1\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf","2\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf","3\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf","4\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf"]),t.s)
 B.X=A.a(s(["J","F","M","A","M","J","J","A","S","O","N","D"]),t.s)
-B.a7X=A.a(s(["I k.","II k.","III k.","IV k."]),t.s)
-B.a7Y=A.a(s(["\u092a\u094d\u0930\u0925\u092e \u0924\u093f\u092e\u093e\u0939\u0940","\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u0924\u0943\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u091a\u0924\u0941\u0930\u094d\u0925 \u0924\u093f\u092e\u093e\u0939\u0940"]),t.s)
+B.a7Y=A.a(s(["I k.","II k.","III k.","IV k."]),t.s)
+B.a7Z=A.a(s(["\u092a\u094d\u0930\u0925\u092e \u0924\u093f\u092e\u093e\u0939\u0940","\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u0924\u0943\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u091a\u0924\u0941\u0930\u094d\u0925 \u0924\u093f\u092e\u093e\u0939\u0940"]),t.s)
 B.zD=A.a(s(["7","1","2","3","4","5","6"]),t.s)
-B.a7Z=A.a(s(["p.n.e.","n.e."]),t.s)
-B.a8_=A.a(s(["\u0e81\u0ec8\u0ead\u0e99\u0e84\u0ea3\u0eb4\u0e94\u0eaa\u0eb1\u0e81\u0e81\u0eb0\u0ea5\u0eb2\u0e94","\u0e84\u0ea3\u0eb4\u0e94\u0eaa\u0eb1\u0e81\u0e81\u0eb0\u0ea5\u0eb2\u0e94"]),t.s)
+B.a8_=A.a(s(["p.n.e.","n.e."]),t.s)
+B.a80=A.a(s(["\u0e81\u0ec8\u0ead\u0e99\u0e84\u0ea3\u0eb4\u0e94\u0eaa\u0eb1\u0e81\u0e81\u0eb0\u0ea5\u0eb2\u0e94","\u0e84\u0ea3\u0eb4\u0e94\u0eaa\u0eb1\u0e81\u0e81\u0eb0\u0ea5\u0eb2\u0e94"]),t.s)
 B.zE=A.a(s(["\u0cad\u0cbe\u0ca8\u0cc1","\u0cb8\u0ccb\u0cae","\u0cae\u0c82\u0c97\u0cb3","\u0cac\u0cc1\u0ca7","\u0c97\u0cc1\u0cb0\u0cc1","\u0cb6\u0cc1\u0c95\u0ccd\u0cb0","\u0cb6\u0ca8\u0cbf"]),t.s)
-B.a80=A.a(s(["\u10eb\u10d5. \u10ec.","\u10d0\u10ee. \u10ec."]),t.s)
+B.a81=A.a(s(["\u10eb\u10d5. \u10ec.","\u10d0\u10ee. \u10ec."]),t.s)
 B.zF=A.a(s(["\u0ab0\u0ab5\u0abf","\u0ab8\u0acb\u0aae","\u0aae\u0a82\u0a97\u0ab3","\u0aac\u0ac1\u0aa7","\u0a97\u0ac1\u0ab0\u0ac1","\u0ab6\u0ac1\u0a95\u0acd\u0ab0","\u0ab6\u0aa8\u0abf"]),t.s)
-B.a82=A.a(s(["y\u5e74M\u6708d\u65e5EEEE","y\u5e74M\u6708d\u65e5","y/MM/dd","y/MM/dd"]),t.s)
+B.a83=A.a(s(["y\u5e74M\u6708d\u65e5EEEE","y\u5e74M\u6708d\u65e5","y/MM/dd","y/MM/dd"]),t.s)
 B.zG=A.a(s(["\u1303","\u134c","\u121b","\u12a4","\u121c","\u1301","\u1301","\u12a6","\u1234","\u12a6","\u1296","\u12f2"]),t.s)
-B.a83=A.a(s(["EEEE, d MMMM, y","d MMMM, y","dd-MM-y","d-M-y"]),t.s)
-B.a84=A.a(s(["\u0570\u0578\u0582\u0576\u057e\u0561\u0580","\u0583\u0565\u057f\u0580\u057e\u0561\u0580","\u0574\u0561\u0580\u057f","\u0561\u057a\u0580\u056b\u056c","\u0574\u0561\u0575\u056b\u057d","\u0570\u0578\u0582\u0576\u056b\u057d","\u0570\u0578\u0582\u056c\u056b\u057d","\u0585\u0563\u0578\u057d\u057f\u0578\u057d","\u057d\u0565\u057a\u057f\u0565\u0574\u0562\u0565\u0580","\u0570\u0578\u056f\u057f\u0565\u0574\u0562\u0565\u0580","\u0576\u0578\u0575\u0565\u0574\u0562\u0565\u0580","\u0564\u0565\u056f\u057f\u0565\u0574\u0562\u0565\u0580"]),t.s)
+B.a84=A.a(s(["EEEE, d MMMM, y","d MMMM, y","dd-MM-y","d-M-y"]),t.s)
+B.a85=A.a(s(["\u0570\u0578\u0582\u0576\u057e\u0561\u0580","\u0583\u0565\u057f\u0580\u057e\u0561\u0580","\u0574\u0561\u0580\u057f","\u0561\u057a\u0580\u056b\u056c","\u0574\u0561\u0575\u056b\u057d","\u0570\u0578\u0582\u0576\u056b\u057d","\u0570\u0578\u0582\u056c\u056b\u057d","\u0585\u0563\u0578\u057d\u057f\u0578\u057d","\u057d\u0565\u057a\u057f\u0565\u0574\u0562\u0565\u0580","\u0570\u0578\u056f\u057f\u0565\u0574\u0562\u0565\u0580","\u0576\u0578\u0575\u0565\u0574\u0562\u0565\u0580","\u0564\u0565\u056f\u057f\u0565\u0574\u0562\u0565\u0580"]),t.s)
 B.zH=A.a(s(["bazar","bazar ert\u0259si","\xe7\u0259r\u015f\u0259nb\u0259 ax\u015fam\u0131","\xe7\u0259r\u015f\u0259nb\u0259","c\xfcm\u0259 ax\u015fam\u0131","c\xfcm\u0259","\u015f\u0259nb\u0259"]),t.s)
 B.alM=new A.a3("http://www.w3.org/1999/xhtml","address")
 B.L2=new A.a3("http://www.w3.org/1999/xhtml","applet")
@@ -119874,11 +119874,11 @@ B.KX=new A.a3("http://www.w3.org/1999/xhtml","ul")
 B.am0=new A.a3("http://www.w3.org/1999/xhtml","wbr")
 B.alZ=new A.a3("http://www.w3.org/1999/xhtml","xmp")
 B.oH=A.a(s([B.alM,B.L2,B.alG,B.amm,B.alU,B.alN,B.alv,B.alq,B.ald,B.alw,B.alj,B.L_,B.KZ,B.amc,B.amb,B.al8,B.amj,B.alI,B.alQ,B.ala,B.ali,B.alO,B.al6,B.alk,B.ame,B.al4,B.amd,B.am4,B.alb,B.alL,B.am3,B.alc,B.alg,B.alJ,B.alK,B.alT,B.ama,B.alE,B.am8,B.pt,B.ale,B.alD,B.al7,B.amo,B.alh,B.am9,B.alx,B.alu,B.KY,B.am6,B.alf,B.alR,B.amk,B.alF,B.alm,B.KT,B.L7,B.aln,B.alH,B.als,B.alt,B.am1,B.all,B.alo,B.am5,B.ps,B.alp,B.KW,B.amp,B.alC,B.L3,B.aml,B.alz,B.alB,B.KX,B.am0,B.alZ,B.pu]),t.Wy)
-B.a85=A.a(s(["yanvar","fevral","mart","aprel","may","iyun","iyul","avgust","sentabr","oktabr","noyabr","dekabr"]),t.s)
-B.a86=A.a(s(["http","https","ftp"]),t.s)
+B.a86=A.a(s(["yanvar","fevral","mart","aprel","may","iyun","iyul","avgust","sentabr","oktabr","noyabr","dekabr"]),t.s)
+B.a87=A.a(s(["http","https","ftp"]),t.s)
 B.zI=A.a(s(["\u0c1c\u0c28\u0c35\u0c30\u0c3f","\u0c2b\u0c3f\u0c2c\u0c4d\u0c30\u0c35\u0c30\u0c3f","\u0c2e\u0c3e\u0c30\u0c4d\u0c1a\u0c3f","\u0c0f\u0c2a\u0c4d\u0c30\u0c3f\u0c32\u0c4d","\u0c2e\u0c47","\u0c1c\u0c42\u0c28\u0c4d","\u0c1c\u0c41\u0c32\u0c48","\u0c06\u0c17\u0c38\u0c4d\u0c1f\u0c41","\u0c38\u0c46\u0c2a\u0c4d\u0c1f\u0c46\u0c02\u0c2c\u0c30\u0c4d","\u0c05\u0c15\u0c4d\u0c1f\u0c4b\u0c2c\u0c30\u0c4d","\u0c28\u0c35\u0c02\u0c2c\u0c30\u0c4d","\u0c21\u0c3f\u0c38\u0c46\u0c02\u0c2c\u0c30\u0c4d"]),t.s)
 B.zJ=A.a(s(["j","sh","m","p","m","q","k","g","sh","t","n","dh"]),t.s)
-B.a87=A.a(s(["\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u0627\u0648\u0644","\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u062f\u0648\u0645","\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u0633\u0648\u0645","\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u0686\u0647\u0627\u0631\u0645"]),t.s)
+B.a88=A.a(s(["\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u0627\u0648\u0644","\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u062f\u0648\u0645","\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u0633\u0648\u0645","\u0633\u0647\u200c\u0645\u0627\u0647\u0647\u0654 \u0686\u0647\u0627\u0631\u0645"]),t.s)
 B.zK=A.a(s(["\u12a5\u1211\u12f5","\u1230\u129e","\u121b\u12ad\u1230","\u1228\u1261\u12d5","\u1210\u1219\u1235","\u12d3\u122d\u1265","\u1245\u12f3\u121c"]),t.s)
 B.zL=A.a(s(["\u043d\u0435\u0434\u0456\u043b\u044f","\u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a","\u0432\u0456\u0432\u0442\u043e\u0440\u043e\u043a","\u0441\u0435\u0440\u0435\u0434\u0430","\u0447\u0435\u0442\u0432\u0435\u0440","\u043f\u02bc\u044f\u0442\u043d\u0438\u0446\u044f","\u0441\u0443\u0431\u043e\u0442\u0430"]),t.s)
 B.zM=A.a(s(["\u0a1c","\u0a2b\u0a3c","\u0a2e\u0a3e","\u0a05","\u0a2e","\u0a1c\u0a42","\u0a1c\u0a41","\u0a05","\u0a38","\u0a05","\u0a28","\u0a26"]),t.s)
@@ -120767,12 +120767,12 @@ B.agb={Excel:0,Git:1,SQL:2,"Python Basics":3,"Python Data Handling":4,"Python Ma
 B.a2W=A.a(s(["Welcome to the course","Course objectives","Course structure"]),t.s)
 B.a3R=A.a(s(["Git Basics","Git Branching","Git Collaboration"]),t.s)
 B.a3L=A.a(s(["Introduction to SQL","SQL Basics","SQL Advanced"]),t.s)
-B.a7O=A.a(s(["Python Basics","Python Data Structures","Python Functions"]),t.s)
+B.a7P=A.a(s(["Python Basics","Python Data Structures","Python Functions"]),t.s)
 B.a4b=A.a(s(["Data Workflow","Data Cleaning","Visualisation","File Handling"]),t.s)
 B.aam=A.a(s(["Machine Learning Basics","Model Training","Model Evaluation","Model Deployment","Regression","Classification","Clustering","Dimensionality Reduction","Model Selection","Model Tuning"]),t.s)
 B.a42=A.a(s(["PowerBI Basics","PowerBI Advanced","PowerBI Visualisation","PowerBI Data Modelling"]),t.s)
 B.aa4=A.a(s(["Zero-Shot Prompting","Few-Shot Prompting","Chain-of-Thought Prompting","Self-Consistency Chain-of-Thought","Prompt Chaining"]),t.s)
-B.acO=new A.R(B.agb,[B.a2W,B.a3R,B.a3L,B.a7O,B.a4b,B.aam,B.a42,B.aa4],t.VJ)
+B.acO=new A.R(B.agb,[B.a2W,B.a3R,B.a3L,B.a7P,B.a4b,B.aam,B.a42,B.aa4],t.VJ)
 B.agq={af:0,am:1,ar:2,as:3,az:4,be:5,bg:6,bn:7,bs:8,ca:9,cs:10,cy:11,da:12,de:13,de_CH:14,el:15,en:16,en_AU:17,en_CA:18,en_GB:19,en_IE:20,en_IN:21,en_NZ:22,en_SG:23,en_US:24,en_ZA:25,es:26,es_419:27,es_MX:28,es_US:29,et:30,eu:31,fa:32,fi:33,fil:34,fr:35,fr_CA:36,gl:37,gsw:38,gu:39,he:40,hi:41,hr:42,hu:43,hy:44,id:45,is:46,it:47,ja:48,ka:49,kk:50,km:51,kn:52,ko:53,ky:54,lo:55,lt:56,lv:57,mk:58,ml:59,mn:60,mr:61,ms:62,my:63,nb:64,ne:65,nl:66,no:67,or:68,pa:69,pl:70,ps:71,pt:72,pt_PT:73,ro:74,ru:75,si:76,sk:77,sl:78,sq:79,sr:80,sr_Latn:81,sv:82,sw:83,ta:84,te:85,th:86,tl:87,tr:88,uk:89,ur:90,uz:91,vi:92,zh:93,zh_HK:94,zh_TW:95,zu:96}
 B.C={d:0,E:1,EEEE:2,LLL:3,LLLL:4,M:5,Md:6,MEd:7,MMM:8,MMMd:9,MMMEd:10,MMMM:11,MMMMd:12,MMMMEEEEd:13,QQQ:14,QQQQ:15,y:16,yM:17,yMd:18,yMEd:19,yMMM:20,yMMMd:21,yMMMEd:22,yMMMM:23,yMMMMd:24,yMMMMEEEEd:25,yQQQ:26,yQQQQ:27,H:28,Hm:29,Hms:30,j:31,jm:32,jms:33,jmv:34,jmz:35,jz:36,m:37,ms:38,s:39,v:40,z:41,zzzz:42,ZZZZ:43}
 B.adX=new A.R(B.C,["d","ccc","cccc","LLL","LLLL","L","dd-MM","EEE d/M","LLL","d MMM","EEE d MMM","LLLL","d MMMM","EEEE d MMMM","QQQ","QQQQ","y","MM-y","y-MM-dd","EEE y-MM-dd","MMM y","d MMM y","EEE d MMM y","MMMM y","d MMMM y","EEEE d MMMM y","QQQ y","QQQQ y","HH","HH:mm","HH:mm:ss","HH","HH:mm","HH:mm:ss","HH:mm v","HH:mm z","HH z","m","mm:ss","s","v","z","zzzz","ZZZZ"],t.w)
@@ -120938,19 +120938,19 @@ B.yu=A.a(s(["Text to Image","Text to Video","Voice Cloning","LLMs (ChatGTP, Gemi
 B.a6e=A.a(s(["Introduction in Huggingface","Text Classification","Zero-Shot Classification","Translation","Text summarisation","Feature Extraction","Text generation","Fill mask","sentence similarity"]),t.s)
 B.a9X=A.a(s(["Introduction in Prompt Engineering","Zero-Shot Prompting","Few-Shot Prompting","Chain-of-Thought","Self Consistency Chain-of-Thought","Prompt Chaining","Tree of Thought","Self Feedback","Self Critique"]),t.s)
 B.a4y=A.a(s(["What are Vector databases?","How vector databases work.","Practical Application and Implementation with ChromaDB","Tokenization and Vectorization of texts"]),t.s)
-B.a6P=A.a(s(["How RAG works.","Practical application and Implementation of RAG"]),t.s)
+B.a6Q=A.a(s(["How RAG works.","Practical application and Implementation of RAG"]),t.s)
 B.a1x=A.a(s(["Introduction in Agentic Systems","Implementierung mit crewaiTool use","Implementation with autogen"]),t.s)
 B.aaW=A.a(s(["Work on a real project","Topic can be chosen by the participants","Working in a group or alone"]),t.s)
 B.A5=A.a(s(["Open Source LLMs, e.g. Llama, Mistral","LLM Functions"]),t.s)
-B.adv=new A.R(B.GJ,[B.a37,B.yu,B.a6e,B.a9X,B.a4y,B.a6P,B.a1x,B.aaW,B.A5],t.VJ)
-B.a88=A.a(s(["Basic concepts of artificial intelligence","AI in Natural Language Processing (NLP)","Practical examples","Python Packages and Tools"]),t.s)
+B.adv=new A.R(B.GJ,[B.a37,B.yu,B.a6e,B.a9X,B.a4y,B.a6Q,B.a1x,B.aaW,B.A5],t.VJ)
+B.a89=A.a(s(["Basic concepts of artificial intelligence","AI in Natural Language Processing (NLP)","Practical examples","Python Packages and Tools"]),t.s)
 B.a9k=A.a(s(["Introduction into Huggingface","Text Classification","Zero-Shot Classification","Translation","Text summarisation","Feature Extraction","Text generation","fill mask","sentence similarity"]),t.s)
-B.a79=A.a(s(["Introduction into Prompt Engineering","Zero-Shot Prompting","Few-Shot Prompting","Chain-of-Thought","Self Consistency Chain-of-Thought","Prompt Chaining","Tree of Thought","Self Feedback","Self Critique"]),t.s)
+B.a7a=A.a(s(["Introduction into Prompt Engineering","Zero-Shot Prompting","Few-Shot Prompting","Chain-of-Thought","Self Consistency Chain-of-Thought","Prompt Chaining","Tree of Thought","Self Feedback","Self Critique"]),t.s)
 B.a9P=A.a(s(["What are Vector Databases?","Functionality of vector databases","Practical application and implementation using ChromaDB","Tokenization and vectorization of texts"]),t.s)
 B.a9Y=A.a(s(["How RAG works","Practical application and implementation of RAG"]),t.s)
 B.a9c=A.a(s(["Introduction to agent systems","Tool use","Implementation with crewai"]),t.s)
 B.a9v=A.a(s(["Work on a real project","You can choose your own topic","Processing in a group or alone"]),t.s)
-B.adw=new A.R(B.GJ,[B.a88,B.yu,B.a9k,B.a79,B.a9P,B.a9Y,B.a9c,B.a9v,B.A5],t.VJ)
+B.adw=new A.R(B.GJ,[B.a89,B.yu,B.a9k,B.a7a,B.a9P,B.a9Y,B.a9c,B.a9v,B.A5],t.VJ)
 B.ag7={svg:0,g:1,a:2,use:3,symbol:4,mask:5,pattern:6,radialGradient:7,linearGradient:8,clipPath:9,image:10,text:11,tspan:12}
 B.adx=new A.R(B.ag7,[A.bsC(),A.b9b(),A.b9b(),A.bsD(),A.b9c(),A.b9c(),A.bsA(),A.bsB(),A.bsz(),A.bsx(),A.bsy(),A.b9d(),A.b9d()],A.ai("R<h,~(lY,U)>"))
 B.ae2=new A.R(B.C,["d","ccc","cccc","LLL","LLLL","L","M/d","EEE, M/d","LLL","MMM d","EEE, MMM d","LLLL","MMMM d","EEEE, MMMM d","QQQ","QQQQ","y","M/y","M/d/y","EEE, M/d/y","MMM y","MMM d, y","EEE, MMM d, y","MMMM y","MMMM d, y","EEEE, MMMM d, y","QQQ y","QQQQ y","HH","HH:mm","HH:mm:ss","h\u202fa","h:mm\u202fa","h:mm:ss\u202fa","h:mm\u202fa v","h:mm\u202fa z","h\u202fa z","m","mm:ss","s","v","z","zzzz","ZZZZ"],t.w)
@@ -121138,7 +121138,7 @@ B.a0h=A.a(s([4294968072,null,null,8589935161]),t.Z)
 B.a5B=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
 B.Gt=new A.dj(["*",B.a0k,"+",B.a0l,"-",B.a0m,".",B.a0o,"/",B.a0p,"0",B.a0q,"1",B.a0r,"2",B.a0A,"3",B.a0C,"4",B.a0E,"5",B.a0F,"6",B.a0G,"7",B.a0H,"8",B.a0I,"9",B.a0K,"Alt",B.a5y,"AltGraph",B.a09,"ArrowDown",B.a0a,"ArrowLeft",B.a0b,"ArrowRight",B.a0c,"ArrowUp",B.a0d,"Clear",B.a0i,"Control",B.a5z,"Delete",B.a08,"End",B.a0e,"Enter",B.a07,"Home",B.a0f,"Insert",B.a0j,"Meta",B.a5A,"PageDown",B.a0g,"PageUp",B.a0h,"Shift",B.a5B],A.ai("dj<h,B<n?>>"))
 B.a0J=A.a(s([B.Bw,null,null,B.Gc]),t.L)
-B.a7Q=A.a(s([B.FZ,null,null,B.Gd]),t.L)
+B.a7R=A.a(s([B.FZ,null,null,B.Gd]),t.L)
 B.a35=A.a(s([B.G_,null,null,B.Ge]),t.L)
 B.a5L=A.a(s([B.G0,null,null,B.eX]),t.L)
 B.a_w=A.a(s([B.G1,null,null,B.Gf]),t.L)
@@ -121150,7 +121150,7 @@ B.a8L=A.a(s([B.G6,null,null,B.eZ]),t.L)
 B.a12=A.a(s([B.G7,null,null,B.p2]),t.L)
 B.a_V=A.a(s([B.G8,null,null,B.f_]),t.L)
 B.a1M=A.a(s([B.G9,null,null,B.it]),t.L)
-B.a7V=A.a(s([B.Ga,null,null,B.f0]),t.L)
+B.a7W=A.a(s([B.Ga,null,null,B.f0]),t.L)
 B.a8a=A.a(s([B.Gb,null,null,B.iu]),t.L)
 B.a1k=A.a(s([B.ip,B.ip,B.lg,null]),t.L)
 B.a9O=A.a(s([B.lc,null,B.lc,null]),t.L)
@@ -121160,16 +121160,16 @@ B.a4f=A.a(s([B.d2,null,null,B.f_]),t.L)
 B.aa1=A.a(s([B.dp,null,null,B.f0]),t.L)
 B.a8F=A.a(s([B.oV,null,null,B.p2]),t.L)
 B.a1l=A.a(s([B.io,B.io,B.lf,null]),t.L)
-B.a6H=A.a(s([B.bI,null,null,B.eX]),t.L)
+B.a6I=A.a(s([B.bI,null,null,B.eX]),t.L)
 B.a4g=A.a(s([B.eU,null,null,B.ir]),t.L)
 B.a0P=A.a(s([B.lb,null,null,B.p0]),t.L)
 B.a4h=A.a(s([B.eV,null,null,B.it]),t.L)
 B.a8G=A.a(s([B.oW,null,null,B.p1]),t.L)
 B.a1m=A.a(s([B.iq,B.iq,B.lh,null]),t.L)
 B.a4i=A.a(s([B.il,null,null,B.is]),t.L)
-B.a7g=A.a(s([B.im,null,null,B.iu]),t.L)
+B.a7h=A.a(s([B.im,null,null,B.iu]),t.L)
 B.a1n=A.a(s([B.em,B.em,B.eW,null]),t.L)
-B.af_=new A.dj(["*",B.a0J,"+",B.a7Q,"-",B.a35,".",B.a5L,"/",B.a_w,"0",B.a9N,"1",B.a8N,"2",B.a15,"3",B.aai,"4",B.a8L,"5",B.a12,"6",B.a_V,"7",B.a1M,"8",B.a7V,"9",B.a8a,"Alt",B.a1k,"AltGraph",B.a9O,"ArrowDown",B.a4d,"ArrowLeft",B.a4e,"ArrowRight",B.a4f,"ArrowUp",B.aa1,"Clear",B.a8F,"Control",B.a1l,"Delete",B.a6H,"End",B.a4g,"Enter",B.a0P,"Home",B.a4h,"Insert",B.a8G,"Meta",B.a1m,"PageDown",B.a4i,"PageUp",B.a7g,"Shift",B.a1n],A.ai("dj<h,B<m?>>"))
+B.af_=new A.dj(["*",B.a0J,"+",B.a7R,"-",B.a35,".",B.a5L,"/",B.a_w,"0",B.a9N,"1",B.a8N,"2",B.a15,"3",B.aai,"4",B.a8L,"5",B.a12,"6",B.a_V,"7",B.a1M,"8",B.a7W,"9",B.a8a,"Alt",B.a1k,"AltGraph",B.a9O,"ArrowDown",B.a4d,"ArrowLeft",B.a4e,"ArrowRight",B.a4f,"ArrowUp",B.aa1,"Clear",B.a8F,"Control",B.a1l,"Delete",B.a6I,"End",B.a4g,"Enter",B.a0P,"Home",B.a4h,"Insert",B.a8G,"Meta",B.a1m,"PageDown",B.a4i,"PageUp",B.a7h,"Shift",B.a1n],A.ai("dj<h,B<m?>>"))
 B.age={AElig:0,"AElig;":1,AMP:2,"AMP;":3,Aacute:4,"Aacute;":5,"Abreve;":6,Acirc:7,"Acirc;":8,"Acy;":9,"Afr;":10,Agrave:11,"Agrave;":12,"Alpha;":13,"Amacr;":14,"And;":15,"Aogon;":16,"Aopf;":17,"ApplyFunction;":18,Aring:19,"Aring;":20,"Ascr;":21,"Assign;":22,Atilde:23,"Atilde;":24,Auml:25,"Auml;":26,"Backslash;":27,"Barv;":28,"Barwed;":29,"Bcy;":30,"Because;":31,"Bernoullis;":32,"Beta;":33,"Bfr;":34,"Bopf;":35,"Breve;":36,"Bscr;":37,"Bumpeq;":38,"CHcy;":39,COPY:40,"COPY;":41,"Cacute;":42,"Cap;":43,"CapitalDifferentialD;":44,"Cayleys;":45,"Ccaron;":46,Ccedil:47,"Ccedil;":48,"Ccirc;":49,"Cconint;":50,"Cdot;":51,"Cedilla;":52,"CenterDot;":53,"Cfr;":54,"Chi;":55,"CircleDot;":56,"CircleMinus;":57,"CirclePlus;":58,"CircleTimes;":59,"ClockwiseContourIntegral;":60,"CloseCurlyDoubleQuote;":61,"CloseCurlyQuote;":62,"Colon;":63,"Colone;":64,"Congruent;":65,"Conint;":66,"ContourIntegral;":67,"Copf;":68,"Coproduct;":69,"CounterClockwiseContourIntegral;":70,"Cross;":71,"Cscr;":72,"Cup;":73,"CupCap;":74,"DD;":75,"DDotrahd;":76,"DJcy;":77,"DScy;":78,"DZcy;":79,"Dagger;":80,"Darr;":81,"Dashv;":82,"Dcaron;":83,"Dcy;":84,"Del;":85,"Delta;":86,"Dfr;":87,"DiacriticalAcute;":88,"DiacriticalDot;":89,"DiacriticalDoubleAcute;":90,"DiacriticalGrave;":91,"DiacriticalTilde;":92,"Diamond;":93,"DifferentialD;":94,"Dopf;":95,"Dot;":96,"DotDot;":97,"DotEqual;":98,"DoubleContourIntegral;":99,"DoubleDot;":100,"DoubleDownArrow;":101,"DoubleLeftArrow;":102,"DoubleLeftRightArrow;":103,"DoubleLeftTee;":104,"DoubleLongLeftArrow;":105,"DoubleLongLeftRightArrow;":106,"DoubleLongRightArrow;":107,"DoubleRightArrow;":108,"DoubleRightTee;":109,"DoubleUpArrow;":110,"DoubleUpDownArrow;":111,"DoubleVerticalBar;":112,"DownArrow;":113,"DownArrowBar;":114,"DownArrowUpArrow;":115,"DownBreve;":116,"DownLeftRightVector;":117,"DownLeftTeeVector;":118,"DownLeftVector;":119,"DownLeftVectorBar;":120,"DownRightTeeVector;":121,"DownRightVector;":122,"DownRightVectorBar;":123,"DownTee;":124,"DownTeeArrow;":125,"Downarrow;":126,"Dscr;":127,"Dstrok;":128,"ENG;":129,ETH:130,"ETH;":131,Eacute:132,"Eacute;":133,"Ecaron;":134,Ecirc:135,"Ecirc;":136,"Ecy;":137,"Edot;":138,"Efr;":139,Egrave:140,"Egrave;":141,"Element;":142,"Emacr;":143,"EmptySmallSquare;":144,"EmptyVerySmallSquare;":145,"Eogon;":146,"Eopf;":147,"Epsilon;":148,"Equal;":149,"EqualTilde;":150,"Equilibrium;":151,"Escr;":152,"Esim;":153,"Eta;":154,Euml:155,"Euml;":156,"Exists;":157,"ExponentialE;":158,"Fcy;":159,"Ffr;":160,"FilledSmallSquare;":161,"FilledVerySmallSquare;":162,"Fopf;":163,"ForAll;":164,"Fouriertrf;":165,"Fscr;":166,"GJcy;":167,GT:168,"GT;":169,"Gamma;":170,"Gammad;":171,"Gbreve;":172,"Gcedil;":173,"Gcirc;":174,"Gcy;":175,"Gdot;":176,"Gfr;":177,"Gg;":178,"Gopf;":179,"GreaterEqual;":180,"GreaterEqualLess;":181,"GreaterFullEqual;":182,"GreaterGreater;":183,"GreaterLess;":184,"GreaterSlantEqual;":185,"GreaterTilde;":186,"Gscr;":187,"Gt;":188,"HARDcy;":189,"Hacek;":190,"Hat;":191,"Hcirc;":192,"Hfr;":193,"HilbertSpace;":194,"Hopf;":195,"HorizontalLine;":196,"Hscr;":197,"Hstrok;":198,"HumpDownHump;":199,"HumpEqual;":200,"IEcy;":201,"IJlig;":202,"IOcy;":203,Iacute:204,"Iacute;":205,Icirc:206,"Icirc;":207,"Icy;":208,"Idot;":209,"Ifr;":210,Igrave:211,"Igrave;":212,"Im;":213,"Imacr;":214,"ImaginaryI;":215,"Implies;":216,"Int;":217,"Integral;":218,"Intersection;":219,"InvisibleComma;":220,"InvisibleTimes;":221,"Iogon;":222,"Iopf;":223,"Iota;":224,"Iscr;":225,"Itilde;":226,"Iukcy;":227,Iuml:228,"Iuml;":229,"Jcirc;":230,"Jcy;":231,"Jfr;":232,"Jopf;":233,"Jscr;":234,"Jsercy;":235,"Jukcy;":236,"KHcy;":237,"KJcy;":238,"Kappa;":239,"Kcedil;":240,"Kcy;":241,"Kfr;":242,"Kopf;":243,"Kscr;":244,"LJcy;":245,LT:246,"LT;":247,"Lacute;":248,"Lambda;":249,"Lang;":250,"Laplacetrf;":251,"Larr;":252,"Lcaron;":253,"Lcedil;":254,"Lcy;":255,"LeftAngleBracket;":256,"LeftArrow;":257,"LeftArrowBar;":258,"LeftArrowRightArrow;":259,"LeftCeiling;":260,"LeftDoubleBracket;":261,"LeftDownTeeVector;":262,"LeftDownVector;":263,"LeftDownVectorBar;":264,"LeftFloor;":265,"LeftRightArrow;":266,"LeftRightVector;":267,"LeftTee;":268,"LeftTeeArrow;":269,"LeftTeeVector;":270,"LeftTriangle;":271,"LeftTriangleBar;":272,"LeftTriangleEqual;":273,"LeftUpDownVector;":274,"LeftUpTeeVector;":275,"LeftUpVector;":276,"LeftUpVectorBar;":277,"LeftVector;":278,"LeftVectorBar;":279,"Leftarrow;":280,"Leftrightarrow;":281,"LessEqualGreater;":282,"LessFullEqual;":283,"LessGreater;":284,"LessLess;":285,"LessSlantEqual;":286,"LessTilde;":287,"Lfr;":288,"Ll;":289,"Lleftarrow;":290,"Lmidot;":291,"LongLeftArrow;":292,"LongLeftRightArrow;":293,"LongRightArrow;":294,"Longleftarrow;":295,"Longleftrightarrow;":296,"Longrightarrow;":297,"Lopf;":298,"LowerLeftArrow;":299,"LowerRightArrow;":300,"Lscr;":301,"Lsh;":302,"Lstrok;":303,"Lt;":304,"Map;":305,"Mcy;":306,"MediumSpace;":307,"Mellintrf;":308,"Mfr;":309,"MinusPlus;":310,"Mopf;":311,"Mscr;":312,"Mu;":313,"NJcy;":314,"Nacute;":315,"Ncaron;":316,"Ncedil;":317,"Ncy;":318,"NegativeMediumSpace;":319,"NegativeThickSpace;":320,"NegativeThinSpace;":321,"NegativeVeryThinSpace;":322,"NestedGreaterGreater;":323,"NestedLessLess;":324,"NewLine;":325,"Nfr;":326,"NoBreak;":327,"NonBreakingSpace;":328,"Nopf;":329,"Not;":330,"NotCongruent;":331,"NotCupCap;":332,"NotDoubleVerticalBar;":333,"NotElement;":334,"NotEqual;":335,"NotEqualTilde;":336,"NotExists;":337,"NotGreater;":338,"NotGreaterEqual;":339,"NotGreaterFullEqual;":340,"NotGreaterGreater;":341,"NotGreaterLess;":342,"NotGreaterSlantEqual;":343,"NotGreaterTilde;":344,"NotHumpDownHump;":345,"NotHumpEqual;":346,"NotLeftTriangle;":347,"NotLeftTriangleBar;":348,"NotLeftTriangleEqual;":349,"NotLess;":350,"NotLessEqual;":351,"NotLessGreater;":352,"NotLessLess;":353,"NotLessSlantEqual;":354,"NotLessTilde;":355,"NotNestedGreaterGreater;":356,"NotNestedLessLess;":357,"NotPrecedes;":358,"NotPrecedesEqual;":359,"NotPrecedesSlantEqual;":360,"NotReverseElement;":361,"NotRightTriangle;":362,"NotRightTriangleBar;":363,"NotRightTriangleEqual;":364,"NotSquareSubset;":365,"NotSquareSubsetEqual;":366,"NotSquareSuperset;":367,"NotSquareSupersetEqual;":368,"NotSubset;":369,"NotSubsetEqual;":370,"NotSucceeds;":371,"NotSucceedsEqual;":372,"NotSucceedsSlantEqual;":373,"NotSucceedsTilde;":374,"NotSuperset;":375,"NotSupersetEqual;":376,"NotTilde;":377,"NotTildeEqual;":378,"NotTildeFullEqual;":379,"NotTildeTilde;":380,"NotVerticalBar;":381,"Nscr;":382,Ntilde:383,"Ntilde;":384,"Nu;":385,"OElig;":386,Oacute:387,"Oacute;":388,Ocirc:389,"Ocirc;":390,"Ocy;":391,"Odblac;":392,"Ofr;":393,Ograve:394,"Ograve;":395,"Omacr;":396,"Omega;":397,"Omicron;":398,"Oopf;":399,"OpenCurlyDoubleQuote;":400,"OpenCurlyQuote;":401,"Or;":402,"Oscr;":403,Oslash:404,"Oslash;":405,Otilde:406,"Otilde;":407,"Otimes;":408,Ouml:409,"Ouml;":410,"OverBar;":411,"OverBrace;":412,"OverBracket;":413,"OverParenthesis;":414,"PartialD;":415,"Pcy;":416,"Pfr;":417,"Phi;":418,"Pi;":419,"PlusMinus;":420,"Poincareplane;":421,"Popf;":422,"Pr;":423,"Precedes;":424,"PrecedesEqual;":425,"PrecedesSlantEqual;":426,"PrecedesTilde;":427,"Prime;":428,"Product;":429,"Proportion;":430,"Proportional;":431,"Pscr;":432,"Psi;":433,QUOT:434,"QUOT;":435,"Qfr;":436,"Qopf;":437,"Qscr;":438,"RBarr;":439,REG:440,"REG;":441,"Racute;":442,"Rang;":443,"Rarr;":444,"Rarrtl;":445,"Rcaron;":446,"Rcedil;":447,"Rcy;":448,"Re;":449,"ReverseElement;":450,"ReverseEquilibrium;":451,"ReverseUpEquilibrium;":452,"Rfr;":453,"Rho;":454,"RightAngleBracket;":455,"RightArrow;":456,"RightArrowBar;":457,"RightArrowLeftArrow;":458,"RightCeiling;":459,"RightDoubleBracket;":460,"RightDownTeeVector;":461,"RightDownVector;":462,"RightDownVectorBar;":463,"RightFloor;":464,"RightTee;":465,"RightTeeArrow;":466,"RightTeeVector;":467,"RightTriangle;":468,"RightTriangleBar;":469,"RightTriangleEqual;":470,"RightUpDownVector;":471,"RightUpTeeVector;":472,"RightUpVector;":473,"RightUpVectorBar;":474,"RightVector;":475,"RightVectorBar;":476,"Rightarrow;":477,"Ropf;":478,"RoundImplies;":479,"Rrightarrow;":480,"Rscr;":481,"Rsh;":482,"RuleDelayed;":483,"SHCHcy;":484,"SHcy;":485,"SOFTcy;":486,"Sacute;":487,"Sc;":488,"Scaron;":489,"Scedil;":490,"Scirc;":491,"Scy;":492,"Sfr;":493,"ShortDownArrow;":494,"ShortLeftArrow;":495,"ShortRightArrow;":496,"ShortUpArrow;":497,"Sigma;":498,"SmallCircle;":499,"Sopf;":500,"Sqrt;":501,"Square;":502,"SquareIntersection;":503,"SquareSubset;":504,"SquareSubsetEqual;":505,"SquareSuperset;":506,"SquareSupersetEqual;":507,"SquareUnion;":508,"Sscr;":509,"Star;":510,"Sub;":511,"Subset;":512,"SubsetEqual;":513,"Succeeds;":514,"SucceedsEqual;":515,"SucceedsSlantEqual;":516,"SucceedsTilde;":517,"SuchThat;":518,"Sum;":519,"Sup;":520,"Superset;":521,"SupersetEqual;":522,"Supset;":523,THORN:524,"THORN;":525,"TRADE;":526,"TSHcy;":527,"TScy;":528,"Tab;":529,"Tau;":530,"Tcaron;":531,"Tcedil;":532,"Tcy;":533,"Tfr;":534,"Therefore;":535,"Theta;":536,"ThickSpace;":537,"ThinSpace;":538,"Tilde;":539,"TildeEqual;":540,"TildeFullEqual;":541,"TildeTilde;":542,"Topf;":543,"TripleDot;":544,"Tscr;":545,"Tstrok;":546,Uacute:547,"Uacute;":548,"Uarr;":549,"Uarrocir;":550,"Ubrcy;":551,"Ubreve;":552,Ucirc:553,"Ucirc;":554,"Ucy;":555,"Udblac;":556,"Ufr;":557,Ugrave:558,"Ugrave;":559,"Umacr;":560,"UnderBar;":561,"UnderBrace;":562,"UnderBracket;":563,"UnderParenthesis;":564,"Union;":565,"UnionPlus;":566,"Uogon;":567,"Uopf;":568,"UpArrow;":569,"UpArrowBar;":570,"UpArrowDownArrow;":571,"UpDownArrow;":572,"UpEquilibrium;":573,"UpTee;":574,"UpTeeArrow;":575,"Uparrow;":576,"Updownarrow;":577,"UpperLeftArrow;":578,"UpperRightArrow;":579,"Upsi;":580,"Upsilon;":581,"Uring;":582,"Uscr;":583,"Utilde;":584,Uuml:585,"Uuml;":586,"VDash;":587,"Vbar;":588,"Vcy;":589,"Vdash;":590,"Vdashl;":591,"Vee;":592,"Verbar;":593,"Vert;":594,"VerticalBar;":595,"VerticalLine;":596,"VerticalSeparator;":597,"VerticalTilde;":598,"VeryThinSpace;":599,"Vfr;":600,"Vopf;":601,"Vscr;":602,"Vvdash;":603,"Wcirc;":604,"Wedge;":605,"Wfr;":606,"Wopf;":607,"Wscr;":608,"Xfr;":609,"Xi;":610,"Xopf;":611,"Xscr;":612,"YAcy;":613,"YIcy;":614,"YUcy;":615,Yacute:616,"Yacute;":617,"Ycirc;":618,"Ycy;":619,"Yfr;":620,"Yopf;":621,"Yscr;":622,"Yuml;":623,"ZHcy;":624,"Zacute;":625,"Zcaron;":626,"Zcy;":627,"Zdot;":628,"ZeroWidthSpace;":629,"Zeta;":630,"Zfr;":631,"Zopf;":632,"Zscr;":633,aacute:634,"aacute;":635,"abreve;":636,"ac;":637,"acE;":638,"acd;":639,acirc:640,"acirc;":641,acute:642,"acute;":643,"acy;":644,aelig:645,"aelig;":646,"af;":647,"afr;":648,agrave:649,"agrave;":650,"alefsym;":651,"aleph;":652,"alpha;":653,"amacr;":654,"amalg;":655,amp:656,"amp;":657,"and;":658,"andand;":659,"andd;":660,"andslope;":661,"andv;":662,"ang;":663,"ange;":664,"angle;":665,"angmsd;":666,"angmsdaa;":667,"angmsdab;":668,"angmsdac;":669,"angmsdad;":670,"angmsdae;":671,"angmsdaf;":672,"angmsdag;":673,"angmsdah;":674,"angrt;":675,"angrtvb;":676,"angrtvbd;":677,"angsph;":678,"angst;":679,"angzarr;":680,"aogon;":681,"aopf;":682,"ap;":683,"apE;":684,"apacir;":685,"ape;":686,"apid;":687,"apos;":688,"approx;":689,"approxeq;":690,aring:691,"aring;":692,"ascr;":693,"ast;":694,"asymp;":695,"asympeq;":696,atilde:697,"atilde;":698,auml:699,"auml;":700,"awconint;":701,"awint;":702,"bNot;":703,"backcong;":704,"backepsilon;":705,"backprime;":706,"backsim;":707,"backsimeq;":708,"barvee;":709,"barwed;":710,"barwedge;":711,"bbrk;":712,"bbrktbrk;":713,"bcong;":714,"bcy;":715,"bdquo;":716,"becaus;":717,"because;":718,"bemptyv;":719,"bepsi;":720,"bernou;":721,"beta;":722,"beth;":723,"between;":724,"bfr;":725,"bigcap;":726,"bigcirc;":727,"bigcup;":728,"bigodot;":729,"bigoplus;":730,"bigotimes;":731,"bigsqcup;":732,"bigstar;":733,"bigtriangledown;":734,"bigtriangleup;":735,"biguplus;":736,"bigvee;":737,"bigwedge;":738,"bkarow;":739,"blacklozenge;":740,"blacksquare;":741,"blacktriangle;":742,"blacktriangledown;":743,"blacktriangleleft;":744,"blacktriangleright;":745,"blank;":746,"blk12;":747,"blk14;":748,"blk34;":749,"block;":750,"bne;":751,"bnequiv;":752,"bnot;":753,"bopf;":754,"bot;":755,"bottom;":756,"bowtie;":757,"boxDL;":758,"boxDR;":759,"boxDl;":760,"boxDr;":761,"boxH;":762,"boxHD;":763,"boxHU;":764,"boxHd;":765,"boxHu;":766,"boxUL;":767,"boxUR;":768,"boxUl;":769,"boxUr;":770,"boxV;":771,"boxVH;":772,"boxVL;":773,"boxVR;":774,"boxVh;":775,"boxVl;":776,"boxVr;":777,"boxbox;":778,"boxdL;":779,"boxdR;":780,"boxdl;":781,"boxdr;":782,"boxh;":783,"boxhD;":784,"boxhU;":785,"boxhd;":786,"boxhu;":787,"boxminus;":788,"boxplus;":789,"boxtimes;":790,"boxuL;":791,"boxuR;":792,"boxul;":793,"boxur;":794,"boxv;":795,"boxvH;":796,"boxvL;":797,"boxvR;":798,"boxvh;":799,"boxvl;":800,"boxvr;":801,"bprime;":802,"breve;":803,brvbar:804,"brvbar;":805,"bscr;":806,"bsemi;":807,"bsim;":808,"bsime;":809,"bsol;":810,"bsolb;":811,"bsolhsub;":812,"bull;":813,"bullet;":814,"bump;":815,"bumpE;":816,"bumpe;":817,"bumpeq;":818,"cacute;":819,"cap;":820,"capand;":821,"capbrcup;":822,"capcap;":823,"capcup;":824,"capdot;":825,"caps;":826,"caret;":827,"caron;":828,"ccaps;":829,"ccaron;":830,ccedil:831,"ccedil;":832,"ccirc;":833,"ccups;":834,"ccupssm;":835,"cdot;":836,cedil:837,"cedil;":838,"cemptyv;":839,cent:840,"cent;":841,"centerdot;":842,"cfr;":843,"chcy;":844,"check;":845,"checkmark;":846,"chi;":847,"cir;":848,"cirE;":849,"circ;":850,"circeq;":851,"circlearrowleft;":852,"circlearrowright;":853,"circledR;":854,"circledS;":855,"circledast;":856,"circledcirc;":857,"circleddash;":858,"cire;":859,"cirfnint;":860,"cirmid;":861,"cirscir;":862,"clubs;":863,"clubsuit;":864,"colon;":865,"colone;":866,"coloneq;":867,"comma;":868,"commat;":869,"comp;":870,"compfn;":871,"complement;":872,"complexes;":873,"cong;":874,"congdot;":875,"conint;":876,"copf;":877,"coprod;":878,copy:879,"copy;":880,"copysr;":881,"crarr;":882,"cross;":883,"cscr;":884,"csub;":885,"csube;":886,"csup;":887,"csupe;":888,"ctdot;":889,"cudarrl;":890,"cudarrr;":891,"cuepr;":892,"cuesc;":893,"cularr;":894,"cularrp;":895,"cup;":896,"cupbrcap;":897,"cupcap;":898,"cupcup;":899,"cupdot;":900,"cupor;":901,"cups;":902,"curarr;":903,"curarrm;":904,"curlyeqprec;":905,"curlyeqsucc;":906,"curlyvee;":907,"curlywedge;":908,curren:909,"curren;":910,"curvearrowleft;":911,"curvearrowright;":912,"cuvee;":913,"cuwed;":914,"cwconint;":915,"cwint;":916,"cylcty;":917,"dArr;":918,"dHar;":919,"dagger;":920,"daleth;":921,"darr;":922,"dash;":923,"dashv;":924,"dbkarow;":925,"dblac;":926,"dcaron;":927,"dcy;":928,"dd;":929,"ddagger;":930,"ddarr;":931,"ddotseq;":932,deg:933,"deg;":934,"delta;":935,"demptyv;":936,"dfisht;":937,"dfr;":938,"dharl;":939,"dharr;":940,"diam;":941,"diamond;":942,"diamondsuit;":943,"diams;":944,"die;":945,"digamma;":946,"disin;":947,"div;":948,divide:949,"divide;":950,"divideontimes;":951,"divonx;":952,"djcy;":953,"dlcorn;":954,"dlcrop;":955,"dollar;":956,"dopf;":957,"dot;":958,"doteq;":959,"doteqdot;":960,"dotminus;":961,"dotplus;":962,"dotsquare;":963,"doublebarwedge;":964,"downarrow;":965,"downdownarrows;":966,"downharpoonleft;":967,"downharpoonright;":968,"drbkarow;":969,"drcorn;":970,"drcrop;":971,"dscr;":972,"dscy;":973,"dsol;":974,"dstrok;":975,"dtdot;":976,"dtri;":977,"dtrif;":978,"duarr;":979,"duhar;":980,"dwangle;":981,"dzcy;":982,"dzigrarr;":983,"eDDot;":984,"eDot;":985,eacute:986,"eacute;":987,"easter;":988,"ecaron;":989,"ecir;":990,ecirc:991,"ecirc;":992,"ecolon;":993,"ecy;":994,"edot;":995,"ee;":996,"efDot;":997,"efr;":998,"eg;":999,egrave:1000,"egrave;":1001,"egs;":1002,"egsdot;":1003,"el;":1004,"elinters;":1005,"ell;":1006,"els;":1007,"elsdot;":1008,"emacr;":1009,"empty;":1010,"emptyset;":1011,"emptyv;":1012,"emsp13;":1013,"emsp14;":1014,"emsp;":1015,"eng;":1016,"ensp;":1017,"eogon;":1018,"eopf;":1019,"epar;":1020,"eparsl;":1021,"eplus;":1022,"epsi;":1023,"epsilon;":1024,"epsiv;":1025,"eqcirc;":1026,"eqcolon;":1027,"eqsim;":1028,"eqslantgtr;":1029,"eqslantless;":1030,"equals;":1031,"equest;":1032,"equiv;":1033,"equivDD;":1034,"eqvparsl;":1035,"erDot;":1036,"erarr;":1037,"escr;":1038,"esdot;":1039,"esim;":1040,"eta;":1041,eth:1042,"eth;":1043,euml:1044,"euml;":1045,"euro;":1046,"excl;":1047,"exist;":1048,"expectation;":1049,"exponentiale;":1050,"fallingdotseq;":1051,"fcy;":1052,"female;":1053,"ffilig;":1054,"fflig;":1055,"ffllig;":1056,"ffr;":1057,"filig;":1058,"fjlig;":1059,"flat;":1060,"fllig;":1061,"fltns;":1062,"fnof;":1063,"fopf;":1064,"forall;":1065,"fork;":1066,"forkv;":1067,"fpartint;":1068,frac12:1069,"frac12;":1070,"frac13;":1071,frac14:1072,"frac14;":1073,"frac15;":1074,"frac16;":1075,"frac18;":1076,"frac23;":1077,"frac25;":1078,frac34:1079,"frac34;":1080,"frac35;":1081,"frac38;":1082,"frac45;":1083,"frac56;":1084,"frac58;":1085,"frac78;":1086,"frasl;":1087,"frown;":1088,"fscr;":1089,"gE;":1090,"gEl;":1091,"gacute;":1092,"gamma;":1093,"gammad;":1094,"gap;":1095,"gbreve;":1096,"gcirc;":1097,"gcy;":1098,"gdot;":1099,"ge;":1100,"gel;":1101,"geq;":1102,"geqq;":1103,"geqslant;":1104,"ges;":1105,"gescc;":1106,"gesdot;":1107,"gesdoto;":1108,"gesdotol;":1109,"gesl;":1110,"gesles;":1111,"gfr;":1112,"gg;":1113,"ggg;":1114,"gimel;":1115,"gjcy;":1116,"gl;":1117,"glE;":1118,"gla;":1119,"glj;":1120,"gnE;":1121,"gnap;":1122,"gnapprox;":1123,"gne;":1124,"gneq;":1125,"gneqq;":1126,"gnsim;":1127,"gopf;":1128,"grave;":1129,"gscr;":1130,"gsim;":1131,"gsime;":1132,"gsiml;":1133,gt:1134,"gt;":1135,"gtcc;":1136,"gtcir;":1137,"gtdot;":1138,"gtlPar;":1139,"gtquest;":1140,"gtrapprox;":1141,"gtrarr;":1142,"gtrdot;":1143,"gtreqless;":1144,"gtreqqless;":1145,"gtrless;":1146,"gtrsim;":1147,"gvertneqq;":1148,"gvnE;":1149,"hArr;":1150,"hairsp;":1151,"half;":1152,"hamilt;":1153,"hardcy;":1154,"harr;":1155,"harrcir;":1156,"harrw;":1157,"hbar;":1158,"hcirc;":1159,"hearts;":1160,"heartsuit;":1161,"hellip;":1162,"hercon;":1163,"hfr;":1164,"hksearow;":1165,"hkswarow;":1166,"hoarr;":1167,"homtht;":1168,"hookleftarrow;":1169,"hookrightarrow;":1170,"hopf;":1171,"horbar;":1172,"hscr;":1173,"hslash;":1174,"hstrok;":1175,"hybull;":1176,"hyphen;":1177,iacute:1178,"iacute;":1179,"ic;":1180,icirc:1181,"icirc;":1182,"icy;":1183,"iecy;":1184,iexcl:1185,"iexcl;":1186,"iff;":1187,"ifr;":1188,igrave:1189,"igrave;":1190,"ii;":1191,"iiiint;":1192,"iiint;":1193,"iinfin;":1194,"iiota;":1195,"ijlig;":1196,"imacr;":1197,"image;":1198,"imagline;":1199,"imagpart;":1200,"imath;":1201,"imof;":1202,"imped;":1203,"in;":1204,"incare;":1205,"infin;":1206,"infintie;":1207,"inodot;":1208,"int;":1209,"intcal;":1210,"integers;":1211,"intercal;":1212,"intlarhk;":1213,"intprod;":1214,"iocy;":1215,"iogon;":1216,"iopf;":1217,"iota;":1218,"iprod;":1219,iquest:1220,"iquest;":1221,"iscr;":1222,"isin;":1223,"isinE;":1224,"isindot;":1225,"isins;":1226,"isinsv;":1227,"isinv;":1228,"it;":1229,"itilde;":1230,"iukcy;":1231,iuml:1232,"iuml;":1233,"jcirc;":1234,"jcy;":1235,"jfr;":1236,"jmath;":1237,"jopf;":1238,"jscr;":1239,"jsercy;":1240,"jukcy;":1241,"kappa;":1242,"kappav;":1243,"kcedil;":1244,"kcy;":1245,"kfr;":1246,"kgreen;":1247,"khcy;":1248,"kjcy;":1249,"kopf;":1250,"kscr;":1251,"lAarr;":1252,"lArr;":1253,"lAtail;":1254,"lBarr;":1255,"lE;":1256,"lEg;":1257,"lHar;":1258,"lacute;":1259,"laemptyv;":1260,"lagran;":1261,"lambda;":1262,"lang;":1263,"langd;":1264,"langle;":1265,"lap;":1266,laquo:1267,"laquo;":1268,"larr;":1269,"larrb;":1270,"larrbfs;":1271,"larrfs;":1272,"larrhk;":1273,"larrlp;":1274,"larrpl;":1275,"larrsim;":1276,"larrtl;":1277,"lat;":1278,"latail;":1279,"late;":1280,"lates;":1281,"lbarr;":1282,"lbbrk;":1283,"lbrace;":1284,"lbrack;":1285,"lbrke;":1286,"lbrksld;":1287,"lbrkslu;":1288,"lcaron;":1289,"lcedil;":1290,"lceil;":1291,"lcub;":1292,"lcy;":1293,"ldca;":1294,"ldquo;":1295,"ldquor;":1296,"ldrdhar;":1297,"ldrushar;":1298,"ldsh;":1299,"le;":1300,"leftarrow;":1301,"leftarrowtail;":1302,"leftharpoondown;":1303,"leftharpoonup;":1304,"leftleftarrows;":1305,"leftrightarrow;":1306,"leftrightarrows;":1307,"leftrightharpoons;":1308,"leftrightsquigarrow;":1309,"leftthreetimes;":1310,"leg;":1311,"leq;":1312,"leqq;":1313,"leqslant;":1314,"les;":1315,"lescc;":1316,"lesdot;":1317,"lesdoto;":1318,"lesdotor;":1319,"lesg;":1320,"lesges;":1321,"lessapprox;":1322,"lessdot;":1323,"lesseqgtr;":1324,"lesseqqgtr;":1325,"lessgtr;":1326,"lesssim;":1327,"lfisht;":1328,"lfloor;":1329,"lfr;":1330,"lg;":1331,"lgE;":1332,"lhard;":1333,"lharu;":1334,"lharul;":1335,"lhblk;":1336,"ljcy;":1337,"ll;":1338,"llarr;":1339,"llcorner;":1340,"llhard;":1341,"lltri;":1342,"lmidot;":1343,"lmoust;":1344,"lmoustache;":1345,"lnE;":1346,"lnap;":1347,"lnapprox;":1348,"lne;":1349,"lneq;":1350,"lneqq;":1351,"lnsim;":1352,"loang;":1353,"loarr;":1354,"lobrk;":1355,"longleftarrow;":1356,"longleftrightarrow;":1357,"longmapsto;":1358,"longrightarrow;":1359,"looparrowleft;":1360,"looparrowright;":1361,"lopar;":1362,"lopf;":1363,"loplus;":1364,"lotimes;":1365,"lowast;":1366,"lowbar;":1367,"loz;":1368,"lozenge;":1369,"lozf;":1370,"lpar;":1371,"lparlt;":1372,"lrarr;":1373,"lrcorner;":1374,"lrhar;":1375,"lrhard;":1376,"lrm;":1377,"lrtri;":1378,"lsaquo;":1379,"lscr;":1380,"lsh;":1381,"lsim;":1382,"lsime;":1383,"lsimg;":1384,"lsqb;":1385,"lsquo;":1386,"lsquor;":1387,"lstrok;":1388,lt:1389,"lt;":1390,"ltcc;":1391,"ltcir;":1392,"ltdot;":1393,"lthree;":1394,"ltimes;":1395,"ltlarr;":1396,"ltquest;":1397,"ltrPar;":1398,"ltri;":1399,"ltrie;":1400,"ltrif;":1401,"lurdshar;":1402,"luruhar;":1403,"lvertneqq;":1404,"lvnE;":1405,"mDDot;":1406,macr:1407,"macr;":1408,"male;":1409,"malt;":1410,"maltese;":1411,"map;":1412,"mapsto;":1413,"mapstodown;":1414,"mapstoleft;":1415,"mapstoup;":1416,"marker;":1417,"mcomma;":1418,"mcy;":1419,"mdash;":1420,"measuredangle;":1421,"mfr;":1422,"mho;":1423,micro:1424,"micro;":1425,"mid;":1426,"midast;":1427,"midcir;":1428,middot:1429,"middot;":1430,"minus;":1431,"minusb;":1432,"minusd;":1433,"minusdu;":1434,"mlcp;":1435,"mldr;":1436,"mnplus;":1437,"models;":1438,"mopf;":1439,"mp;":1440,"mscr;":1441,"mstpos;":1442,"mu;":1443,"multimap;":1444,"mumap;":1445,"nGg;":1446,"nGt;":1447,"nGtv;":1448,"nLeftarrow;":1449,"nLeftrightarrow;":1450,"nLl;":1451,"nLt;":1452,"nLtv;":1453,"nRightarrow;":1454,"nVDash;":1455,"nVdash;":1456,"nabla;":1457,"nacute;":1458,"nang;":1459,"nap;":1460,"napE;":1461,"napid;":1462,"napos;":1463,"napprox;":1464,"natur;":1465,"natural;":1466,"naturals;":1467,nbsp:1468,"nbsp;":1469,"nbump;":1470,"nbumpe;":1471,"ncap;":1472,"ncaron;":1473,"ncedil;":1474,"ncong;":1475,"ncongdot;":1476,"ncup;":1477,"ncy;":1478,"ndash;":1479,"ne;":1480,"neArr;":1481,"nearhk;":1482,"nearr;":1483,"nearrow;":1484,"nedot;":1485,"nequiv;":1486,"nesear;":1487,"nesim;":1488,"nexist;":1489,"nexists;":1490,"nfr;":1491,"ngE;":1492,"nge;":1493,"ngeq;":1494,"ngeqq;":1495,"ngeqslant;":1496,"nges;":1497,"ngsim;":1498,"ngt;":1499,"ngtr;":1500,"nhArr;":1501,"nharr;":1502,"nhpar;":1503,"ni;":1504,"nis;":1505,"nisd;":1506,"niv;":1507,"njcy;":1508,"nlArr;":1509,"nlE;":1510,"nlarr;":1511,"nldr;":1512,"nle;":1513,"nleftarrow;":1514,"nleftrightarrow;":1515,"nleq;":1516,"nleqq;":1517,"nleqslant;":1518,"nles;":1519,"nless;":1520,"nlsim;":1521,"nlt;":1522,"nltri;":1523,"nltrie;":1524,"nmid;":1525,"nopf;":1526,not:1527,"not;":1528,"notin;":1529,"notinE;":1530,"notindot;":1531,"notinva;":1532,"notinvb;":1533,"notinvc;":1534,"notni;":1535,"notniva;":1536,"notnivb;":1537,"notnivc;":1538,"npar;":1539,"nparallel;":1540,"nparsl;":1541,"npart;":1542,"npolint;":1543,"npr;":1544,"nprcue;":1545,"npre;":1546,"nprec;":1547,"npreceq;":1548,"nrArr;":1549,"nrarr;":1550,"nrarrc;":1551,"nrarrw;":1552,"nrightarrow;":1553,"nrtri;":1554,"nrtrie;":1555,"nsc;":1556,"nsccue;":1557,"nsce;":1558,"nscr;":1559,"nshortmid;":1560,"nshortparallel;":1561,"nsim;":1562,"nsime;":1563,"nsimeq;":1564,"nsmid;":1565,"nspar;":1566,"nsqsube;":1567,"nsqsupe;":1568,"nsub;":1569,"nsubE;":1570,"nsube;":1571,"nsubset;":1572,"nsubseteq;":1573,"nsubseteqq;":1574,"nsucc;":1575,"nsucceq;":1576,"nsup;":1577,"nsupE;":1578,"nsupe;":1579,"nsupset;":1580,"nsupseteq;":1581,"nsupseteqq;":1582,"ntgl;":1583,ntilde:1584,"ntilde;":1585,"ntlg;":1586,"ntriangleleft;":1587,"ntrianglelefteq;":1588,"ntriangleright;":1589,"ntrianglerighteq;":1590,"nu;":1591,"num;":1592,"numero;":1593,"numsp;":1594,"nvDash;":1595,"nvHarr;":1596,"nvap;":1597,"nvdash;":1598,"nvge;":1599,"nvgt;":1600,"nvinfin;":1601,"nvlArr;":1602,"nvle;":1603,"nvlt;":1604,"nvltrie;":1605,"nvrArr;":1606,"nvrtrie;":1607,"nvsim;":1608,"nwArr;":1609,"nwarhk;":1610,"nwarr;":1611,"nwarrow;":1612,"nwnear;":1613,"oS;":1614,oacute:1615,"oacute;":1616,"oast;":1617,"ocir;":1618,ocirc:1619,"ocirc;":1620,"ocy;":1621,"odash;":1622,"odblac;":1623,"odiv;":1624,"odot;":1625,"odsold;":1626,"oelig;":1627,"ofcir;":1628,"ofr;":1629,"ogon;":1630,ograve:1631,"ograve;":1632,"ogt;":1633,"ohbar;":1634,"ohm;":1635,"oint;":1636,"olarr;":1637,"olcir;":1638,"olcross;":1639,"oline;":1640,"olt;":1641,"omacr;":1642,"omega;":1643,"omicron;":1644,"omid;":1645,"ominus;":1646,"oopf;":1647,"opar;":1648,"operp;":1649,"oplus;":1650,"or;":1651,"orarr;":1652,"ord;":1653,"order;":1654,"orderof;":1655,ordf:1656,"ordf;":1657,ordm:1658,"ordm;":1659,"origof;":1660,"oror;":1661,"orslope;":1662,"orv;":1663,"oscr;":1664,oslash:1665,"oslash;":1666,"osol;":1667,otilde:1668,"otilde;":1669,"otimes;":1670,"otimesas;":1671,ouml:1672,"ouml;":1673,"ovbar;":1674,"par;":1675,para:1676,"para;":1677,"parallel;":1678,"parsim;":1679,"parsl;":1680,"part;":1681,"pcy;":1682,"percnt;":1683,"period;":1684,"permil;":1685,"perp;":1686,"pertenk;":1687,"pfr;":1688,"phi;":1689,"phiv;":1690,"phmmat;":1691,"phone;":1692,"pi;":1693,"pitchfork;":1694,"piv;":1695,"planck;":1696,"planckh;":1697,"plankv;":1698,"plus;":1699,"plusacir;":1700,"plusb;":1701,"pluscir;":1702,"plusdo;":1703,"plusdu;":1704,"pluse;":1705,plusmn:1706,"plusmn;":1707,"plussim;":1708,"plustwo;":1709,"pm;":1710,"pointint;":1711,"popf;":1712,pound:1713,"pound;":1714,"pr;":1715,"prE;":1716,"prap;":1717,"prcue;":1718,"pre;":1719,"prec;":1720,"precapprox;":1721,"preccurlyeq;":1722,"preceq;":1723,"precnapprox;":1724,"precneqq;":1725,"precnsim;":1726,"precsim;":1727,"prime;":1728,"primes;":1729,"prnE;":1730,"prnap;":1731,"prnsim;":1732,"prod;":1733,"profalar;":1734,"profline;":1735,"profsurf;":1736,"prop;":1737,"propto;":1738,"prsim;":1739,"prurel;":1740,"pscr;":1741,"psi;":1742,"puncsp;":1743,"qfr;":1744,"qint;":1745,"qopf;":1746,"qprime;":1747,"qscr;":1748,"quaternions;":1749,"quatint;":1750,"quest;":1751,"questeq;":1752,quot:1753,"quot;":1754,"rAarr;":1755,"rArr;":1756,"rAtail;":1757,"rBarr;":1758,"rHar;":1759,"race;":1760,"racute;":1761,"radic;":1762,"raemptyv;":1763,"rang;":1764,"rangd;":1765,"range;":1766,"rangle;":1767,raquo:1768,"raquo;":1769,"rarr;":1770,"rarrap;":1771,"rarrb;":1772,"rarrbfs;":1773,"rarrc;":1774,"rarrfs;":1775,"rarrhk;":1776,"rarrlp;":1777,"rarrpl;":1778,"rarrsim;":1779,"rarrtl;":1780,"rarrw;":1781,"ratail;":1782,"ratio;":1783,"rationals;":1784,"rbarr;":1785,"rbbrk;":1786,"rbrace;":1787,"rbrack;":1788,"rbrke;":1789,"rbrksld;":1790,"rbrkslu;":1791,"rcaron;":1792,"rcedil;":1793,"rceil;":1794,"rcub;":1795,"rcy;":1796,"rdca;":1797,"rdldhar;":1798,"rdquo;":1799,"rdquor;":1800,"rdsh;":1801,"real;":1802,"realine;":1803,"realpart;":1804,"reals;":1805,"rect;":1806,reg:1807,"reg;":1808,"rfisht;":1809,"rfloor;":1810,"rfr;":1811,"rhard;":1812,"rharu;":1813,"rharul;":1814,"rho;":1815,"rhov;":1816,"rightarrow;":1817,"rightarrowtail;":1818,"rightharpoondown;":1819,"rightharpoonup;":1820,"rightleftarrows;":1821,"rightleftharpoons;":1822,"rightrightarrows;":1823,"rightsquigarrow;":1824,"rightthreetimes;":1825,"ring;":1826,"risingdotseq;":1827,"rlarr;":1828,"rlhar;":1829,"rlm;":1830,"rmoust;":1831,"rmoustache;":1832,"rnmid;":1833,"roang;":1834,"roarr;":1835,"robrk;":1836,"ropar;":1837,"ropf;":1838,"roplus;":1839,"rotimes;":1840,"rpar;":1841,"rpargt;":1842,"rppolint;":1843,"rrarr;":1844,"rsaquo;":1845,"rscr;":1846,"rsh;":1847,"rsqb;":1848,"rsquo;":1849,"rsquor;":1850,"rthree;":1851,"rtimes;":1852,"rtri;":1853,"rtrie;":1854,"rtrif;":1855,"rtriltri;":1856,"ruluhar;":1857,"rx;":1858,"sacute;":1859,"sbquo;":1860,"sc;":1861,"scE;":1862,"scap;":1863,"scaron;":1864,"sccue;":1865,"sce;":1866,"scedil;":1867,"scirc;":1868,"scnE;":1869,"scnap;":1870,"scnsim;":1871,"scpolint;":1872,"scsim;":1873,"scy;":1874,"sdot;":1875,"sdotb;":1876,"sdote;":1877,"seArr;":1878,"searhk;":1879,"searr;":1880,"searrow;":1881,sect:1882,"sect;":1883,"semi;":1884,"seswar;":1885,"setminus;":1886,"setmn;":1887,"sext;":1888,"sfr;":1889,"sfrown;":1890,"sharp;":1891,"shchcy;":1892,"shcy;":1893,"shortmid;":1894,"shortparallel;":1895,shy:1896,"shy;":1897,"sigma;":1898,"sigmaf;":1899,"sigmav;":1900,"sim;":1901,"simdot;":1902,"sime;":1903,"simeq;":1904,"simg;":1905,"simgE;":1906,"siml;":1907,"simlE;":1908,"simne;":1909,"simplus;":1910,"simrarr;":1911,"slarr;":1912,"smallsetminus;":1913,"smashp;":1914,"smeparsl;":1915,"smid;":1916,"smile;":1917,"smt;":1918,"smte;":1919,"smtes;":1920,"softcy;":1921,"sol;":1922,"solb;":1923,"solbar;":1924,"sopf;":1925,"spades;":1926,"spadesuit;":1927,"spar;":1928,"sqcap;":1929,"sqcaps;":1930,"sqcup;":1931,"sqcups;":1932,"sqsub;":1933,"sqsube;":1934,"sqsubset;":1935,"sqsubseteq;":1936,"sqsup;":1937,"sqsupe;":1938,"sqsupset;":1939,"sqsupseteq;":1940,"squ;":1941,"square;":1942,"squarf;":1943,"squf;":1944,"srarr;":1945,"sscr;":1946,"ssetmn;":1947,"ssmile;":1948,"sstarf;":1949,"star;":1950,"starf;":1951,"straightepsilon;":1952,"straightphi;":1953,"strns;":1954,"sub;":1955,"subE;":1956,"subdot;":1957,"sube;":1958,"subedot;":1959,"submult;":1960,"subnE;":1961,"subne;":1962,"subplus;":1963,"subrarr;":1964,"subset;":1965,"subseteq;":1966,"subseteqq;":1967,"subsetneq;":1968,"subsetneqq;":1969,"subsim;":1970,"subsub;":1971,"subsup;":1972,"succ;":1973,"succapprox;":1974,"succcurlyeq;":1975,"succeq;":1976,"succnapprox;":1977,"succneqq;":1978,"succnsim;":1979,"succsim;":1980,"sum;":1981,"sung;":1982,sup1:1983,"sup1;":1984,sup2:1985,"sup2;":1986,sup3:1987,"sup3;":1988,"sup;":1989,"supE;":1990,"supdot;":1991,"supdsub;":1992,"supe;":1993,"supedot;":1994,"suphsol;":1995,"suphsub;":1996,"suplarr;":1997,"supmult;":1998,"supnE;":1999,"supne;":2000,"supplus;":2001,"supset;":2002,"supseteq;":2003,"supseteqq;":2004,"supsetneq;":2005,"supsetneqq;":2006,"supsim;":2007,"supsub;":2008,"supsup;":2009,"swArr;":2010,"swarhk;":2011,"swarr;":2012,"swarrow;":2013,"swnwar;":2014,szlig:2015,"szlig;":2016,"target;":2017,"tau;":2018,"tbrk;":2019,"tcaron;":2020,"tcedil;":2021,"tcy;":2022,"tdot;":2023,"telrec;":2024,"tfr;":2025,"there4;":2026,"therefore;":2027,"theta;":2028,"thetasym;":2029,"thetav;":2030,"thickapprox;":2031,"thicksim;":2032,"thinsp;":2033,"thkap;":2034,"thksim;":2035,thorn:2036,"thorn;":2037,"tilde;":2038,times:2039,"times;":2040,"timesb;":2041,"timesbar;":2042,"timesd;":2043,"tint;":2044,"toea;":2045,"top;":2046,"topbot;":2047,"topcir;":2048,"topf;":2049,"topfork;":2050,"tosa;":2051,"tprime;":2052,"trade;":2053,"triangle;":2054,"triangledown;":2055,"triangleleft;":2056,"trianglelefteq;":2057,"triangleq;":2058,"triangleright;":2059,"trianglerighteq;":2060,"tridot;":2061,"trie;":2062,"triminus;":2063,"triplus;":2064,"trisb;":2065,"tritime;":2066,"trpezium;":2067,"tscr;":2068,"tscy;":2069,"tshcy;":2070,"tstrok;":2071,"twixt;":2072,"twoheadleftarrow;":2073,"twoheadrightarrow;":2074,"uArr;":2075,"uHar;":2076,uacute:2077,"uacute;":2078,"uarr;":2079,"ubrcy;":2080,"ubreve;":2081,ucirc:2082,"ucirc;":2083,"ucy;":2084,"udarr;":2085,"udblac;":2086,"udhar;":2087,"ufisht;":2088,"ufr;":2089,ugrave:2090,"ugrave;":2091,"uharl;":2092,"uharr;":2093,"uhblk;":2094,"ulcorn;":2095,"ulcorner;":2096,"ulcrop;":2097,"ultri;":2098,"umacr;":2099,uml:2100,"uml;":2101,"uogon;":2102,"uopf;":2103,"uparrow;":2104,"updownarrow;":2105,"upharpoonleft;":2106,"upharpoonright;":2107,"uplus;":2108,"upsi;":2109,"upsih;":2110,"upsilon;":2111,"upuparrows;":2112,"urcorn;":2113,"urcorner;":2114,"urcrop;":2115,"uring;":2116,"urtri;":2117,"uscr;":2118,"utdot;":2119,"utilde;":2120,"utri;":2121,"utrif;":2122,"uuarr;":2123,uuml:2124,"uuml;":2125,"uwangle;":2126,"vArr;":2127,"vBar;":2128,"vBarv;":2129,"vDash;":2130,"vangrt;":2131,"varepsilon;":2132,"varkappa;":2133,"varnothing;":2134,"varphi;":2135,"varpi;":2136,"varpropto;":2137,"varr;":2138,"varrho;":2139,"varsigma;":2140,"varsubsetneq;":2141,"varsubsetneqq;":2142,"varsupsetneq;":2143,"varsupsetneqq;":2144,"vartheta;":2145,"vartriangleleft;":2146,"vartriangleright;":2147,"vcy;":2148,"vdash;":2149,"vee;":2150,"veebar;":2151,"veeeq;":2152,"vellip;":2153,"verbar;":2154,"vert;":2155,"vfr;":2156,"vltri;":2157,"vnsub;":2158,"vnsup;":2159,"vopf;":2160,"vprop;":2161,"vrtri;":2162,"vscr;":2163,"vsubnE;":2164,"vsubne;":2165,"vsupnE;":2166,"vsupne;":2167,"vzigzag;":2168,"wcirc;":2169,"wedbar;":2170,"wedge;":2171,"wedgeq;":2172,"weierp;":2173,"wfr;":2174,"wopf;":2175,"wp;":2176,"wr;":2177,"wreath;":2178,"wscr;":2179,"xcap;":2180,"xcirc;":2181,"xcup;":2182,"xdtri;":2183,"xfr;":2184,"xhArr;":2185,"xharr;":2186,"xi;":2187,"xlArr;":2188,"xlarr;":2189,"xmap;":2190,"xnis;":2191,"xodot;":2192,"xopf;":2193,"xoplus;":2194,"xotime;":2195,"xrArr;":2196,"xrarr;":2197,"xscr;":2198,"xsqcup;":2199,"xuplus;":2200,"xutri;":2201,"xvee;":2202,"xwedge;":2203,yacute:2204,"yacute;":2205,"yacy;":2206,"ycirc;":2207,"ycy;":2208,yen:2209,"yen;":2210,"yfr;":2211,"yicy;":2212,"yopf;":2213,"yscr;":2214,"yucy;":2215,yuml:2216,"yuml;":2217,"zacute;":2218,"zcaron;":2219,"zcy;":2220,"zdot;":2221,"zeetrf;":2222,"zeta;":2223,"zfr;":2224,"zhcy;":2225,"zigrarr;":2226,"zopf;":2227,"zscr;":2228,"zwj;":2229,"zwnj;":2230}
 B.lk=new A.R(B.age,["\xc6","\xc6","&","&","\xc1","\xc1","\u0102","\xc2","\xc2","\u0410","\ud835\udd04","\xc0","\xc0","\u0391","\u0100","\u2a53","\u0104","\ud835\udd38","\u2061","\xc5","\xc5","\ud835\udc9c","\u2254","\xc3","\xc3","\xc4","\xc4","\u2216","\u2ae7","\u2306","\u0411","\u2235","\u212c","\u0392","\ud835\udd05","\ud835\udd39","\u02d8","\u212c","\u224e","\u0427","\xa9","\xa9","\u0106","\u22d2","\u2145","\u212d","\u010c","\xc7","\xc7","\u0108","\u2230","\u010a","\xb8","\xb7","\u212d","\u03a7","\u2299","\u2296","\u2295","\u2297","\u2232","\u201d","\u2019","\u2237","\u2a74","\u2261","\u222f","\u222e","\u2102","\u2210","\u2233","\u2a2f","\ud835\udc9e","\u22d3","\u224d","\u2145","\u2911","\u0402","\u0405","\u040f","\u2021","\u21a1","\u2ae4","\u010e","\u0414","\u2207","\u0394","\ud835\udd07","\xb4","\u02d9","\u02dd","`","\u02dc","\u22c4","\u2146","\ud835\udd3b","\xa8","\u20dc","\u2250","\u222f","\xa8","\u21d3","\u21d0","\u21d4","\u2ae4","\u27f8","\u27fa","\u27f9","\u21d2","\u22a8","\u21d1","\u21d5","\u2225","\u2193","\u2913","\u21f5","\u0311","\u2950","\u295e","\u21bd","\u2956","\u295f","\u21c1","\u2957","\u22a4","\u21a7","\u21d3","\ud835\udc9f","\u0110","\u014a","\xd0","\xd0","\xc9","\xc9","\u011a","\xca","\xca","\u042d","\u0116","\ud835\udd08","\xc8","\xc8","\u2208","\u0112","\u25fb","\u25ab","\u0118","\ud835\udd3c","\u0395","\u2a75","\u2242","\u21cc","\u2130","\u2a73","\u0397","\xcb","\xcb","\u2203","\u2147","\u0424","\ud835\udd09","\u25fc","\u25aa","\ud835\udd3d","\u2200","\u2131","\u2131","\u0403",">",">","\u0393","\u03dc","\u011e","\u0122","\u011c","\u0413","\u0120","\ud835\udd0a","\u22d9","\ud835\udd3e","\u2265","\u22db","\u2267","\u2aa2","\u2277","\u2a7e","\u2273","\ud835\udca2","\u226b","\u042a","\u02c7","^","\u0124","\u210c","\u210b","\u210d","\u2500","\u210b","\u0126","\u224e","\u224f","\u0415","\u0132","\u0401","\xcd","\xcd","\xce","\xce","\u0418","\u0130","\u2111","\xcc","\xcc","\u2111","\u012a","\u2148","\u21d2","\u222c","\u222b","\u22c2","\u2063","\u2062","\u012e","\ud835\udd40","\u0399","\u2110","\u0128","\u0406","\xcf","\xcf","\u0134","\u0419","\ud835\udd0d","\ud835\udd41","\ud835\udca5","\u0408","\u0404","\u0425","\u040c","\u039a","\u0136","\u041a","\ud835\udd0e","\ud835\udd42","\ud835\udca6","\u0409","<","<","\u0139","\u039b","\u27ea","\u2112","\u219e","\u013d","\u013b","\u041b","\u27e8","\u2190","\u21e4","\u21c6","\u2308","\u27e6","\u2961","\u21c3","\u2959","\u230a","\u2194","\u294e","\u22a3","\u21a4","\u295a","\u22b2","\u29cf","\u22b4","\u2951","\u2960","\u21bf","\u2958","\u21bc","\u2952","\u21d0","\u21d4","\u22da","\u2266","\u2276","\u2aa1","\u2a7d","\u2272","\ud835\udd0f","\u22d8","\u21da","\u013f","\u27f5","\u27f7","\u27f6","\u27f8","\u27fa","\u27f9","\ud835\udd43","\u2199","\u2198","\u2112","\u21b0","\u0141","\u226a","\u2905","\u041c","\u205f","\u2133","\ud835\udd10","\u2213","\ud835\udd44","\u2133","\u039c","\u040a","\u0143","\u0147","\u0145","\u041d","\u200b","\u200b","\u200b","\u200b","\u226b","\u226a","\n","\ud835\udd11","\u2060","\xa0","\u2115","\u2aec","\u2262","\u226d","\u2226","\u2209","\u2260","\u2242\u0338","\u2204","\u226f","\u2271","\u2267\u0338","\u226b\u0338","\u2279","\u2a7e\u0338","\u2275","\u224e\u0338","\u224f\u0338","\u22ea","\u29cf\u0338","\u22ec","\u226e","\u2270","\u2278","\u226a\u0338","\u2a7d\u0338","\u2274","\u2aa2\u0338","\u2aa1\u0338","\u2280","\u2aaf\u0338","\u22e0","\u220c","\u22eb","\u29d0\u0338","\u22ed","\u228f\u0338","\u22e2","\u2290\u0338","\u22e3","\u2282\u20d2","\u2288","\u2281","\u2ab0\u0338","\u22e1","\u227f\u0338","\u2283\u20d2","\u2289","\u2241","\u2244","\u2247","\u2249","\u2224","\ud835\udca9","\xd1","\xd1","\u039d","\u0152","\xd3","\xd3","\xd4","\xd4","\u041e","\u0150","\ud835\udd12","\xd2","\xd2","\u014c","\u03a9","\u039f","\ud835\udd46","\u201c","\u2018","\u2a54","\ud835\udcaa","\xd8","\xd8","\xd5","\xd5","\u2a37","\xd6","\xd6","\u203e","\u23de","\u23b4","\u23dc","\u2202","\u041f","\ud835\udd13","\u03a6","\u03a0","\xb1","\u210c","\u2119","\u2abb","\u227a","\u2aaf","\u227c","\u227e","\u2033","\u220f","\u2237","\u221d","\ud835\udcab","\u03a8",'"','"',"\ud835\udd14","\u211a","\ud835\udcac","\u2910","\xae","\xae","\u0154","\u27eb","\u21a0","\u2916","\u0158","\u0156","\u0420","\u211c","\u220b","\u21cb","\u296f","\u211c","\u03a1","\u27e9","\u2192","\u21e5","\u21c4","\u2309","\u27e7","\u295d","\u21c2","\u2955","\u230b","\u22a2","\u21a6","\u295b","\u22b3","\u29d0","\u22b5","\u294f","\u295c","\u21be","\u2954","\u21c0","\u2953","\u21d2","\u211d","\u2970","\u21db","\u211b","\u21b1","\u29f4","\u0429","\u0428","\u042c","\u015a","\u2abc","\u0160","\u015e","\u015c","\u0421","\ud835\udd16","\u2193","\u2190","\u2192","\u2191","\u03a3","\u2218","\ud835\udd4a","\u221a","\u25a1","\u2293","\u228f","\u2291","\u2290","\u2292","\u2294","\ud835\udcae","\u22c6","\u22d0","\u22d0","\u2286","\u227b","\u2ab0","\u227d","\u227f","\u220b","\u2211","\u22d1","\u2283","\u2287","\u22d1","\xde","\xde","\u2122","\u040b","\u0426","\t","\u03a4","\u0164","\u0162","\u0422","\ud835\udd17","\u2234","\u0398","\u205f\u200a","\u2009","\u223c","\u2243","\u2245","\u2248","\ud835\udd4b","\u20db","\ud835\udcaf","\u0166","\xda","\xda","\u219f","\u2949","\u040e","\u016c","\xdb","\xdb","\u0423","\u0170","\ud835\udd18","\xd9","\xd9","\u016a","_","\u23df","\u23b5","\u23dd","\u22c3","\u228e","\u0172","\ud835\udd4c","\u2191","\u2912","\u21c5","\u2195","\u296e","\u22a5","\u21a5","\u21d1","\u21d5","\u2196","\u2197","\u03d2","\u03a5","\u016e","\ud835\udcb0","\u0168","\xdc","\xdc","\u22ab","\u2aeb","\u0412","\u22a9","\u2ae6","\u22c1","\u2016","\u2016","\u2223","|","\u2758","\u2240","\u200a","\ud835\udd19","\ud835\udd4d","\ud835\udcb1","\u22aa","\u0174","\u22c0","\ud835\udd1a","\ud835\udd4e","\ud835\udcb2","\ud835\udd1b","\u039e","\ud835\udd4f","\ud835\udcb3","\u042f","\u0407","\u042e","\xdd","\xdd","\u0176","\u042b","\ud835\udd1c","\ud835\udd50","\ud835\udcb4","\u0178","\u0416","\u0179","\u017d","\u0417","\u017b","\u200b","\u0396","\u2128","\u2124","\ud835\udcb5","\xe1","\xe1","\u0103","\u223e","\u223e\u0333","\u223f","\xe2","\xe2","\xb4","\xb4","\u0430","\xe6","\xe6","\u2061","\ud835\udd1e","\xe0","\xe0","\u2135","\u2135","\u03b1","\u0101","\u2a3f","&","&","\u2227","\u2a55","\u2a5c","\u2a58","\u2a5a","\u2220","\u29a4","\u2220","\u2221","\u29a8","\u29a9","\u29aa","\u29ab","\u29ac","\u29ad","\u29ae","\u29af","\u221f","\u22be","\u299d","\u2222","\xc5","\u237c","\u0105","\ud835\udd52","\u2248","\u2a70","\u2a6f","\u224a","\u224b","'","\u2248","\u224a","\xe5","\xe5","\ud835\udcb6","*","\u2248","\u224d","\xe3","\xe3","\xe4","\xe4","\u2233","\u2a11","\u2aed","\u224c","\u03f6","\u2035","\u223d","\u22cd","\u22bd","\u2305","\u2305","\u23b5","\u23b6","\u224c","\u0431","\u201e","\u2235","\u2235","\u29b0","\u03f6","\u212c","\u03b2","\u2136","\u226c","\ud835\udd1f","\u22c2","\u25ef","\u22c3","\u2a00","\u2a01","\u2a02","\u2a06","\u2605","\u25bd","\u25b3","\u2a04","\u22c1","\u22c0","\u290d","\u29eb","\u25aa","\u25b4","\u25be","\u25c2","\u25b8","\u2423","\u2592","\u2591","\u2593","\u2588","=\u20e5","\u2261\u20e5","\u2310","\ud835\udd53","\u22a5","\u22a5","\u22c8","\u2557","\u2554","\u2556","\u2553","\u2550","\u2566","\u2569","\u2564","\u2567","\u255d","\u255a","\u255c","\u2559","\u2551","\u256c","\u2563","\u2560","\u256b","\u2562","\u255f","\u29c9","\u2555","\u2552","\u2510","\u250c","\u2500","\u2565","\u2568","\u252c","\u2534","\u229f","\u229e","\u22a0","\u255b","\u2558","\u2518","\u2514","\u2502","\u256a","\u2561","\u255e","\u253c","\u2524","\u251c","\u2035","\u02d8","\xa6","\xa6","\ud835\udcb7","\u204f","\u223d","\u22cd","\\","\u29c5","\u27c8","\u2022","\u2022","\u224e","\u2aae","\u224f","\u224f","\u0107","\u2229","\u2a44","\u2a49","\u2a4b","\u2a47","\u2a40","\u2229\ufe00","\u2041","\u02c7","\u2a4d","\u010d","\xe7","\xe7","\u0109","\u2a4c","\u2a50","\u010b","\xb8","\xb8","\u29b2","\xa2","\xa2","\xb7","\ud835\udd20","\u0447","\u2713","\u2713","\u03c7","\u25cb","\u29c3","\u02c6","\u2257","\u21ba","\u21bb","\xae","\u24c8","\u229b","\u229a","\u229d","\u2257","\u2a10","\u2aef","\u29c2","\u2663","\u2663",":","\u2254","\u2254",",","@","\u2201","\u2218","\u2201","\u2102","\u2245","\u2a6d","\u222e","\ud835\udd54","\u2210","\xa9","\xa9","\u2117","\u21b5","\u2717","\ud835\udcb8","\u2acf","\u2ad1","\u2ad0","\u2ad2","\u22ef","\u2938","\u2935","\u22de","\u22df","\u21b6","\u293d","\u222a","\u2a48","\u2a46","\u2a4a","\u228d","\u2a45","\u222a\ufe00","\u21b7","\u293c","\u22de","\u22df","\u22ce","\u22cf","\xa4","\xa4","\u21b6","\u21b7","\u22ce","\u22cf","\u2232","\u2231","\u232d","\u21d3","\u2965","\u2020","\u2138","\u2193","\u2010","\u22a3","\u290f","\u02dd","\u010f","\u0434","\u2146","\u2021","\u21ca","\u2a77","\xb0","\xb0","\u03b4","\u29b1","\u297f","\ud835\udd21","\u21c3","\u21c2","\u22c4","\u22c4","\u2666","\u2666","\xa8","\u03dd","\u22f2","\xf7","\xf7","\xf7","\u22c7","\u22c7","\u0452","\u231e","\u230d","$","\ud835\udd55","\u02d9","\u2250","\u2251","\u2238","\u2214","\u22a1","\u2306","\u2193","\u21ca","\u21c3","\u21c2","\u2910","\u231f","\u230c","\ud835\udcb9","\u0455","\u29f6","\u0111","\u22f1","\u25bf","\u25be","\u21f5","\u296f","\u29a6","\u045f","\u27ff","\u2a77","\u2251","\xe9","\xe9","\u2a6e","\u011b","\u2256","\xea","\xea","\u2255","\u044d","\u0117","\u2147","\u2252","\ud835\udd22","\u2a9a","\xe8","\xe8","\u2a96","\u2a98","\u2a99","\u23e7","\u2113","\u2a95","\u2a97","\u0113","\u2205","\u2205","\u2205","\u2004","\u2005","\u2003","\u014b","\u2002","\u0119","\ud835\udd56","\u22d5","\u29e3","\u2a71","\u03b5","\u03b5","\u03f5","\u2256","\u2255","\u2242","\u2a96","\u2a95","=","\u225f","\u2261","\u2a78","\u29e5","\u2253","\u2971","\u212f","\u2250","\u2242","\u03b7","\xf0","\xf0","\xeb","\xeb","\u20ac","!","\u2203","\u2130","\u2147","\u2252","\u0444","\u2640","\ufb03","\ufb00","\ufb04","\ud835\udd23","\ufb01","fj","\u266d","\ufb02","\u25b1","\u0192","\ud835\udd57","\u2200","\u22d4","\u2ad9","\u2a0d","\xbd","\xbd","\u2153","\xbc","\xbc","\u2155","\u2159","\u215b","\u2154","\u2156","\xbe","\xbe","\u2157","\u215c","\u2158","\u215a","\u215d","\u215e","\u2044","\u2322","\ud835\udcbb","\u2267","\u2a8c","\u01f5","\u03b3","\u03dd","\u2a86","\u011f","\u011d","\u0433","\u0121","\u2265","\u22db","\u2265","\u2267","\u2a7e","\u2a7e","\u2aa9","\u2a80","\u2a82","\u2a84","\u22db\ufe00","\u2a94","\ud835\udd24","\u226b","\u22d9","\u2137","\u0453","\u2277","\u2a92","\u2aa5","\u2aa4","\u2269","\u2a8a","\u2a8a","\u2a88","\u2a88","\u2269","\u22e7","\ud835\udd58","`","\u210a","\u2273","\u2a8e","\u2a90",">",">","\u2aa7","\u2a7a","\u22d7","\u2995","\u2a7c","\u2a86","\u2978","\u22d7","\u22db","\u2a8c","\u2277","\u2273","\u2269\ufe00","\u2269\ufe00","\u21d4","\u200a","\xbd","\u210b","\u044a","\u2194","\u2948","\u21ad","\u210f","\u0125","\u2665","\u2665","\u2026","\u22b9","\ud835\udd25","\u2925","\u2926","\u21ff","\u223b","\u21a9","\u21aa","\ud835\udd59","\u2015","\ud835\udcbd","\u210f","\u0127","\u2043","\u2010","\xed","\xed","\u2063","\xee","\xee","\u0438","\u0435","\xa1","\xa1","\u21d4","\ud835\udd26","\xec","\xec","\u2148","\u2a0c","\u222d","\u29dc","\u2129","\u0133","\u012b","\u2111","\u2110","\u2111","\u0131","\u22b7","\u01b5","\u2208","\u2105","\u221e","\u29dd","\u0131","\u222b","\u22ba","\u2124","\u22ba","\u2a17","\u2a3c","\u0451","\u012f","\ud835\udd5a","\u03b9","\u2a3c","\xbf","\xbf","\ud835\udcbe","\u2208","\u22f9","\u22f5","\u22f4","\u22f3","\u2208","\u2062","\u0129","\u0456","\xef","\xef","\u0135","\u0439","\ud835\udd27","\u0237","\ud835\udd5b","\ud835\udcbf","\u0458","\u0454","\u03ba","\u03f0","\u0137","\u043a","\ud835\udd28","\u0138","\u0445","\u045c","\ud835\udd5c","\ud835\udcc0","\u21da","\u21d0","\u291b","\u290e","\u2266","\u2a8b","\u2962","\u013a","\u29b4","\u2112","\u03bb","\u27e8","\u2991","\u27e8","\u2a85","\xab","\xab","\u2190","\u21e4","\u291f","\u291d","\u21a9","\u21ab","\u2939","\u2973","\u21a2","\u2aab","\u2919","\u2aad","\u2aad\ufe00","\u290c","\u2772","{","[","\u298b","\u298f","\u298d","\u013e","\u013c","\u2308","{","\u043b","\u2936","\u201c","\u201e","\u2967","\u294b","\u21b2","\u2264","\u2190","\u21a2","\u21bd","\u21bc","\u21c7","\u2194","\u21c6","\u21cb","\u21ad","\u22cb","\u22da","\u2264","\u2266","\u2a7d","\u2a7d","\u2aa8","\u2a7f","\u2a81","\u2a83","\u22da\ufe00","\u2a93","\u2a85","\u22d6","\u22da","\u2a8b","\u2276","\u2272","\u297c","\u230a","\ud835\udd29","\u2276","\u2a91","\u21bd","\u21bc","\u296a","\u2584","\u0459","\u226a","\u21c7","\u231e","\u296b","\u25fa","\u0140","\u23b0","\u23b0","\u2268","\u2a89","\u2a89","\u2a87","\u2a87","\u2268","\u22e6","\u27ec","\u21fd","\u27e6","\u27f5","\u27f7","\u27fc","\u27f6","\u21ab","\u21ac","\u2985","\ud835\udd5d","\u2a2d","\u2a34","\u2217","_","\u25ca","\u25ca","\u29eb","(","\u2993","\u21c6","\u231f","\u21cb","\u296d","\u200e","\u22bf","\u2039","\ud835\udcc1","\u21b0","\u2272","\u2a8d","\u2a8f","[","\u2018","\u201a","\u0142","<","<","\u2aa6","\u2a79","\u22d6","\u22cb","\u22c9","\u2976","\u2a7b","\u2996","\u25c3","\u22b4","\u25c2","\u294a","\u2966","\u2268\ufe00","\u2268\ufe00","\u223a","\xaf","\xaf","\u2642","\u2720","\u2720","\u21a6","\u21a6","\u21a7","\u21a4","\u21a5","\u25ae","\u2a29","\u043c","\u2014","\u2221","\ud835\udd2a","\u2127","\xb5","\xb5","\u2223","*","\u2af0","\xb7","\xb7","\u2212","\u229f","\u2238","\u2a2a","\u2adb","\u2026","\u2213","\u22a7","\ud835\udd5e","\u2213","\ud835\udcc2","\u223e","\u03bc","\u22b8","\u22b8","\u22d9\u0338","\u226b\u20d2","\u226b\u0338","\u21cd","\u21ce","\u22d8\u0338","\u226a\u20d2","\u226a\u0338","\u21cf","\u22af","\u22ae","\u2207","\u0144","\u2220\u20d2","\u2249","\u2a70\u0338","\u224b\u0338","\u0149","\u2249","\u266e","\u266e","\u2115","\xa0","\xa0","\u224e\u0338","\u224f\u0338","\u2a43","\u0148","\u0146","\u2247","\u2a6d\u0338","\u2a42","\u043d","\u2013","\u2260","\u21d7","\u2924","\u2197","\u2197","\u2250\u0338","\u2262","\u2928","\u2242\u0338","\u2204","\u2204","\ud835\udd2b","\u2267\u0338","\u2271","\u2271","\u2267\u0338","\u2a7e\u0338","\u2a7e\u0338","\u2275","\u226f","\u226f","\u21ce","\u21ae","\u2af2","\u220b","\u22fc","\u22fa","\u220b","\u045a","\u21cd","\u2266\u0338","\u219a","\u2025","\u2270","\u219a","\u21ae","\u2270","\u2266\u0338","\u2a7d\u0338","\u2a7d\u0338","\u226e","\u2274","\u226e","\u22ea","\u22ec","\u2224","\ud835\udd5f","\xac","\xac","\u2209","\u22f9\u0338","\u22f5\u0338","\u2209","\u22f7","\u22f6","\u220c","\u220c","\u22fe","\u22fd","\u2226","\u2226","\u2afd\u20e5","\u2202\u0338","\u2a14","\u2280","\u22e0","\u2aaf\u0338","\u2280","\u2aaf\u0338","\u21cf","\u219b","\u2933\u0338","\u219d\u0338","\u219b","\u22eb","\u22ed","\u2281","\u22e1","\u2ab0\u0338","\ud835\udcc3","\u2224","\u2226","\u2241","\u2244","\u2244","\u2224","\u2226","\u22e2","\u22e3","\u2284","\u2ac5\u0338","\u2288","\u2282\u20d2","\u2288","\u2ac5\u0338","\u2281","\u2ab0\u0338","\u2285","\u2ac6\u0338","\u2289","\u2283\u20d2","\u2289","\u2ac6\u0338","\u2279","\xf1","\xf1","\u2278","\u22ea","\u22ec","\u22eb","\u22ed","\u03bd","#","\u2116","\u2007","\u22ad","\u2904","\u224d\u20d2","\u22ac","\u2265\u20d2",">\u20d2","\u29de","\u2902","\u2264\u20d2","<\u20d2","\u22b4\u20d2","\u2903","\u22b5\u20d2","\u223c\u20d2","\u21d6","\u2923","\u2196","\u2196","\u2927","\u24c8","\xf3","\xf3","\u229b","\u229a","\xf4","\xf4","\u043e","\u229d","\u0151","\u2a38","\u2299","\u29bc","\u0153","\u29bf","\ud835\udd2c","\u02db","\xf2","\xf2","\u29c1","\u29b5","\u03a9","\u222e","\u21ba","\u29be","\u29bb","\u203e","\u29c0","\u014d","\u03c9","\u03bf","\u29b6","\u2296","\ud835\udd60","\u29b7","\u29b9","\u2295","\u2228","\u21bb","\u2a5d","\u2134","\u2134","\xaa","\xaa","\xba","\xba","\u22b6","\u2a56","\u2a57","\u2a5b","\u2134","\xf8","\xf8","\u2298","\xf5","\xf5","\u2297","\u2a36","\xf6","\xf6","\u233d","\u2225","\xb6","\xb6","\u2225","\u2af3","\u2afd","\u2202","\u043f","%",".","\u2030","\u22a5","\u2031","\ud835\udd2d","\u03c6","\u03d5","\u2133","\u260e","\u03c0","\u22d4","\u03d6","\u210f","\u210e","\u210f","+","\u2a23","\u229e","\u2a22","\u2214","\u2a25","\u2a72","\xb1","\xb1","\u2a26","\u2a27","\xb1","\u2a15","\ud835\udd61","\xa3","\xa3","\u227a","\u2ab3","\u2ab7","\u227c","\u2aaf","\u227a","\u2ab7","\u227c","\u2aaf","\u2ab9","\u2ab5","\u22e8","\u227e","\u2032","\u2119","\u2ab5","\u2ab9","\u22e8","\u220f","\u232e","\u2312","\u2313","\u221d","\u221d","\u227e","\u22b0","\ud835\udcc5","\u03c8","\u2008","\ud835\udd2e","\u2a0c","\ud835\udd62","\u2057","\ud835\udcc6","\u210d","\u2a16","?","\u225f",'"','"',"\u21db","\u21d2","\u291c","\u290f","\u2964","\u223d\u0331","\u0155","\u221a","\u29b3","\u27e9","\u2992","\u29a5","\u27e9","\xbb","\xbb","\u2192","\u2975","\u21e5","\u2920","\u2933","\u291e","\u21aa","\u21ac","\u2945","\u2974","\u21a3","\u219d","\u291a","\u2236","\u211a","\u290d","\u2773","}","]","\u298c","\u298e","\u2990","\u0159","\u0157","\u2309","}","\u0440","\u2937","\u2969","\u201d","\u201d","\u21b3","\u211c","\u211b","\u211c","\u211d","\u25ad","\xae","\xae","\u297d","\u230b","\ud835\udd2f","\u21c1","\u21c0","\u296c","\u03c1","\u03f1","\u2192","\u21a3","\u21c1","\u21c0","\u21c4","\u21cc","\u21c9","\u219d","\u22cc","\u02da","\u2253","\u21c4","\u21cc","\u200f","\u23b1","\u23b1","\u2aee","\u27ed","\u21fe","\u27e7","\u2986","\ud835\udd63","\u2a2e","\u2a35",")","\u2994","\u2a12","\u21c9","\u203a","\ud835\udcc7","\u21b1","]","\u2019","\u2019","\u22cc","\u22ca","\u25b9","\u22b5","\u25b8","\u29ce","\u2968","\u211e","\u015b","\u201a","\u227b","\u2ab4","\u2ab8","\u0161","\u227d","\u2ab0","\u015f","\u015d","\u2ab6","\u2aba","\u22e9","\u2a13","\u227f","\u0441","\u22c5","\u22a1","\u2a66","\u21d8","\u2925","\u2198","\u2198","\xa7","\xa7",";","\u2929","\u2216","\u2216","\u2736","\ud835\udd30","\u2322","\u266f","\u0449","\u0448","\u2223","\u2225","\xad","\xad","\u03c3","\u03c2","\u03c2","\u223c","\u2a6a","\u2243","\u2243","\u2a9e","\u2aa0","\u2a9d","\u2a9f","\u2246","\u2a24","\u2972","\u2190","\u2216","\u2a33","\u29e4","\u2223","\u2323","\u2aaa","\u2aac","\u2aac\ufe00","\u044c","/","\u29c4","\u233f","\ud835\udd64","\u2660","\u2660","\u2225","\u2293","\u2293\ufe00","\u2294","\u2294\ufe00","\u228f","\u2291","\u228f","\u2291","\u2290","\u2292","\u2290","\u2292","\u25a1","\u25a1","\u25aa","\u25aa","\u2192","\ud835\udcc8","\u2216","\u2323","\u22c6","\u2606","\u2605","\u03f5","\u03d5","\xaf","\u2282","\u2ac5","\u2abd","\u2286","\u2ac3","\u2ac1","\u2acb","\u228a","\u2abf","\u2979","\u2282","\u2286","\u2ac5","\u228a","\u2acb","\u2ac7","\u2ad5","\u2ad3","\u227b","\u2ab8","\u227d","\u2ab0","\u2aba","\u2ab6","\u22e9","\u227f","\u2211","\u266a","\xb9","\xb9","\xb2","\xb2","\xb3","\xb3","\u2283","\u2ac6","\u2abe","\u2ad8","\u2287","\u2ac4","\u27c9","\u2ad7","\u297b","\u2ac2","\u2acc","\u228b","\u2ac0","\u2283","\u2287","\u2ac6","\u228b","\u2acc","\u2ac8","\u2ad4","\u2ad6","\u21d9","\u2926","\u2199","\u2199","\u292a","\xdf","\xdf","\u2316","\u03c4","\u23b4","\u0165","\u0163","\u0442","\u20db","\u2315","\ud835\udd31","\u2234","\u2234","\u03b8","\u03d1","\u03d1","\u2248","\u223c","\u2009","\u2248","\u223c","\xfe","\xfe","\u02dc","\xd7","\xd7","\u22a0","\u2a31","\u2a30","\u222d","\u2928","\u22a4","\u2336","\u2af1","\ud835\udd65","\u2ada","\u2929","\u2034","\u2122","\u25b5","\u25bf","\u25c3","\u22b4","\u225c","\u25b9","\u22b5","\u25ec","\u225c","\u2a3a","\u2a39","\u29cd","\u2a3b","\u23e2","\ud835\udcc9","\u0446","\u045b","\u0167","\u226c","\u219e","\u21a0","\u21d1","\u2963","\xfa","\xfa","\u2191","\u045e","\u016d","\xfb","\xfb","\u0443","\u21c5","\u0171","\u296e","\u297e","\ud835\udd32","\xf9","\xf9","\u21bf","\u21be","\u2580","\u231c","\u231c","\u230f","\u25f8","\u016b","\xa8","\xa8","\u0173","\ud835\udd66","\u2191","\u2195","\u21bf","\u21be","\u228e","\u03c5","\u03d2","\u03c5","\u21c8","\u231d","\u231d","\u230e","\u016f","\u25f9","\ud835\udcca","\u22f0","\u0169","\u25b5","\u25b4","\u21c8","\xfc","\xfc","\u29a7","\u21d5","\u2ae8","\u2ae9","\u22a8","\u299c","\u03f5","\u03f0","\u2205","\u03d5","\u03d6","\u221d","\u2195","\u03f1","\u03c2","\u228a\ufe00","\u2acb\ufe00","\u228b\ufe00","\u2acc\ufe00","\u03d1","\u22b2","\u22b3","\u0432","\u22a2","\u2228","\u22bb","\u225a","\u22ee","|","|","\ud835\udd33","\u22b2","\u2282\u20d2","\u2283\u20d2","\ud835\udd67","\u221d","\u22b3","\ud835\udccb","\u2acb\ufe00","\u228a\ufe00","\u2acc\ufe00","\u228b\ufe00","\u299a","\u0175","\u2a5f","\u2227","\u2259","\u2118","\ud835\udd34","\ud835\udd68","\u2118","\u2240","\u2240","\ud835\udccc","\u22c2","\u25ef","\u22c3","\u25bd","\ud835\udd35","\u27fa","\u27f7","\u03be","\u27f8","\u27f5","\u27fc","\u22fb","\u2a00","\ud835\udd69","\u2a01","\u2a02","\u27f9","\u27f6","\ud835\udccd","\u2a06","\u2a04","\u25b3","\u22c1","\u22c0","\xfd","\xfd","\u044f","\u0177","\u044b","\xa5","\xa5","\ud835\udd36","\u0457","\ud835\udd6a","\ud835\udcce","\u044e","\xff","\xff","\u017a","\u017e","\u0437","\u017c","\u2128","\u03b6","\ud835\udd37","\u0436","\u21dd","\ud835\udd6b","\ud835\udccf","\u200d","\u200c"],t.w)
 B.agt={"PyTorch Introduction":0,Modeling:1,Classification:2,"Regression Models":3,"Computer Vision":4}
@@ -121595,8 +121595,8 @@ B.dt=new A.p(!0,B.j,null,null,null,null,20,B.a6,null,null,null,null,null,null,nu
 B.aA5=new A.q("Buchen",null,B.dt,null,null,null,null,null,null,null)
 B.ahy=new A.f(B.a9,B.aA5,null)
 B.qp=new A.p(!0,null,null,null,null,null,20,null,B.of,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.az7=new A.q("P.S.: Wussten Sie, dass 73% aller Unternehmen 2025 KI-Experten suchen? Mit unserem einzigartigen Infrastructure as Code Ansatz heben Sie sich von der Masse ab. Aber nur, wenn Sie JETZT handeln!",null,B.qp,null,null,null,null,null,null,null)
-B.ahz=new A.f(B.N,B.az7,null)
+B.az8=new A.q("P.S.: Wussten Sie, dass 73% aller Unternehmen 2025 KI-Experten suchen? Mit unserem einzigartigen Infrastructure as Code Ansatz heben Sie sich von der Masse ab. Aber nur, wenn Sie JETZT handeln!",null,B.qp,null,null,null,null,null,null,null)
+B.ahz=new A.f(B.N,B.az8,null)
 B.A=new A.aEy(1,"down")
 B.OE=new A.kk("assets/images/JensHenneberg.png",null,null)
 B.Rh=new A.jy(null,null,B.OE,50,null)
@@ -121604,9 +121604,9 @@ B.aI=new A.p(!0,null,null,null,null,null,20,B.al,null,null,null,null,null,null,n
 B.ay0=new A.q("Lead Trainer",null,B.aI,null,null,null,null,null,null,null)
 B.j3=new A.p(!0,null,null,null,null,null,20,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.awO=new A.q("Jens Henneberg",null,B.j3,null,null,null,null,null,null,null)
-B.a6W=A.a(s([B.ay0,B.awO]),t.p)
-B.UZ=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a6W,null)
-B.ahx=new A.f(B.o,B.UZ,null)
+B.a6X=A.a(s([B.ay0,B.awO]),t.p)
+B.V_=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a6X,null)
+B.ahx=new A.f(B.o,B.V_,null)
 B.a6k=A.a(s([B.Rh,B.ahx]),t.p)
 B.amP=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.a6k,null)
 B.ahA=new A.f(B.N,B.amP,null)
@@ -121642,8 +121642,8 @@ B.ab8=A.a(s([B.Rg,B.aiQ]),t.p)
 B.amE=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.ab8,null)
 B.ahH=new A.f(B.N,B.amE,null)
 B.No=new A.p(!0,null,null,null,null,null,18,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.az1=new A.q("Hungry for more, check out my other stuff! ",null,B.No,null,null,null,null,null,null,null)
-B.ahJ=new A.f(B.co,B.az1,null)
+B.az2=new A.q("Hungry for more, check out my other stuff! ",null,B.No,null,null,null,null,null,null,null)
+B.ahJ=new A.f(B.co,B.az2,null)
 B.ax2=new A.q("\ud83d\udc68\u200d\ud83c\udfeb Ihre Erfolgsgaranten",null,B.ba,null,null,null,null,null,null,null)
 B.ahK=new A.f(B.dH,B.ax2,null)
 B.aAq=new A.q("\u2022 Mecklenburg-Vorpommern",null,B.z,null,null,null,null,null,null,null)
@@ -121658,12 +121658,12 @@ B.ahQ=new A.f(B.N,B.axf,null)
 B.tY=new A.ad(0,0,0,32)
 B.azA=new A.q("\u26a1 ACHTUNG: Begrenzte Pl\xe4tze!",null,B.eu,null,null,null,null,null,null,null)
 B.ahR=new A.f(B.tY,B.azA,null)
-B.ayU=new A.q('\u2022 Cloud Solution Architect bei Microsoft\n\u2022 AI-102 mit 98% bestanden (Beweis auf Anfrage)\n\u2022 "So machen wir es bei Microsoft" - Insider-Wissen pur\n\u2022 KI-Beauftragter (IHK) - Compliance inklusive',null,B.z,null,null,null,null,null,null,null)
-B.ahS=new A.f(B.a9,B.ayU,null)
+B.ayV=new A.q('\u2022 Cloud Solution Architect bei Microsoft\n\u2022 AI-102 mit 98% bestanden (Beweis auf Anfrage)\n\u2022 "So machen wir es bei Microsoft" - Insider-Wissen pur\n\u2022 KI-Beauftragter (IHK) - Compliance inklusive',null,B.z,null,null,null,null,null,null,null)
+B.ahS=new A.f(B.a9,B.ayV,null)
 B.axJ=new A.q("Dar\xfcber hinaus biete ich fachkundige Unterst\xfctzung bei Vertragsverhandlungen und -pr\xfcfungen, um sicherzustellen, dass Sie von fairen und vorteilhaften Bedingungen profitieren. Mit meiner Expertise helfe ich Ihnen, fundierte Entscheidungen zu treffen, die den langfristigen Erfolg Ihrer Windenergieprojekte sichern.",null,B.z,null,null,null,null,null,null,null)
 B.ahT=new A.f(B.N,B.axJ,null)
-B.azn=new A.q("Haben Sie eines dieser Probleme?",null,B.ba,null,null,null,null,null,null,null)
-B.ahU=new A.f(B.dH,B.azn,null)
+B.azo=new A.q("Haben Sie eines dieser Probleme?",null,B.ba,null,null,null,null,null,null,null)
+B.ahU=new A.f(B.dH,B.azo,null)
 B.azQ=new A.q("Hinweis: Dies ist ein brandneuer Premium-Kurs. Jens hat bei der GFU bereits \xe4hnliche Kurse mit Bestnoten durchgef\xfchrt. Seien Sie unter den Ersten, die von dieser einzigartigen Kombination aus Microsoft-Insider-Wissen und bew\xe4hrter Didaktik profitieren!",null,B.qp,null,null,null,null,null,null,null)
 B.ahV=new A.f(B.N,B.azQ,null)
 B.aAm=new A.q("\u2022 Manuelle Deployments\n\u2022 Veraltete Kenntnisse\n\u2022 Verpasste Karrierechancen\n\u2022 0\u20ac gespart, Tausende verloren",null,B.z,null,null,null,null,null,null,null)
@@ -121673,8 +121673,8 @@ B.rX=new A.jy(null,null,B.re,50,null)
 B.ayL=new A.q("Ihr Experte",null,B.aI,null,null,null,null,null,null,null)
 B.Nz=new A.q("Bert Gollnick",null,B.j3,null,null,null,null,null,null,null)
 B.a8z=A.a(s([B.ayL,B.Nz]),t.p)
-B.UY=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a8z,null)
-B.aji=new A.f(B.o,B.UY,null)
+B.UZ=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a8z,null)
+B.aji=new A.f(B.o,B.UZ,null)
 B.a1R=A.a(s([B.rX,B.aji]),t.p)
 B.amK=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.a1R,null)
 B.ahX=new A.f(B.N,B.amK,null)
@@ -121688,8 +121688,8 @@ B.aAf=new A.q("\u2022 Infrastructure as Code Meister\n\u2022 AI-102 zertifiziert
 B.ai_=new A.f(B.a9,B.aAf,null)
 B.ax4=new A.q("Auf der Karte ist dargestellt, welche Bundesl\xe4nder Bildungsurlaub anbieten, und in welchen sogar eine F\xf6rderung m\xf6glich ist. ",null,B.z,null,null,null,null,null,null,null)
 B.ai0=new A.f(B.N,B.ax4,null)
-B.azf=new A.q("Next Dates",null,B.ba,null,null,null,null,null,null,null)
-B.ai2=new A.f(B.co,B.azf,null)
+B.azg=new A.q("Next Dates",null,B.ba,null,null,null,null,null,null,null)
+B.ai2=new A.f(B.co,B.azg,null)
 B.nX=new A.ad(0,16,0,8)
 B.ayB=new A.q("Option A: Weitermachen wie bisher",null,B.aI,null,null,null,null,null,null,null)
 B.ai3=new A.f(B.nX,B.ayB,null)
@@ -121737,8 +121737,8 @@ B.as6=new A.p(!0,B.Z,null,null,null,null,24,null,null,null,null,null,null,null,n
 B.arI=new A.ch("149$",null,B.a4,B.as6)
 B.avC=new A.p(!0,B.aF,null,null,null,null,30,B.al,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.arm=new A.ch(" 99$",null,B.a4,B.avC)
-B.a6Y=A.a(s([B.arI,B.arm]),t.VO)
-B.arQ=new A.ch("",B.a6Y,B.a4,null)
+B.a6Z=A.a(s([B.arI,B.arm]),t.VO)
+B.arQ=new A.ch("",B.a6Z,B.a4,null)
 B.awH=new A.q(null,B.arQ,null,null,null,null,null,null,null,null)
 B.a2q=A.a(s([B.Zb,B.awH]),t.p)
 B.amG=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.a2q,null)
@@ -121748,8 +121748,8 @@ B.aij=new A.f(B.i3,B.axV,null)
 B.ayn=new A.q("\u2022 Niedersachsen",null,B.z,null,null,null,null,null,null,null)
 B.lt=new A.f(B.a9,B.ayn,null)
 B.a6t=A.a(s([B.ma,B.Nz]),t.p)
-B.V0=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a6t,null)
-B.ahN=new A.f(B.o,B.V0,null)
+B.V1=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a6t,null)
+B.ahN=new A.f(B.o,B.V1,null)
 B.aao=A.a(s([B.rX,B.ahN]),t.p)
 B.amN=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.aao,null)
 B.aik=new A.f(B.N,B.amN,null)
@@ -121777,8 +121777,8 @@ B.axa=new A.q("In 6 Monaten werden Sie eine von zwei Personen sein:\n\u2022 Jema
 B.aiu=new A.f(B.a9,B.axa,null)
 B.axQ=new A.q("In unserem bahnbrechenden Online-Kurs tauchen Sie tief in diese aufregende Dom\xe4ne ein. Erwerben Sie die Kompetenzen, die in einem sich wandelnden Jobmarkt gefragt sind.",null,B.z,null,null,null,null,null,null,null)
 B.GX=new A.f(B.N,B.axQ,null)
-B.ayX=new A.q("Fr\xfchbucher-Special: 999\u20ac (inkl. MwSt.)",null,B.aI,null,null,null,null,null,null,null)
-B.aiw=new A.f(B.a9,B.ayX,null)
+B.ayY=new A.q("Fr\xfchbucher-Special: 999\u20ac (inkl. MwSt.)",null,B.aI,null,null,null,null,null,null,null)
+B.aiw=new A.f(B.a9,B.ayY,null)
 B.uO=new A.bU(58214,"MaterialIcons",null,!1)
 B.Z3=new A.ca(B.uO,40,null,null,B.Z,null,null)
 B.aD=new A.p(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -121792,13 +121792,13 @@ B.azz=new A.q("Ihr Guide f\xfcr eigene RAG-Anwendung! Freuen Sie sich auf einen 
 B.aiz=new A.f(B.N,B.azz,null)
 B.aB3=new A.q("Herzlich willkommen zur umfassenden Schulung zu KI Compliance und KI Governance! In der dynamischen Welt der K\xfcnstlichen Intelligenz und generativen KI begegnen Unternehmen sowohl enormen Chancen als auch komplexen Risiken. Der EU AI Act stellt Unternehmen vor neue Herausforderungen bei der KI-Nutzung.",null,B.z,null,null,null,null,null,null,null)
 B.aiA=new A.f(B.N,B.aB3,null)
-B.azd=new A.q("Die KI-Verordnung bringt neue Verpflichtungen mit sich \u2013 besonders f\xfcr KMU und den Mittelstand sind die Risiken der KI im Unternehmen oft schwer einzusch\xe4tzen. Vom DSGVO-konformen Einsatz bis zur strategischen KI-Nutzung: Mit unserer Expertise helfen wir Ihnen, eine robuste KI Strategie zu entwickeln, die sowohl die Compliance-Anforderungen erf\xfcllt als auch Innovationspotenziale erschlie\xdft.",null,B.z,null,null,null,null,null,null,null)
-B.aiB=new A.f(B.N,B.azd,null)
+B.aze=new A.q("Die KI-Verordnung bringt neue Verpflichtungen mit sich \u2013 besonders f\xfcr KMU und den Mittelstand sind die Risiken der KI im Unternehmen oft schwer einzusch\xe4tzen. Vom DSGVO-konformen Einsatz bis zur strategischen KI-Nutzung: Mit unserer Expertise helfen wir Ihnen, eine robuste KI Strategie zu entwickeln, die sowohl die Compliance-Anforderungen erf\xfcllt als auch Innovationspotenziale erschlie\xdft.",null,B.z,null,null,null,null,null,null,null)
+B.aiB=new A.f(B.N,B.aze,null)
 B.ayz=new A.q("Next Dates",null,B.eu,null,null,null,null,null,null,null)
 B.aiD=new A.f(B.df,B.ayz,null)
 B.Nj=new A.p(!0,null,null,null,null,null,18,B.al,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ayY=new A.q("Course content",null,B.Nj,null,null,null,null,null,null,null)
-B.a1a=A.a(s([B.ayY]),t.p)
+B.ayZ=new A.q("Course content",null,B.Nj,null,null,null,null,null,null,null)
+B.a1a=A.a(s([B.ayZ]),t.p)
 B.amS=new A.e9(B.x,B.aW,B.e,B.h,null,B.A,null,0,B.a1a,null)
 B.aiE=new A.f(B.dI,B.amS,null)
 B.NK=new A.q("In Deutschland gibt es verschiedene M\xf6glichkeiten, finanzielle Unterst\xfctzung f\xfcr Bildungsurlaub zu erhalten. Diese F\xf6rderungen k\xf6nnen je nach Bundesland und individuellen Voraussetzungen variieren.",null,B.z,null,null,null,null,null,null,null)
@@ -121830,8 +121830,8 @@ B.OG=new A.kk("assets/images/profile_angela.jpg",null,null)
 B.Rk=new A.jy(null,null,B.OG,50,null)
 B.azZ=new A.q("Angela Diaz",null,B.j3,null,null,null,null,null,null,null)
 B.a8s=A.a(s([B.ma,B.azZ]),t.p)
-B.V_=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a8s,null)
-B.ajT=new A.f(B.o,B.V_,null)
+B.V0=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a8s,null)
+B.ajT=new A.f(B.o,B.V0,null)
 B.a6i=A.a(s([B.Rk,B.ajT]),t.p)
 B.amQ=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.a6i,null)
 B.aiT=new A.f(B.N,B.amQ,null)
@@ -121841,16 +121841,16 @@ B.azV=new A.q("Der Kurs soll zus\xe4tzlich in den folgenden Bundesl\xe4ndern als
 B.H_=new A.f(B.N,B.azV,null)
 B.axw=new A.q("Was macht uns anders?",null,B.ba,null,null,null,null,null,null,null)
 B.aiW=new A.f(B.dH,B.axw,null)
-B.az6=new A.q("Contact Form",null,B.dt,null,null,null,null,null,null,null)
-B.aiX=new A.f(B.o,B.az6,null)
+B.az7=new A.q("Contact Form",null,B.dt,null,null,null,null,null,null,null)
+B.aiX=new A.f(B.o,B.az7,null)
 B.Z9=new A.ca(B.uO,24,null,null,B.i,null,null)
 B.dQ=new A.f(B.o,B.Z9,null)
 B.aB2=new A.q("\u2022 Schleswig-Holstein",null,B.z,null,null,null,null,null,null,null)
 B.lw=new A.f(B.a9,B.aB2,null)
 B.aAt=new A.q("Arrange appointment",null,B.dt,null,null,null,null,null,null,null)
 B.H0=new A.f(B.o,B.aAt,null)
-B.ayN=new A.q("Die Anerkennung ist in Arbeit f\xfcr: Berlin, Nordrhein-Westfalen, Schleswig-Holstein.",null,B.z,null,null,null,null,null,null,null)
-B.aiY=new A.f(B.N,B.ayN,null)
+B.ayO=new A.q("Die Anerkennung ist in Arbeit f\xfcr: Berlin, Nordrhein-Westfalen, Schleswig-Holstein.",null,B.z,null,null,null,null,null,null,null)
+B.aiY=new A.f(B.N,B.ayO,null)
 B.pk=new A.f(B.df,B.NI,null)
 B.azU=new A.q("In der datengetriebenen Welt sind Python-Kenntnisse f\xfcr Machine Learning und Data Science gefragter denn je. Dieser Kurs vermittelt Ihnen die entscheidenden F\xe4higkeiten, um gro\xdfe Datenmengen zu analysieren, intelligente Modelle zu entwickeln und wertvolle Erkenntnisse zu gewinnen \u2013 ein klarer Wettbewerbsvorteil f\xfcr Ihre Karriere.",null,B.z,null,null,null,null,null,null,null)
 B.aiZ=new A.f(B.N,B.azU,null)
@@ -121894,22 +121894,22 @@ B.ajd=new A.f(B.i3,B.aym,null)
 B.azI=new A.q("P.P.S.: Die ersten 3 Anmelder bekommen zus\xe4tzlich 1 Stunde Einzelcoaching mit Jens zur optimalen Pr\xfcfungsvorbereitung. Wert: 250\u20ac!",null,B.qp,null,null,null,null,null,null,null)
 B.aje=new A.f(B.N,B.azI,null)
 B.ajf=new A.f(B.dH,B.qw,null)
-B.azi=new A.q("\u2022 Sachsen-Anhalt",null,B.z,null,null,null,null,null,null,null)
-B.ly=new A.f(B.a9,B.azi,null)
-B.ayR=new A.q("Egal, ob Sie neu in der Materie bist oder Ihre bestehenden Kenntnisse vertiefen m\xf6chten: Dieser Kurs bietet einen strukturierten und praxisnahen Lernpfad. Sie werden von den Grundlagen bis zu fortgeschrittenen Techniken gef\xfchrt und lernen, Python-Bibliotheken wie NumPy, Pandas und Scikit-learn effektiv einzusetzen.",null,B.z,null,null,null,null,null,null,null)
-B.ajg=new A.f(B.N,B.ayR,null)
+B.azj=new A.q("\u2022 Sachsen-Anhalt",null,B.z,null,null,null,null,null,null,null)
+B.ly=new A.f(B.a9,B.azj,null)
+B.ayS=new A.q("Egal, ob Sie neu in der Materie bist oder Ihre bestehenden Kenntnisse vertiefen m\xf6chten: Dieser Kurs bietet einen strukturierten und praxisnahen Lernpfad. Sie werden von den Grundlagen bis zu fortgeschrittenen Techniken gef\xfchrt und lernen, Python-Bibliotheken wie NumPy, Pandas und Scikit-learn effektiv einzusetzen.",null,B.z,null,null,null,null,null,null,null)
+B.ajg=new A.f(B.N,B.ayS,null)
 B.aya=new A.q("Es wird zus\xe4tzlich geplant den Kurs in den folgenden Bundesl\xe4ndern als Bildungsurlaub anerkennen zu lassen: Rheinland-Pfalz, Mecklenburg-Vorpommern, Hessen.",null,B.z,null,null,null,null,null,null,null)
 B.ajh=new A.f(B.N,B.aya,null)
-B.azl=new A.q("\u2022 Rheinland-Pfalz",null,B.z,null,null,null,null,null,null,null)
-B.lz=new A.f(B.a9,B.azl,null)
+B.azm=new A.q("\u2022 Rheinland-Pfalz",null,B.z,null,null,null,null,null,null,null)
+B.lz=new A.f(B.a9,B.azm,null)
 B.aA2=new A.q("You are interested, but still have questions?",null,B.ba,null,null,null,null,null,null,null)
 B.ajj=new A.f(B.c8,B.aA2,null)
 B.azJ=new A.q('\u2022 7 Jahre Data Science bei Siemens Gamesa\n\u2022 Deep Learning Experte\n\u2022 "Ich hatte fr\xfcher auch Probleme mit komplexen Deployments"',null,B.z,null,null,null,null,null,null,null)
 B.ajl=new A.f(B.a9,B.azJ,null)
 B.azx=new A.q("Take advantage of financial support for your professional development! With an education voucher (Bildungsgutschein) from the JobCenter, you can cover the full cost of our certified courses. There is also the 'Qualifizierungsgeld', which covers your ongoing living costs during your training. These funding options make it easier for you to find new career prospects. Contact us to find out more about the requirements and how to apply!",null,B.z,null,null,null,null,null,null,null)
 B.ajm=new A.f(B.N,B.azx,null)
-B.az9=new A.q('Tauchen Sie in spannende Themen wie Clustering, Dimensionsreduktion und die Erstellung interaktiver Web-Dashboards mit Streamlit, Dash und Plotly. Im abschlie\xdfenden Modul erwarten Sie moderne Technologien wie Robotic Process Automation (RPA) und die Entwicklung eigener Projekte im Rahmen unseres "Vibe-Coding"-Ansatzes. Ein besonderes Highlight bildet die Einf\xfchrung in Empfehlungssysteme, bei der Sie lernen, wie Algorithmen personalisierte Vorschl\xe4ge auf Basis von Nutzerdaten generieren. Machen Sie sich bereit, Ihre analytischen F\xe4higkeiten zu entfesseln und die M\xf6glichkeiten der Datenwissenschaft voll auszusch\xf6pfen \u2013 melden Sie sich jetzt an!',null,B.z,null,null,null,null,null,null,null)
-B.ajo=new A.f(B.N,B.az9,null)
+B.aza=new A.q('Tauchen Sie in spannende Themen wie Clustering, Dimensionsreduktion und die Erstellung interaktiver Web-Dashboards mit Streamlit, Dash und Plotly. Im abschlie\xdfenden Modul erwarten Sie moderne Technologien wie Robotic Process Automation (RPA) und die Entwicklung eigener Projekte im Rahmen unseres "Vibe-Coding"-Ansatzes. Ein besonderes Highlight bildet die Einf\xfchrung in Empfehlungssysteme, bei der Sie lernen, wie Algorithmen personalisierte Vorschl\xe4ge auf Basis von Nutzerdaten generieren. Machen Sie sich bereit, Ihre analytischen F\xe4higkeiten zu entfesseln und die M\xf6glichkeiten der Datenwissenschaft voll auszusch\xf6pfen \u2013 melden Sie sich jetzt an!',null,B.z,null,null,null,null,null,null,null)
+B.ajo=new A.f(B.N,B.aza,null)
 B.Nm=new A.p(!0,B.j,null,"Inter",null,null,20,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ayr=new A.q("Kostenloses Infopaket herunterladen",null,B.Nm,null,null,null,null,null,null,null)
 B.iA=new A.f(B.dI,B.ayr,null)
@@ -121918,8 +121918,8 @@ B.awQ=new A.q("Angela is a proactive, positive, and highly organized senior data
 B.aAL=new A.q("Qualifications",null,B.hl,null,null,null,null,null,null,null)
 B.aB5=new A.q("She holds a Bachelor's degree and master degree in Mathematics from University of Seville. In the field of data science, she specializes in ML and AI. She is always up to date with latest technologies and certifications.",null,B.cj,null,null,null,null,null,null,null)
 B.axx=new A.q("Professional Career",null,B.hl,null,null,null,null,null,null,null)
-B.az5=new A.q("She has over 10 years of experience, 8 of them working as a data scientist in ML and AI projects in a variety of industries (since manufacturing until renewable energy). She started her career in the UK and moved to Spain 4 years ago. During this time she had the opportunity to work in multi-disciplinary teams and be part of well-known companies such as Jaguar Land Rover, Capita, Capgemini and Siemens Gamesa.",null,B.cj,null,null,null,null,null,null,null)
-B.a4X=A.a(s([B.bB,B.aAz,B.V,B.awQ,B.bB,B.aAL,B.V,B.aB5,B.bB,B.axx,B.V,B.az5,B.bB]),t.p)
+B.az6=new A.q("She has over 10 years of experience, 8 of them working as a data scientist in ML and AI projects in a variety of industries (since manufacturing until renewable energy). She started her career in the UK and moved to Spain 4 years ago. During this time she had the opportunity to work in multi-disciplinary teams and be part of well-known companies such as Jaguar Land Rover, Capita, Capgemini and Siemens Gamesa.",null,B.cj,null,null,null,null,null,null,null)
+B.a4X=A.a(s([B.bB,B.aAz,B.V,B.awQ,B.bB,B.aAL,B.V,B.aB5,B.bB,B.axx,B.V,B.az6,B.bB]),t.p)
 B.V2=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a4X,null)
 B.ajp=new A.f(B.aS,B.V2,null)
 B.aws=new A.q("\ud83d\ude80 Jetzt Platz sichern!",null,B.ba,null,null,null,null,null,null,null)
@@ -121934,8 +121934,12 @@ B.azY=new A.q("Remote",null,B.aD,null,null,null,null,null,null,null)
 B.ab7=A.a(s([B.Zi,B.azY]),t.p)
 B.amC=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.ab7,null)
 B.ajt=new A.f(B.a9,B.amC,null)
+B.ayN=new A.q("Azure AI: Entwurf und Implementierung von KI-L\xf6sungen",null,B.fg,null,null,null,null,null,null,null)
+B.a6E=A.a(s([B.ayN,B.GS]),t.p)
+B.UX=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a6E,null)
+B.aju=new A.f(B.bA,B.UX,null)
 B.ay6=new A.q("Dive deep into this exciting domain with our ground-breaking online course. Acquire the skills that are in demand in a changing job market.",null,B.z,null,null,null,null,null,null,null)
-B.aju=new A.f(B.N,B.ay6,null)
+B.ajv=new A.f(B.N,B.ay6,null)
 B.aAW=new A.q("Jesko Rehberg",null,B.j2,null,null,null,null,null,null,null)
 B.awz=new A.q("Jesko Rehberg ist ein erfahrener Data Scientist, Solution Developer und Dozent mit einem starken Fokus auf Python und Datenanalyse. Seine umfassende Erfahrung reicht von Statistische Prozessregelung, Business Intelligence \xfcber Machine Learning bis hin zur Entwicklung von Generative-AI-Anwendungen.",null,B.cj,null,null,null,null,null,null,null)
 B.awx=new A.q("Er ist Experte f\xfcr Python mit umfassender Erfahrung in Datenanalyse, Machine Learning und Automatisierung. Sein Schwerpunkt liegt auf Data Science, insbesondere in den Bereichen Recommender Engines, Predictive Maintenance und Generative AI, sowie auf Business Intelligence mit Tools wie Power BI, QlikSense und SQL Server. Zudem hat er Erfahrung mit Cloud-Technologien wie Azure und Google Cloud Platform. Besonders spezialisiert ist er auf Data Mining f\xfcr den Handel, einschlie\xdflich RFM-Clustering und Market Basket Analysis. Als Buchautor und Entwickler von Online-Kursen vermittelt er sein Wissen zu datengetriebenen Themen, darunter Optimierungsprobleme und algorithmische Entscheidungsfindung.",null,B.cj,null,null,null,null,null,null,null)
@@ -121943,48 +121947,44 @@ B.axk=new A.q("Er ist Solution Developer Data Science bei der Digitalsalt GmbH u
 B.ayk=new A.q("Er ist Dozent f\xfcr Excel-Dashboards an der VHS und gibt interne Python-Schulungen f\xfcr Unternehmen mit Schwerpunkt auf Datenanalyse, Automatisierung und KI. Zudem hat er einen Online-Kurs auf Educative.io zur L\xf6sung des Traveling Salesperson Problems mit Python entwickelt. Er war ma\xdfgeblich am Aufbau einer E-Learning-Plattform beteiligt, indem er die Moodle-Implementierung bei Naturland e.V. leitete. Als Speaker tritt er regelm\xe4\xdfig auf Fachveranstaltungen auf.",null,B.cj,null,null,null,null,null,null,null)
 B.a2i=A.a(s([B.bB,B.aAW,B.V,B.awz,B.bB,B.ND,B.V,B.awx,B.bB,B.NL,B.V,B.axk,B.bB,B.NG,B.V,B.ayk]),t.p)
 B.UV=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a2i,null)
-B.ajv=new A.f(B.aS,B.UV,null)
+B.ajw=new A.f(B.aS,B.UV,null)
 B.awY=new A.q("The course is recognized as educational leave in the following federal states: Hamburg, Berlin, Brandenburg, Bremen, Saarland, Saxony-Anhalt, Rhineland-Palatinate, Mecklenburg-Vorpommern.",null,B.z,null,null,null,null,null,null,null)
-B.ajw=new A.f(B.N,B.awY,null)
+B.ajx=new A.f(B.N,B.awY,null)
 B.aAV=new A.q("\u274c Ihre Konkurrenz ist Ihnen bei KI-Projekten immer einen Schritt voraus?",null,B.z,null,null,null,null,null,null,null)
-B.ajx=new A.f(B.a9,B.aAV,null)
+B.ajy=new A.f(B.a9,B.aAV,null)
 B.ax1=new A.q("Der Kurs ist in den folgenden Bundesl\xe4ndern als Bildungsurlaub anerkannt:",null,B.z,null,null,null,null,null,null,null)
 B.H3=new A.f(B.N,B.ax1,null)
 B.WV=new A.ad(0,16,0,32)
 B.ayu=new A.q("Machen Sie Ihr Unternehmen fit f\xfcr die Zukunft! In unserem Online-Kurs \u201eKI-Strategie und Compliance\u201c lernen Sie, wie Sie K\xfcnstliche Intelligenz erfolgreich und rechtskonform in Ihrem Unternehmen einsetzen. Verstehen Sie die Chancen, minimieren Sie Risiken und setzen Sie KI gezielt f\xfcr nachhaltigen Erfolg ein. Sichern Sie sich jetzt Ihren Platz und gestalten Sie die digitale Transformation aktiv mit!",null,B.z,null,null,null,null,null,null,null)
-B.ajy=new A.f(B.WV,B.ayu,null)
+B.ajz=new A.f(B.WV,B.ayu,null)
 B.aAM=new A.q("\u2022 Bremen",null,B.z,null,null,null,null,null,null,null)
 B.lA=new A.f(B.a9,B.aAM,null)
 B.awB=new A.q("Bert Gollnick",null,B.Nh,null,null,null,null,null,null,null)
-B.ajz=new A.f(B.df,B.awB,null)
+B.ajA=new A.f(B.df,B.awB,null)
 B.aA3=new A.q("Option B: In 5 Tagen zum Experten",null,B.aI,null,null,null,null,null,null,null)
-B.ajA=new A.f(B.nX,B.aA3,null)
+B.ajB=new A.f(B.nX,B.aA3,null)
 B.azM=new A.q("\u2022 Generative KI und LLMs mit LangChain verstehen und implementieren",null,B.z,null,null,null,null,null,null,null)
-B.ajB=new A.f(B.a9,B.azM,null)
+B.ajC=new A.f(B.a9,B.azM,null)
 B.axj=new A.q("Setzen Sie auf ma\xdfgeschneiderte Schulungen, die Ihr Team zukunftssicher machen!",null,B.z,null,null,null,null,null,null,null)
-B.ajD=new A.f(B.N,B.axj,null)
+B.ajE=new A.f(B.N,B.axj,null)
 B.d7=new A.p(!0,B.i,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ayM=new A.q("Wissen verbinden, um intelligente KI-Antworten zu schaffen.",null,B.d7,null,null,null,null,null,null,null)
-B.ajF=new A.f(B.o,B.ayM,null)
+B.ajG=new A.f(B.o,B.ayM,null)
 B.H4=new A.f(B.bA,B.qw,null)
 B.ay3=new A.q("Stellen Sie sich vor: W\xe4hrend Sie noch mit Screenshots und manuellen Deployments k\xe4mpfen, verdienen Azure AI Engineers mit Infrastructure as Code Skills 15-25% mehr Gehalt. Die gute Nachricht? In nur 5 Tagen zeigen wir Ihnen, wie Sie professionelle KI-L\xf6sungen entwickeln - genau so, wie es bei Microsoft intern gemacht wird.",null,B.z,null,null,null,null,null,null,null)
-B.ajG=new A.f(B.N,B.ay3,null)
+B.ajH=new A.f(B.N,B.ay3,null)
 B.ayf=new A.q("Key Facts",null,B.iZ,null,null,null,null,null,null,null)
-B.ajH=new A.f(B.a9,B.ayf,null)
+B.ajI=new A.f(B.a9,B.ayf,null)
 B.axE=new A.q("Contact form",null,B.dt,null,null,null,null,null,null,null)
 B.H5=new A.f(B.o,B.axE,null)
 B.axg=new A.q("\u2713 Bildungsurlaub anerkannt in 9 Bundesl\xe4ndern\n\u2713 Teilnahmezertifikat garantiert\n\u2713 Pers\xf6nliche Betreuung in kleinen Gruppen",null,B.z,null,null,null,null,null,null,null)
-B.ajI=new A.f(B.a9,B.axg,null)
+B.ajJ=new A.f(B.a9,B.axg,null)
 B.aAQ=new A.q("\u274c Sie verlieren Zeit mit Portal-Klickerei statt wiederverwendbarem Code?",null,B.z,null,null,null,null,null,null,null)
-B.ajJ=new A.f(B.a9,B.aAQ,null)
+B.ajK=new A.f(B.a9,B.aAQ,null)
 B.axC=new A.q("Die schockierende Wahrheit \xfcber KI-Experten... ",null,B.z,null,null,null,null,null,null,null)
-B.ajM=new A.f(B.N,B.axC,null)
+B.ajN=new A.f(B.N,B.axC,null)
 B.awu=new A.q("KI Systeme strategisch planen und rechtssicher einsetzen",null,B.hk,null,null,null,null,null,null,null)
-B.ajN=new A.f(B.o,B.awu,null)
-B.azp=new A.q("Azure AI: Praxiskurs",null,B.fg,null,null,null,null,null,null,null)
-B.a89=A.a(s([B.azp,B.GS]),t.p)
-B.V1=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a89,null)
-B.ajO=new A.f(B.bA,B.V1,null)
+B.ajO=new A.f(B.o,B.awu,null)
 B.aAN=new A.q("\u2022 Saarland",null,B.z,null,null,null,null,null,null,null)
 B.lC=new A.f(B.a9,B.aAN,null)
 B.axz=new A.q("Vergessen Sie oberfl\xe4chliche Klick-Tutorials! Bei uns lernen Sie von Jens Henneberg, Cloud Solution Architect bei Microsoft, der die AI-102 Pr\xfcfung mit 98% bestanden hat.",null,B.z,null,null,null,null,null,null,null)
@@ -122003,21 +122003,21 @@ B.axu=new A.q("\u2022 Hessen",null,B.z,null,null,null,null,null,null,null)
 B.pm=new A.f(B.a9,B.axu,null)
 B.OH=new A.kk("assets/images/profile_babak.jpg",null,null)
 B.Rj=new A.jy(null,null,B.OH,50,null)
-B.azg=new A.q("Babak Banijamali",null,B.j3,null,null,null,null,null,null,null)
-B.a81=A.a(s([B.ma,B.azg]),t.p)
-B.UU=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a81,null)
+B.azh=new A.q("Babak Banijamali",null,B.j3,null,null,null,null,null,null,null)
+B.a82=A.a(s([B.ma,B.azh]),t.p)
+B.UU=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a82,null)
 B.aiP=new A.f(B.o,B.UU,null)
 B.aaA=A.a(s([B.Rj,B.aiP]),t.p)
 B.amM=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.aaA,null)
 B.ajU=new A.f(B.N,B.amM,null)
 B.azD=new A.q("Dieser Bildungsurlaub bietet dir eine einzigartige Gelegenheit, deine Kompetenzen in einem stark nachgefragten Bereich zu erweitern und beruflich von den Vorteilen der KI-Entwicklung zu profitieren. W\xe4hrend des Kurses wirst du praxisorientierte Projekte umsetzen und dabei lernen, wie neuronale Netzwerke die Entscheidungsfindung und Automatisierung in verschiedensten Branchen unterst\xfctzen k\xf6nnen. Am Ende des Kurses bist du nicht nur in der Lage, KI-Modelle zu entwickeln und produktiv zu nutzen, sondern verf\xfcgst auch \xfcber die Kenntnisse, um moderne KI-Frameworks wie PyTorch gezielt und zukunftsorientiert anzuwenden.",null,B.z,null,null,null,null,null,null,null)
 B.ajV=new A.f(B.N,B.azD,null)
-B.ayQ=new A.q("N\xe4chster Start: 03.11.2025\nNur noch 10 von 12 Pl\xe4tzen verf\xfcgbar",null,B.z,null,null,null,null,null,null,null)
-B.ajW=new A.f(B.a9,B.ayQ,null)
+B.ayR=new A.q("N\xe4chster Start: 03.11.2025\nNur noch 10 von 12 Pl\xe4tzen verf\xfcgbar",null,B.z,null,null,null,null,null,null,null)
+B.ajW=new A.f(B.a9,B.ayR,null)
 B.ax3=new A.q("3 Gr\xfcnde, JETZT zu buchen:",null,B.aI,null,null,null,null,null,null,null)
 B.ajX=new A.f(B.i3,B.ax3,null)
-B.azc=new A.q("Vielleicht auch spannend f\xfcr Sie",null,B.ba,null,null,null,null,null,null,null)
-B.ajY=new A.f(B.bA,B.azc,null)
+B.azd=new A.q("Vielleicht auch spannend f\xfcr Sie",null,B.ba,null,null,null,null,null,null,null)
+B.ajY=new A.f(B.bA,B.azd,null)
 B.ax8=new A.q("Der Kurs ist bereits als Bildungsurlaub anerkannt in: Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen,Rheinland-Pfalz, Saarland, und Sachsen-Anhalt.",null,B.z,null,null,null,null,null,null,null)
 B.ak_=new A.f(B.N,B.ax8,null)
 B.aAi=new A.q("Zum Kontaktformular",null,B.dt,null,null,null,null,null,null,null)
@@ -122070,8 +122070,8 @@ B.akR=new A.zX(3,"scale")
 B.akS=new A.zX(4,"unknown")
 B.akT=new A.HI(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.cI=new A.p(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ayP=new A.q("Expertenwissen",null,B.cI,null,null,null,null,null,null,null)
-B.akU=new A.vN(B.de,B.aq,B.ayP,null)
+B.ayQ=new A.q("Expertenwissen",null,B.cI,null,null,null,null,null,null,null)
+B.akU=new A.vN(B.de,B.aq,B.ayQ,null)
 B.axX=new A.q("Beliebt",null,B.cI,null,null,null,null,null,null,null)
 B.akV=new A.vN(B.de,B.aq,B.axX,null)
 B.aAB=new A.q("Neu",null,B.cI,null,null,null,null,null,null,null)
@@ -122167,10 +122167,10 @@ B.a0S=A.a(s([B.ajk,B.aie]),t.p)
 B.f8=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.a0S,null)
 B.Yl=new A.bU(57548,"MaterialIcons",null,!1)
 B.Z5=new A.ca(B.Yl,24,null,null,B.i,null,null)
-B.ajC=new A.f(B.o,B.Z5,null)
+B.ajD=new A.f(B.o,B.Z5,null)
 B.awt=new A.q("Analysen",null,B.d7,null,null,null,null,null,null,null)
-B.ajE=new A.f(B.cA,B.awt,null)
-B.a8U=A.a(s([B.ajC,B.ajE]),t.p)
+B.ajF=new A.f(B.cA,B.awt,null)
+B.a8U=A.a(s([B.ajD,B.ajF]),t.p)
 B.amF=new A.e9(B.x,B.f,B.e,B.h,null,B.A,null,0,B.a8U,null)
 B.Yr=new A.bU(58003,"MaterialIcons",null,!1)
 B.Z7=new A.ca(B.Yr,24,null,null,B.i,null,null)
@@ -122452,12 +122452,12 @@ B.aAY=new A.q("This site uses different types of cookies. Some cookies are place
 B.axD=new A.q("You can at any time change or withdraw your consent from the Cookie Declaration on our website.",null,B.ah,null,null,null,null,null,null,null)
 B.azr=new A.q("Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",null,B.ah,null,null,null,null,null,null,null)
 B.axi=new A.q("Please state your consent ID and date when you contact us regarding your consent.",null,B.ah,null,null,null,null,null,null,null)
-B.aze=new A.q("Cookie declaration last updated on 22.10.2023 by ",null,B.ah,null,null,null,null,null,null,null)
+B.azf=new A.q("Cookie declaration last updated on 22.10.2023 by ",null,B.ah,null,null,null,null,null,null,null)
 B.awq=new A.q("Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.",null,B.ah,null,null,null,null,null,null,null)
 B.axh=new A.q("Name: CookieConsent, Provider: gollnickdata.de, Purpose: Stores the user's cookie consent state for the current domain, Expiry: 1year, Type: HTTP Cookie",null,B.ah,null,null,null,null,null,null,null)
-B.a0u=A.a(s([B.awD,B.aA9,B.axy,B.aAY,B.axD,B.azr,B.axi,B.aze,B.awq,B.axh,B.V]),t.p)
-B.UX=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a0u,null)
-B.apx=new A.rj(B.w,null,null,null,B.UX,B.v,null)
+B.a0u=A.a(s([B.awD,B.aA9,B.axy,B.aAY,B.axD,B.azr,B.axi,B.azf,B.awq,B.axh,B.V]),t.p)
+B.UY=new A.fu(B.w,B.f,B.e,B.t,null,B.A,null,0,B.a0u,null)
+B.apx=new A.rj(B.w,null,null,null,B.UY,B.v,null)
 B.apQ=new A.a1(350,600,B.apx,null)
 B.Yb=new A.mD("youtube-view2",null,null)
 B.apT=new A.a1(560,315,B.Yb,null)
@@ -122623,8 +122623,8 @@ B.arz=new A.ch("Level",null,B.a4,B.aI)
 B.arA=new A.ch("Natural Language Processing",null,B.a4,B.bl)
 B.arB=new A.ch("Python Machine Learning",null,B.a4,B.bl)
 B.arG=new A.ch("Gesellschaftliche Kompetenz: KI-Ethik und EU AI Act praxisnah erkl\xe4rt",null,B.a4,B.z)
-B.a7B=A.a(s([B.iX,B.arG]),t.VO)
-B.arC=new A.ch(null,B.a7B,B.a4,null)
+B.a7C=A.a(s([B.iX,B.arG]),t.VO)
+B.arC=new A.ch(null,B.a7C,B.a4,null)
 B.arD=new A.ch("Retrieval Augmented Generation",null,B.a4,B.bl)
 B.arE=new A.ch("Prompt Engineering",null,B.a4,B.bl)
 B.arM=new A.ch("Von Microsoft f\xfcr Sie: Insider-Wissen direkt aus der Quelle",null,B.a4,B.z)
@@ -123000,22 +123000,22 @@ B.NB=new A.q("Error loading SVG.",null,null,null,null,null,null,null,null,null)
 B.ayD=new A.q("Er ist Gr\xfcnder und Gesch\xe4ftsf\xfchrer von Gollnick Data Solutions.",null,B.cj,null,null,null,null,null,null,null)
 B.ayH=new A.q("2007",null,B.ah,null,null,null,null,null,null,null)
 B.ayI=new A.q("Contact Information",null,B.j4,null,null,null,null,null,null,null)
-B.ayO=new A.q("Trainingsprozess bei Deep Learning",null,B.aD,B.aA,null,null,null,null,null,null)
-B.ayS=new A.q("Your Trainer",null,B.fe,null,null,null,null,null,null,null)
-B.ayW=new A.q("Bert Gollnick",null,B.j2,null,null,null,null,null,null,null)
-B.az_=new A.q("Nachricht senden",null,B.Nu,null,null,null,null,null,null,null)
-B.az0=new A.q("Knowledge Retrieval Beispiel",null,B.aD,B.aA,null,null,null,null,null,null)
-B.az2=new A.q("Owner: Bert Gollnick",null,B.ah,null,null,null,null,null,null,null)
-B.az3=new A.q("Beispiel eines Graphen mit neo4j",null,B.aD,B.aA,null,null,null,null,null,null)
-B.az8=new A.q("2023",null,B.ah,null,null,null,null,null,null,null)
-B.aza=new A.q("Registergericht: Amtsgericht Hamburg",null,B.ah,null,null,null,null,null,null,null)
-B.azb=new A.q("Mit pers\xf6nlicher Widmung?",null,null,null,null,null,null,null,null,null)
+B.ayP=new A.q("Trainingsprozess bei Deep Learning",null,B.aD,B.aA,null,null,null,null,null,null)
+B.ayT=new A.q("Your Trainer",null,B.fe,null,null,null,null,null,null,null)
+B.ayX=new A.q("Bert Gollnick",null,B.j2,null,null,null,null,null,null,null)
+B.az0=new A.q("Nachricht senden",null,B.Nu,null,null,null,null,null,null,null)
+B.az1=new A.q("Knowledge Retrieval Beispiel",null,B.aD,B.aA,null,null,null,null,null,null)
+B.az3=new A.q("Owner: Bert Gollnick",null,B.ah,null,null,null,null,null,null,null)
+B.az4=new A.q("Beispiel eines Graphen mit neo4j",null,B.aD,B.aA,null,null,null,null,null,null)
+B.az9=new A.q("2023",null,B.ah,null,null,null,null,null,null,null)
+B.azb=new A.q("Registergericht: Amtsgericht Hamburg",null,B.ah,null,null,null,null,null,null,null)
+B.azc=new A.q("Mit pers\xf6nlicher Widmung?",null,null,null,null,null,null,null,null,null)
 B.NC=new A.q("Loading...",null,null,null,null,null,null,null,null,null)
-B.azh=new A.q("Stiltransfer zur \xdcbertragung des Stils auf ein anderes Bild",null,B.aD,B.aA,null,null,null,null,null,null)
-B.azj=new A.q("Site Layout",null,B.aD,B.aA,null,null,null,null,null,null)
-B.azk=new A.q("Registernummer: HRB 183259",null,B.ah,null,null,null,null,null,null,null)
+B.azi=new A.q("Stiltransfer zur \xdcbertragung des Stils auf ein anderes Bild",null,B.aD,B.aA,null,null,null,null,null,null)
+B.azk=new A.q("Site Layout",null,B.aD,B.aA,null,null,null,null,null,null)
+B.azl=new A.q("Registernummer: HRB 183259",null,B.ah,null,null,null,null,null,null,null)
 B.Ng=new A.p(!0,B.i,null,null,null,null,32,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.azo=new A.q("Auf gehts!",null,B.Ng,null,null,null,null,null,null,null)
+B.azp=new A.q("Auf gehts!",null,B.Ng,null,null,null,null,null,null,null)
 B.NE=new A.q("Gollnick Data",null,null,null,null,null,null,null,null,null)
 B.azv=new A.q("german book",null,null,null,null,null,null,null,null,null)
 B.azF=new A.q("Webseite: www.gollnickdata.de",null,B.ah,null,null,null,null,null,null,null)
@@ -124035,7 +124035,7 @@ s($,"bxB","bbw",()=>A.arO(A.cj([B.oZ],t.bd)))
 s($,"byC","bcd",()=>A.arO(A.cj([B.p_],t.bd)))
 s($,"bzK","b0A",()=>A.aYu(B.aag,t.N))
 s($,"bzB","bcV",()=>{var q=null
-return A.y(["af",A.aT(B.a4q,B.a72,B.aw,B.An,B.a4V,6,5,B.AE,"af",B.X,B.xC,B.a4R,B.vT,B.eQ,B.Aj,B.AE,B.X,B.xC,B.vT,B.Aj,B.yj,B.ag,B.yj,B.D,q),"am",A.aT(B.a5_,B.a3u,B.aw,B.a_R,B.a7R,6,5,B.AA,"am",B.zG,B.vA,B.a1s,B.zZ,B.a3K,B.zK,B.AA,B.zG,B.vA,B.zZ,B.zK,B.vw,B.b5,B.vw,B.D,q),"ar",A.aT(B.a4E,B.a7_,B.a57,B.a3S,B.a65,5,4,B.l5,"ar",B.zm,B.w0,B.vl,B.l5,B.vl,B.kG,B.l5,B.zm,B.w0,B.l5,B.kG,B.kG,B.b5,B.kG,B.vH,"\u0660"),"as",A.aT(B.a8o,B.a83,B.aw,B.a6K,B.a8b,6,5,B.wk,"as",B.vi,B.yw,B.ab9,B.z6,B.aaf,B.y1,B.wk,B.vi,B.yw,B.z6,B.y1,B.yS,B.a0s,B.yS,B.cZ,"\u09e6"),"az",A.aT(B.as,B.a8O,B.aw,B.aab,B.aaH,0,6,B.xm,"az",B.bu,B.zD,B.a6f,B.zV,B.a4s,B.a20,B.xm,B.bu,B.zD,B.zV,B.aaQ,B.zH,B.ag,B.zH,B.D,q),"be",A.aT(B.as,B.a7H,B.a3U,B.a3g,B.a3A,0,6,B.aaG,"be",B.AK,B.vS,B.a4A,B.a5I,B.a8S,B.ws,B.a68,B.AK,B.vS,B.a1e,B.ws,B.yB,B.a3W,B.yB,B.D,q),"bg",A.aT(B.a2b,B.aal,B.cY,B.aa3,B.a6F,0,3,B.wP,"bg",B.zA,B.kW,B.a8X,B.yW,B.a3F,B.l0,B.wP,B.zA,B.kW,B.yW,B.l0,B.yR,B.a01,B.yR,B.D,q),"bn",A.aT(B.as,B.kS,B.aw,B.a_y,B.a03,6,5,B.oJ,"bn",B.zC,B.wN,B.B1,B.a6S,B.B1,B.wC,B.oJ,B.zC,B.wN,B.oJ,B.wC,B.zB,B.b5,B.zB,B.D,"\u09e6"),"bs",A.aT(B.a9I,B.a70,B.x8,B.a1A,B.wh,0,6,B.Bc,"bs",B.ed,B.vg,B.aaY,B.zO,B.a3x,B.kp,B.Bc,B.ed,B.kz,B.zO,B.kp,B.kA,B.ag,B.kA,B.D,q),"ca",A.aT(B.ie,B.a2E,B.a9g,B.a8P,B.a6y,0,3,B.a1d,"ca",B.yN,B.wI,B.a8k,B.a_u,B.a7P,B.x4,B.a8B,B.yN,B.wI,B.a2h,B.x4,B.zl,B.zq,B.zl,B.D,q),"cs",A.aT(B.a7S,B.a4N,B.aw,B.a3d,B.a8M,0,3,B.a9M,"cs",B.bu,B.Ae,B.a2U,B.AF,B.b0,B.vo,B.a1D,B.bu,B.Ae,B.AF,B.vo,B.zf,B.l4,B.zf,B.D,q),"cy",A.aT(B.ab0,B.a5j,B.a2P,B.a8A,B.a2c,0,3,B.xw,"cy",B.zz,B.A1,B.a7U,B.a0O,B.a2g,B.a6a,B.xw,B.zz,B.A1,B.a2S,B.a75,B.vJ,B.ag,B.vJ,B.D,q),"da",A.aT(B.as,B.a2n,B.a7I,B.fP,B.fP,0,3,B.vR,"da",B.X,B.ee,B.ic,B.yh,B.a6r,B.id,B.vR,B.X,B.ee,B.yh,B.a5E,B.fQ,B.oF,B.fQ,B.D,q),"de",A.aT(B.as,B.oz,B.yK,B.fU,B.fU,0,3,B.ks,"de",B.X,B.fT,B.oK,B.zR,B.b0,B.vt,B.ks,B.X,B.fT,B.ku,B.zr,B.l_,B.ag,B.l_,B.D,q),"de_CH",A.aT(B.as,B.oz,B.yK,B.fU,B.fU,0,3,B.ks,"de_CH",B.X,B.fT,B.oK,B.zR,B.b0,B.vt,B.ks,B.X,B.fT,B.ku,B.zr,B.l_,B.ag,B.l_,B.D,q),"el",A.aT(B.a6x,B.xF,B.a7M,B.a9G,B.a5C,0,3,B.a6s,"el",B.Bj,B.zb,B.a7W,B.a_Z,B.aat,B.w5,B.a9n,B.Bj,B.zb,B.a5Q,B.w5,B.vD,B.b5,B.vD,B.D,q),"en",A.aT(B.as,B.eT,B.dl,B.cp,B.bG,6,5,B.bb,"en",B.X,B.aU,B.d0,B.eP,B.b0,B.bd,B.bb,B.X,B.aU,B.eP,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_AU",A.aT(B.eR,B.l9,B.dl,B.cp,B.bG,0,6,B.bb,"en_AU",B.X,B.yH,B.d0,B.a3P,B.b0,B.bd,B.bb,B.X,B.yH,B.eP,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_CA",A.aT(B.eg,B.a4U,B.dl,B.cp,B.bG,6,5,B.bb,"en_CA",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_GB",A.aT(B.eR,B.xY,B.dl,B.cp,B.bG,0,3,B.bb,"en_GB",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.ag,B.bc,B.D,q),"en_IE",A.aT(B.eg,B.yP,B.dl,B.cp,B.bG,0,3,B.bb,"en_IE",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.ag,B.bc,B.D,q),"en_IN",A.aT(B.eR,B.a2j,B.dl,B.cp,B.bG,6,5,B.bb,"en_IN",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.cZ,q),"en_NZ",A.aT(B.eR,B.a4p,B.dl,B.cp,B.bG,0,6,B.bb,"en_NZ",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_SG",A.aT(B.eR,B.l9,B.dl,B.cp,B.bG,6,5,B.bb,"en_SG",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_US",A.aT(B.as,B.eT,B.dl,B.cp,B.bG,6,5,B.bb,"en_US",B.X,B.aU,B.d0,B.eP,B.b0,B.bd,B.bb,B.X,B.aU,B.eP,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_ZA",A.aT(B.eR,B.a2X,B.dl,B.cp,B.bG,6,5,B.bb,"en_ZA",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.ag,B.bc,B.D,q),"es",A.aT(B.ie,B.yt,B.cY,B.l1,B.kM,0,3,B.el,"es",B.ef,B.A3,B.x_,B.ei,B.dm,B.ej,B.el,B.ef,B.A3,B.ei,B.ej,B.ek,B.zq,B.ek,B.D,q),"es_419",A.aT(B.ie,B.yt,B.z5,B.l1,B.kM,0,3,B.el,"es_419",B.ef,B.a2H,B.kx,B.ei,B.dm,B.ej,B.el,B.ef,B.d_,B.ei,B.ej,B.ek,B.ag,B.ek,B.D,q),"es_MX",A.aT(B.ie,B.a2B,B.z5,B.l1,B.kM,6,5,B.el,"es_MX",B.ef,B.d_,B.x_,B.ei,B.dm,B.ej,B.el,B.ef,B.d_,B.ei,B.ej,B.ek,B.ag,B.ek,B.D,q),"es_US",A.aT(B.ie,B.a7b,B.cY,B.l1,B.kM,6,5,B.el,"es_US",B.ef,B.d_,B.kx,B.ei,B.dm,B.ej,B.el,B.ef,B.d_,B.ei,B.ej,B.ek,B.b5,B.ek,B.D,q),"et",A.aT(B.as,B.a7f,B.aw,B.a6Q,B.a7a,0,3,B.wx,"et",B.y4,B.l7,B.ic,B.Bl,B.eQ,B.l7,B.wx,B.y4,B.l7,B.Bl,B.l7,B.AV,B.ag,B.AV,B.D,q),"eu",A.aT(B.as,B.a_K,B.aw,B.a5h,B.a3n,0,3,B.a39,"eu",B.xS,B.Bg,B.a2s,B.wR,B.a3z,B.x7,B.a1Y,B.xS,B.Bg,B.wR,B.x7,B.ym,B.yd,B.ym,B.D,q),"fa",A.aT(B.a8d,B.a9w,B.a3b,B.a1u,B.a5D,5,4,B.a4B,"fa",B.yM,B.vf,B.a87,B.ov,B.aav,B.kO,B.ov,B.yM,B.vf,B.ov,B.kO,B.kO,B.Ao,B.kO,B.a0x,"\u06f0"),"fi",A.aT(B.a2o,B.aad,B.a9Q,B.aaS,B.a6V,0,3,B.a3h,"fi",B.vv,B.Ai,B.a4S,B.a8f,B.a5H,B.vC,B.a28,B.vv,B.Ai,B.a05,B.vC,B.a7c,B.a3_,B.a9b,B.D,q),"fil",A.aT(B.as,B.eT,B.wd,B.cp,B.bG,6,5,B.l8,"fil",B.fR,B.eh,B.wW,B.fR,B.b0,B.eh,B.l8,B.AM,B.eh,B.fR,B.eh,B.kF,B.b5,B.kF,B.D,q),"fr",A.aT(B.as,B.yP,B.ve,B.zo,B.xx,0,3,B.kt,"fr",B.X,B.d_,B.Aq,B.wV,B.dm,B.kU,B.kt,B.X,B.d_,B.wV,B.kU,B.kw,B.ag,B.kw,B.D,q),"fr_CA",A.aT(B.eg,B.zt,B.ve,B.zo,B.xx,6,5,B.kt,"fr_CA",B.X,B.d_,B.Aq,B.ww,B.dm,B.kU,B.kt,B.X,B.d_,B.ww,B.kU,B.kw,B.a0w,B.kw,B.D,q),"gl",A.aT(B.eg,B.a19,B.ab5,B.a4u,B.kC,0,3,B.a0t,"gl",B.a66,B.aaj,B.kx,B.a49,B.dm,B.a5U,B.a9T,B.a3e,B.a4I,B.a6U,B.a45,B.a4m,B.ag,B.a9J,B.D,q),"gsw",A.aT(B.a_F,B.oz,B.aw,B.fU,B.fU,0,3,B.zp,"gsw",B.X,B.fT,B.oK,B.ku,B.b0,B.vU,B.zp,B.X,B.fT,B.ku,B.vU,B.zS,B.ag,B.zS,B.D,q),"gu",A.aT(B.as,B.kS,B.a1f,B.a5l,B.a6l,6,5,B.wX,"gu",B.xc,B.Al,B.a3o,B.A7,B.b0,B.zF,B.wX,B.xc,B.Al,B.A7,B.zF,B.wr,B.yT,B.wr,B.cZ,q),"he",A.aT(B.a2t,B.a8D,B.a48,B.a2M,B.a4O,6,5,B.z9,"he",B.bu,B.wn,B.a18,B.xo,B.b0,B.zQ,B.z9,B.bu,B.wn,B.xo,B.zQ,B.yY,B.l4,B.yY,B.vH,q),"hi",A.aT(B.eR,B.l9,B.aa2,B.a9x,B.a0Y,6,5,B.w2,"hi",B.xZ,B.kN,B.a8C,B.AY,B.a8r,B.wz,B.w2,B.xZ,B.kN,B.AY,B.wz,B.x9,B.b5,B.x9,B.cZ,q),"hr",A.aT(B.as,B.a22,B.x8,B.a0z,B.a69,0,6,B.a97,"hr",B.vX,B.vg,B.ic,B.Ay,B.aan,B.kp,B.a8t,B.vX,B.kz,B.Ay,B.kp,B.kA,B.a6I,B.kA,B.D,q),"hu",A.aT(B.a3q,B.a58,B.aw,B.a9q,B.a3r,0,3,B.vq,"hu",B.yQ,B.vu,B.a06,B.xl,B.a0L,B.y6,B.vq,B.yQ,B.vu,B.xl,B.y6,B.B5,B.l4,B.B5,B.D,q),"hy",A.aT(B.as,B.a8x,B.cY,B.a4x,B.a4k,0,6,B.a2e,"hy",B.xN,B.wG,B.a1g,B.yg,B.a4K,B.yv,B.a84,B.xN,B.wG,B.yg,B.yv,B.wM,B.ag,B.wM,B.D,q),"id",A.aT(B.as,B.a9s,B.aw,B.aaE,B.a5g,6,5,B.zX,"id",B.X,B.x2,B.a5X,B.w4,B.eQ,B.B_,B.zX,B.X,B.x2,B.w4,B.B_,B.yy,B.oF,B.yy,B.D,q),"is",A.aT(B.a36,B.a8E,B.oA,B.a4W,B.fP,0,3,B.A_,"is",B.yc,B.zh,B.aaT,B.Bo,B.a2C,B.zs,B.A_,B.yc,B.zh,B.Bo,B.zs,B.xe,B.ag,B.xe,B.D,q),"it",A.aT(B.as,B.a4j,B.fW,B.a2k,B.kC,0,3,B.B6,"it",B.xg,B.Ad,B.B3,B.wi,B.dm,B.vW,B.B6,B.xg,B.Ad,B.wi,B.vW,B.yD,B.ag,B.yD,B.D,q),"ja",A.aT(B.a_H,B.a82,B.aw,B.xb,B.xb,6,5,B.cb,"ja",B.bu,B.kQ,B.a5R,B.cb,B.b0,B.kQ,B.cb,B.bu,B.kQ,B.cb,B.kQ,B.x0,B.a6J,B.x0,B.D,q),"ka",A.aT(B.as,B.a53,B.cY,B.a96,B.a80,0,6,B.we,"ka",B.z_,B.vE,B.a1z,B.xW,B.a2N,B.A6,B.we,B.z_,B.vE,B.xW,B.A6,B.Bf,B.ag,B.Bf,B.D,q),"kk",A.aT(B.as,B.aa0,B.cY,B.a1X,B.a04,0,6,B.a3O,"kk",B.Am,B.vd,B.a8W,B.vs,B.a7F,B.wK,B.a_Q,B.Am,B.vd,B.vs,B.wK,B.x5,B.ag,B.x5,B.D,q),"km",A.aT(B.as,B.xF,B.a1K,B.a1J,B.a5K,6,5,B.kv,"km",B.Bk,B.wE,B.vy,B.kv,B.vy,B.xi,B.kv,B.Bk,B.wE,B.kv,B.xi,B.a3a,B.b5,B.a8h,B.D,q),"kn",A.aT(B.a93,B.a9a,B.aw,B.aah,B.a3k,6,5,B.yF,"kn",B.w_,B.wb,B.a2O,B.a9e,B.a3c,B.zE,B.yF,B.w_,B.wb,B.a7G,B.zE,B.xB,B.yT,B.xB,B.cZ,q),"ko",A.aT(B.a1B,B.a9i,B.aw,B.a8w,B.bG,6,5,B.fV,"ko",B.fV,B.l2,B.a1_,B.fV,B.aaw,B.l2,B.fV,B.fV,B.l2,B.fV,B.l2,B.xL,B.a63,B.xL,B.D,q),"ky",A.aT(B.a6v,B.a7T,B.aw,B.a8n,B.a4_,0,6,B.x1,"ky",B.kJ,B.w1,B.a8y,B.a2A,B.a5w,B.B8,B.a9p,B.kJ,B.w1,B.a3E,B.B8,B.y9,B.ag,B.y9,B.D,q),"lo",A.aT(B.a3M,B.a23,B.cY,B.a8_,B.a2z,6,5,B.vK,"lo",B.bu,B.wo,B.aay,B.vj,B.a56,B.x6,B.vK,B.bu,B.wo,B.vj,B.x6,B.vN,B.a8j,B.vN,B.D,q),"lt",A.aT(B.a3m,B.a_X,B.aw,B.a26,B.w9,0,3,B.a9K,"lt",B.AD,B.vO,B.a2F,B.zY,B.a7X,B.Bm,B.a4H,B.AD,B.vO,B.zY,B.Bm,B.zu,B.ag,B.zu,B.D,q),"lv",A.aT(B.a1P,B.a3X,B.aw,B.a7K,B.a99,0,6,B.vG,"lv",B.X,B.y2,B.a29,B.Ab,B.aaz,B.a3Z,B.vG,B.X,B.y2,B.Ab,B.a2J,B.a8u,B.ag,B.a1Z,B.D,q),"mk",A.aT(B.a8Q,B.a98,B.a6b,B.a1V,B.a5k,0,6,B.yo,"mk",B.kK,B.kW,B.a7e,B.vF,B.aaB,B.x3,B.yo,B.kK,B.kW,B.vF,B.x3,B.ya,B.ag,B.ya,B.D,q),"ml",A.aT(B.as,B.a8Z,B.aw,B.a6M,B.a9C,6,5,B.AC,"ml",B.z3,B.a3J,B.A0,B.xQ,B.A0,B.xt,B.AC,B.z3,B.a2w,B.xQ,B.xt,B.a6D,B.b5,B.ab3,B.cZ,q),"mn",A.aT(B.a9d,B.a47,B.aw,B.a6B,B.a1h,6,5,B.a30,"mn",B.w8,B.kE,B.a31,B.wS,B.a24,B.kE,B.a91,B.w8,B.kE,B.wS,B.kE,B.aaZ,B.yd,B.a9F,B.D,q),"mr",A.aT(B.as,B.kS,B.a16,B.aas,B.a9r,6,5,B.B0,"mr",B.y7,B.kN,B.a7Y,B.zP,B.a_W,B.zn,B.B0,B.y7,B.kN,B.zP,B.zn,B.yi,B.b5,B.yi,B.cZ,"\u0966"),"ms",A.aT(B.a4G,B.a6h,B.fW,B.B9,B.B9,0,6,B.yE,"ms",B.wl,B.B4,B.a2T,B.wD,B.a5c,B.ze,B.yE,B.wl,B.B4,B.wD,B.ze,B.xd,B.b5,B.xd,B.D,q),"my",A.aT(B.a5o,B.a1Q,B.aw,B.a1j,B.a95,6,5,B.xf,"my",B.ys,B.xX,B.xV,B.w6,B.xV,B.kX,B.xf,B.ys,B.xX,B.w6,B.kX,B.kX,B.a0D,B.kX,B.D,"\u1040"),"nb",A.aT(B.eg,B.vn,B.oA,B.xM,B.fP,0,3,B.kH,"nb",B.X,B.ee,B.ic,B.AH,B.eQ,B.id,B.kH,B.X,B.ee,B.vM,B.id,B.fQ,B.ag,B.fQ,B.D,q),"ne",A.aT(B.aba,B.a0v,B.fW,B.yZ,B.yZ,6,5,B.l6,"ne",B.a5S,B.Ba,B.A2,B.l6,B.A2,B.vh,B.l6,B.a11,B.Ba,B.l6,B.vh,B.vB,B.ag,B.vB,B.D,"\u0966"),"nl",A.aT(B.eg,B.a4P,B.a2Q,B.An,B.a1G,0,3,B.AQ,"nl",B.X,B.yO,B.a3p,B.Bb,B.eQ,B.wJ,B.AQ,B.X,B.yO,B.Bb,B.wJ,B.yA,B.ag,B.yA,B.D,q),"no",A.aT(B.eg,B.vn,B.oA,B.xM,B.fP,0,3,B.kH,"no",B.X,B.ee,B.ic,B.AH,B.eQ,B.id,B.kH,B.X,B.ee,B.vM,B.id,B.fQ,B.ag,B.fQ,B.D,q),"or",A.aT(B.as,B.eT,B.aar,B.a76,B.bG,6,5,B.kT,"or",B.wZ,B.vY,B.xp,B.kT,B.xp,B.z7,B.kT,B.wZ,B.vY,B.kT,B.z7,B.Ap,B.b5,B.Ap,B.cZ,q),"pa",A.aT(B.a9o,B.l9,B.fW,B.a1r,B.a6E,6,5,B.yx,"pa",B.zM,B.xE,B.a4o,B.yz,B.aaq,B.xu,B.yx,B.zM,B.xE,B.yz,B.xu,B.vp,B.b5,B.vp,B.cZ,q),"pl",A.aT(B.as,B.a71,B.fW,B.a7E,B.a7Z,0,3,B.a1E,"pl",B.a8v,B.aau,B.a8m,B.y0,B.a5P,B.Aa,B.a60,B.a2d,B.a4J,B.y0,B.Aa,B.wu,B.ag,B.wu,B.D,q),"ps",A.aT(B.a9A,B.a8V,B.aw,B.a6g,B.a5O,5,4,B.vP,"ps",B.a1C,B.aU,B.yX,B.vP,B.yX,B.ko,B.a59,B.bu,B.aU,B.a1v,B.ko,B.ko,B.Ao,B.ko,B.a02,"\u06f0"),"pt",A.aT(B.as,B.a0N,B.aw,B.AG,B.kC,6,5,B.kI,"pt",B.X,B.kL,B.B3,B.kZ,B.dm,B.Ag,B.kI,B.X,B.kL,B.kZ,B.Ag,B.l3,B.ag,B.l3,B.D,q),"pt_PT",A.aT(B.a1N,B.aaK,B.a6T,B.AG,B.kC,6,2,B.kI,"pt_PT",B.X,B.kL,B.kx,B.kZ,B.dm,B.yJ,B.kI,B.X,B.kL,B.kZ,B.yJ,B.l3,B.ag,B.l3,B.D,q),"ro",A.aT(B.eg,B.a5v,B.cY,B.a3B,B.a1O,0,6,B.zT,"ro",B.xH,B.d_,B.a8T,B.wc,B.a9U,B.xU,B.zT,B.xH,B.d_,B.wc,B.xU,B.yU,B.ag,B.yU,B.D,q),"ru",A.aT(B.as,B.a2V,B.cY,B.aaC,B.a_z,0,3,B.aaU,"ru",B.kJ,B.z2,B.xz,B.aap,B.AT,B.yC,B.x1,B.kJ,B.z2,B.aaM,B.yC,B.Ak,B.ag,B.Ak,B.D,q),"si",A.aT(B.aa9,B.a9S,B.aw,B.a_A,B.a9u,0,6,B.Bd,"si",B.xD,B.AN,B.a9_,B.ab1,B.a5x,B.wO,B.Bd,B.xD,B.AN,B.a8K,B.wO,B.yl,B.oF,B.yl,B.D,q),"sk",A.aT(B.as,B.a6w,B.a2u,B.a2y,B.a27,0,3,B.a9D,"sk",B.ed,B.wg,B.aak,B.Bh,B.b0,B.Ar,B.a2_,B.ed,B.wg,B.Bh,B.Ar,B.zd,B.l4,B.zd,B.D,q),"sl",A.aT(B.a5G,B.a0W,B.fW,B.a8e,B.w9,0,6,B.Bn,"sl",B.ed,B.Ah,B.a2D,B.wY,B.a43,B.A8,B.Bn,B.ed,B.Ah,B.wY,B.A8,B.yI,B.ag,B.yI,B.D,q),"sq",A.aT(B.a7C,B.a8c,B.a0R,B.a4F,B.a4c,0,6,B.AZ,"sq",B.zJ,B.vx,B.a4l,B.AP,B.a67,B.a6A,B.AZ,B.zJ,B.vx,B.AP,B.a7D,B.wQ,B.a0T,B.wQ,B.D,q),"sr",A.aT(B.as,B.wf,B.aw,B.ab6,B.a7L,0,6,B.zv,"sr",B.kK,B.Ax,B.a2r,B.As,B.a1q,B.AW,B.zv,B.kK,B.Ax,B.As,B.AW,B.zx,B.ag,B.zx,B.D,q),"sr_Latn",A.aT(B.as,B.wf,B.aw,B.a41,B.wh,0,6,B.wF,"sr_Latn",B.ed,B.kz,B.a8l,B.wa,B.a5u,B.vV,B.wF,B.ed,B.kz,B.wa,B.vV,B.yn,B.ag,B.yn,B.D,q),"sv",A.aT(B.a7N,B.zt,B.aw,B.a9E,B.fP,0,3,B.z0,"sv",B.X,B.ee,B.a2G,B.A9,B.eQ,B.xk,B.z0,B.X,B.ee,B.A9,B.xk,B.Bi,B.ag,B.Bi,B.D,q),"sw",A.aT(B.as,B.xY,B.aw,B.aa8,B.a3v,0,6,B.xv,"sw",B.X,B.aU,B.xJ,B.xG,B.xJ,B.kq,B.xv,B.X,B.aU,B.xG,B.kq,B.kq,B.ag,B.kq,B.D,q),"ta",A.aT(B.a5V,B.kS,B.a0n,B.a_O,B.a1I,6,5,B.xj,"ta",B.yk,B.vZ,B.a0Z,B.wA,B.a6m,B.zW,B.xj,B.yk,B.vZ,B.wA,B.zW,B.xI,B.a4D,B.xI,B.cZ,q),"te",A.aT(B.as,B.a_J,B.a00,B.a1S,B.a_N,6,5,B.zI,"te",B.ye,B.Aw,B.a3Q,B.AJ,B.a4r,B.xO,B.zI,B.ye,B.Aw,B.AJ,B.xO,B.y5,B.b5,B.y5,B.cZ,q),"th",A.aT(B.a1H,B.a3l,B.aw,B.a34,B.aac,6,5,B.wU,"th",B.kY,B.xR,B.wp,B.kY,B.wp,B.xP,B.wU,B.kY,B.xR,B.kY,B.xP,B.wy,B.a7A,B.wy,B.D,q),"tl",A.aT(B.as,B.eT,B.wd,B.cp,B.bG,6,5,B.l8,"tl",B.fR,B.eh,B.wW,B.fR,B.b0,B.eh,B.l8,B.AM,B.eh,B.fR,B.eh,B.kF,B.b5,B.kF,B.D,q),"tr",A.aT(B.a3j,B.a4M,B.aw,B.a_Y,B.a5M,0,6,B.AI,"tr",B.yV,B.y_,B.a0V,B.wT,B.a2f,B.vL,B.AI,B.yV,B.y_,B.wT,B.vL,B.z1,B.ag,B.z1,B.D,q),"uk",A.aT(B.a6G,B.a5e,B.a3V,B.a94,B.a2a,0,6,B.a2I,"uk",B.a6c,B.A4,B.xz,B.a3C,B.AT,B.l0,B.a0U,B.a46,B.A4,B.a6q,B.l0,B.zL,B.ag,B.zL,B.D,q),"ur",A.aT(B.as,B.a1F,B.aw,B.y3,B.y3,6,5,B.kr,"ur",B.X,B.aU,B.yG,B.kr,B.yG,B.kB,B.kr,B.X,B.aU,B.kr,B.kB,B.kB,B.b5,B.kB,B.D,q),"uz",A.aT(B.a5m,B.a5T,B.cY,B.a9L,B.a3D,0,6,B.a85,"uz",B.xK,B.z8,B.a33,B.aaJ,B.aaL,B.xA,B.a9W,B.xK,B.z8,B.a5Z,B.xA,B.B2,B.a78,B.B2,B.D,q),"vi",A.aT(B.a5d,B.a1b,B.a7J,B.a5F,B.a5a,0,6,B.a4v,"vi",B.bu,B.xT,B.aaX,B.a40,B.b0,B.wm,B.ab_,B.bu,B.xT,B.a3i,B.wm,B.w7,B.ag,B.w7,B.D,q),"zh",A.aT(B.oN,B.a_E,B.aw,B.kV,B.kV,6,5,B.Av,"zh",B.bu,B.fX,B.a74,B.cb,B.a0_,B.yf,B.Av,B.bu,B.fX,B.cb,B.yf,B.fS,B.a44,B.fS,B.D,q),"zh_HK",A.aT(B.oN,B.a4t,B.aw,B.kV,B.kV,6,5,B.cb,"zh_HK",B.bu,B.fX,B.ow,B.cb,B.b0,B.ky,B.cb,B.bu,B.fX,B.cb,B.ky,B.fS,B.aaV,B.fS,B.D,q),"zh_TW",A.aT(B.oN,B.a9y,B.aw,B.y8,B.y8,6,5,B.cb,"zh_TW",B.bu,B.fX,B.ow,B.cb,B.ow,B.ky,B.cb,B.bu,B.fX,B.cb,B.ky,B.fS,B.a62,B.fS,B.D,q),"zu",A.aT(B.as,B.eT,B.aw,B.bG,B.bG,6,5,B.vI,"zu",B.a4w,B.AS,B.a3f,B.vz,B.b0,B.zN,B.vI,B.X,B.AS,B.vz,B.zN,B.yr,B.ag,B.yr,B.D,q)],t.N,t.fs)})
+return A.y(["af",A.aT(B.a4q,B.a73,B.aw,B.An,B.a4V,6,5,B.AE,"af",B.X,B.xC,B.a4R,B.vT,B.eQ,B.Aj,B.AE,B.X,B.xC,B.vT,B.Aj,B.yj,B.ag,B.yj,B.D,q),"am",A.aT(B.a5_,B.a3u,B.aw,B.a_R,B.a7S,6,5,B.AA,"am",B.zG,B.vA,B.a1s,B.zZ,B.a3K,B.zK,B.AA,B.zG,B.vA,B.zZ,B.zK,B.vw,B.b5,B.vw,B.D,q),"ar",A.aT(B.a4E,B.a70,B.a57,B.a3S,B.a65,5,4,B.l5,"ar",B.zm,B.w0,B.vl,B.l5,B.vl,B.kG,B.l5,B.zm,B.w0,B.l5,B.kG,B.kG,B.b5,B.kG,B.vH,"\u0660"),"as",A.aT(B.a8o,B.a84,B.aw,B.a6L,B.a8b,6,5,B.wk,"as",B.vi,B.yw,B.ab9,B.z6,B.aaf,B.y1,B.wk,B.vi,B.yw,B.z6,B.y1,B.yS,B.a0s,B.yS,B.cZ,"\u09e6"),"az",A.aT(B.as,B.a8O,B.aw,B.aab,B.aaH,0,6,B.xm,"az",B.bu,B.zD,B.a6f,B.zV,B.a4s,B.a20,B.xm,B.bu,B.zD,B.zV,B.aaQ,B.zH,B.ag,B.zH,B.D,q),"be",A.aT(B.as,B.a7I,B.a3U,B.a3g,B.a3A,0,6,B.aaG,"be",B.AK,B.vS,B.a4A,B.a5I,B.a8S,B.ws,B.a68,B.AK,B.vS,B.a1e,B.ws,B.yB,B.a3W,B.yB,B.D,q),"bg",A.aT(B.a2b,B.aal,B.cY,B.aa3,B.a6G,0,3,B.wP,"bg",B.zA,B.kW,B.a8X,B.yW,B.a3F,B.l0,B.wP,B.zA,B.kW,B.yW,B.l0,B.yR,B.a01,B.yR,B.D,q),"bn",A.aT(B.as,B.kS,B.aw,B.a_y,B.a03,6,5,B.oJ,"bn",B.zC,B.wN,B.B1,B.a6T,B.B1,B.wC,B.oJ,B.zC,B.wN,B.oJ,B.wC,B.zB,B.b5,B.zB,B.D,"\u09e6"),"bs",A.aT(B.a9I,B.a71,B.x8,B.a1A,B.wh,0,6,B.Bc,"bs",B.ed,B.vg,B.aaY,B.zO,B.a3x,B.kp,B.Bc,B.ed,B.kz,B.zO,B.kp,B.kA,B.ag,B.kA,B.D,q),"ca",A.aT(B.ie,B.a2E,B.a9g,B.a8P,B.a6y,0,3,B.a1d,"ca",B.yN,B.wI,B.a8k,B.a_u,B.a7Q,B.x4,B.a8B,B.yN,B.wI,B.a2h,B.x4,B.zl,B.zq,B.zl,B.D,q),"cs",A.aT(B.a7T,B.a4N,B.aw,B.a3d,B.a8M,0,3,B.a9M,"cs",B.bu,B.Ae,B.a2U,B.AF,B.b0,B.vo,B.a1D,B.bu,B.Ae,B.AF,B.vo,B.zf,B.l4,B.zf,B.D,q),"cy",A.aT(B.ab0,B.a5j,B.a2P,B.a8A,B.a2c,0,3,B.xw,"cy",B.zz,B.A1,B.a7V,B.a0O,B.a2g,B.a6a,B.xw,B.zz,B.A1,B.a2S,B.a76,B.vJ,B.ag,B.vJ,B.D,q),"da",A.aT(B.as,B.a2n,B.a7J,B.fP,B.fP,0,3,B.vR,"da",B.X,B.ee,B.ic,B.yh,B.a6r,B.id,B.vR,B.X,B.ee,B.yh,B.a5E,B.fQ,B.oF,B.fQ,B.D,q),"de",A.aT(B.as,B.oz,B.yK,B.fU,B.fU,0,3,B.ks,"de",B.X,B.fT,B.oK,B.zR,B.b0,B.vt,B.ks,B.X,B.fT,B.ku,B.zr,B.l_,B.ag,B.l_,B.D,q),"de_CH",A.aT(B.as,B.oz,B.yK,B.fU,B.fU,0,3,B.ks,"de_CH",B.X,B.fT,B.oK,B.zR,B.b0,B.vt,B.ks,B.X,B.fT,B.ku,B.zr,B.l_,B.ag,B.l_,B.D,q),"el",A.aT(B.a6x,B.xF,B.a7N,B.a9G,B.a5C,0,3,B.a6s,"el",B.Bj,B.zb,B.a7X,B.a_Z,B.aat,B.w5,B.a9n,B.Bj,B.zb,B.a5Q,B.w5,B.vD,B.b5,B.vD,B.D,q),"en",A.aT(B.as,B.eT,B.dl,B.cp,B.bG,6,5,B.bb,"en",B.X,B.aU,B.d0,B.eP,B.b0,B.bd,B.bb,B.X,B.aU,B.eP,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_AU",A.aT(B.eR,B.l9,B.dl,B.cp,B.bG,0,6,B.bb,"en_AU",B.X,B.yH,B.d0,B.a3P,B.b0,B.bd,B.bb,B.X,B.yH,B.eP,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_CA",A.aT(B.eg,B.a4U,B.dl,B.cp,B.bG,6,5,B.bb,"en_CA",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_GB",A.aT(B.eR,B.xY,B.dl,B.cp,B.bG,0,3,B.bb,"en_GB",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.ag,B.bc,B.D,q),"en_IE",A.aT(B.eg,B.yP,B.dl,B.cp,B.bG,0,3,B.bb,"en_IE",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.ag,B.bc,B.D,q),"en_IN",A.aT(B.eR,B.a2j,B.dl,B.cp,B.bG,6,5,B.bb,"en_IN",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.cZ,q),"en_NZ",A.aT(B.eR,B.a4p,B.dl,B.cp,B.bG,0,6,B.bb,"en_NZ",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_SG",A.aT(B.eR,B.l9,B.dl,B.cp,B.bG,6,5,B.bb,"en_SG",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_US",A.aT(B.as,B.eT,B.dl,B.cp,B.bG,6,5,B.bb,"en_US",B.X,B.aU,B.d0,B.eP,B.b0,B.bd,B.bb,B.X,B.aU,B.eP,B.bd,B.bc,B.b5,B.bc,B.D,q),"en_ZA",A.aT(B.eR,B.a2X,B.dl,B.cp,B.bG,6,5,B.bb,"en_ZA",B.X,B.aU,B.d0,B.ca,B.b0,B.bd,B.bb,B.X,B.aU,B.ca,B.bd,B.bc,B.ag,B.bc,B.D,q),"es",A.aT(B.ie,B.yt,B.cY,B.l1,B.kM,0,3,B.el,"es",B.ef,B.A3,B.x_,B.ei,B.dm,B.ej,B.el,B.ef,B.A3,B.ei,B.ej,B.ek,B.zq,B.ek,B.D,q),"es_419",A.aT(B.ie,B.yt,B.z5,B.l1,B.kM,0,3,B.el,"es_419",B.ef,B.a2H,B.kx,B.ei,B.dm,B.ej,B.el,B.ef,B.d_,B.ei,B.ej,B.ek,B.ag,B.ek,B.D,q),"es_MX",A.aT(B.ie,B.a2B,B.z5,B.l1,B.kM,6,5,B.el,"es_MX",B.ef,B.d_,B.x_,B.ei,B.dm,B.ej,B.el,B.ef,B.d_,B.ei,B.ej,B.ek,B.ag,B.ek,B.D,q),"es_US",A.aT(B.ie,B.a7c,B.cY,B.l1,B.kM,6,5,B.el,"es_US",B.ef,B.d_,B.kx,B.ei,B.dm,B.ej,B.el,B.ef,B.d_,B.ei,B.ej,B.ek,B.b5,B.ek,B.D,q),"et",A.aT(B.as,B.a7g,B.aw,B.a6R,B.a7b,0,3,B.wx,"et",B.y4,B.l7,B.ic,B.Bl,B.eQ,B.l7,B.wx,B.y4,B.l7,B.Bl,B.l7,B.AV,B.ag,B.AV,B.D,q),"eu",A.aT(B.as,B.a_K,B.aw,B.a5h,B.a3n,0,3,B.a39,"eu",B.xS,B.Bg,B.a2s,B.wR,B.a3z,B.x7,B.a1Y,B.xS,B.Bg,B.wR,B.x7,B.ym,B.yd,B.ym,B.D,q),"fa",A.aT(B.a8d,B.a9w,B.a3b,B.a1u,B.a5D,5,4,B.a4B,"fa",B.yM,B.vf,B.a88,B.ov,B.aav,B.kO,B.ov,B.yM,B.vf,B.ov,B.kO,B.kO,B.Ao,B.kO,B.a0x,"\u06f0"),"fi",A.aT(B.a2o,B.aad,B.a9Q,B.aaS,B.a6W,0,3,B.a3h,"fi",B.vv,B.Ai,B.a4S,B.a8f,B.a5H,B.vC,B.a28,B.vv,B.Ai,B.a05,B.vC,B.a7d,B.a3_,B.a9b,B.D,q),"fil",A.aT(B.as,B.eT,B.wd,B.cp,B.bG,6,5,B.l8,"fil",B.fR,B.eh,B.wW,B.fR,B.b0,B.eh,B.l8,B.AM,B.eh,B.fR,B.eh,B.kF,B.b5,B.kF,B.D,q),"fr",A.aT(B.as,B.yP,B.ve,B.zo,B.xx,0,3,B.kt,"fr",B.X,B.d_,B.Aq,B.wV,B.dm,B.kU,B.kt,B.X,B.d_,B.wV,B.kU,B.kw,B.ag,B.kw,B.D,q),"fr_CA",A.aT(B.eg,B.zt,B.ve,B.zo,B.xx,6,5,B.kt,"fr_CA",B.X,B.d_,B.Aq,B.ww,B.dm,B.kU,B.kt,B.X,B.d_,B.ww,B.kU,B.kw,B.a0w,B.kw,B.D,q),"gl",A.aT(B.eg,B.a19,B.ab5,B.a4u,B.kC,0,3,B.a0t,"gl",B.a66,B.aaj,B.kx,B.a49,B.dm,B.a5U,B.a9T,B.a3e,B.a4I,B.a6V,B.a45,B.a4m,B.ag,B.a9J,B.D,q),"gsw",A.aT(B.a_F,B.oz,B.aw,B.fU,B.fU,0,3,B.zp,"gsw",B.X,B.fT,B.oK,B.ku,B.b0,B.vU,B.zp,B.X,B.fT,B.ku,B.vU,B.zS,B.ag,B.zS,B.D,q),"gu",A.aT(B.as,B.kS,B.a1f,B.a5l,B.a6l,6,5,B.wX,"gu",B.xc,B.Al,B.a3o,B.A7,B.b0,B.zF,B.wX,B.xc,B.Al,B.A7,B.zF,B.wr,B.yT,B.wr,B.cZ,q),"he",A.aT(B.a2t,B.a8D,B.a48,B.a2M,B.a4O,6,5,B.z9,"he",B.bu,B.wn,B.a18,B.xo,B.b0,B.zQ,B.z9,B.bu,B.wn,B.xo,B.zQ,B.yY,B.l4,B.yY,B.vH,q),"hi",A.aT(B.eR,B.l9,B.aa2,B.a9x,B.a0Y,6,5,B.w2,"hi",B.xZ,B.kN,B.a8C,B.AY,B.a8r,B.wz,B.w2,B.xZ,B.kN,B.AY,B.wz,B.x9,B.b5,B.x9,B.cZ,q),"hr",A.aT(B.as,B.a22,B.x8,B.a0z,B.a69,0,6,B.a97,"hr",B.vX,B.vg,B.ic,B.Ay,B.aan,B.kp,B.a8t,B.vX,B.kz,B.Ay,B.kp,B.kA,B.a6J,B.kA,B.D,q),"hu",A.aT(B.a3q,B.a58,B.aw,B.a9q,B.a3r,0,3,B.vq,"hu",B.yQ,B.vu,B.a06,B.xl,B.a0L,B.y6,B.vq,B.yQ,B.vu,B.xl,B.y6,B.B5,B.l4,B.B5,B.D,q),"hy",A.aT(B.as,B.a8x,B.cY,B.a4x,B.a4k,0,6,B.a2e,"hy",B.xN,B.wG,B.a1g,B.yg,B.a4K,B.yv,B.a85,B.xN,B.wG,B.yg,B.yv,B.wM,B.ag,B.wM,B.D,q),"id",A.aT(B.as,B.a9s,B.aw,B.aaE,B.a5g,6,5,B.zX,"id",B.X,B.x2,B.a5X,B.w4,B.eQ,B.B_,B.zX,B.X,B.x2,B.w4,B.B_,B.yy,B.oF,B.yy,B.D,q),"is",A.aT(B.a36,B.a8E,B.oA,B.a4W,B.fP,0,3,B.A_,"is",B.yc,B.zh,B.aaT,B.Bo,B.a2C,B.zs,B.A_,B.yc,B.zh,B.Bo,B.zs,B.xe,B.ag,B.xe,B.D,q),"it",A.aT(B.as,B.a4j,B.fW,B.a2k,B.kC,0,3,B.B6,"it",B.xg,B.Ad,B.B3,B.wi,B.dm,B.vW,B.B6,B.xg,B.Ad,B.wi,B.vW,B.yD,B.ag,B.yD,B.D,q),"ja",A.aT(B.a_H,B.a83,B.aw,B.xb,B.xb,6,5,B.cb,"ja",B.bu,B.kQ,B.a5R,B.cb,B.b0,B.kQ,B.cb,B.bu,B.kQ,B.cb,B.kQ,B.x0,B.a6K,B.x0,B.D,q),"ka",A.aT(B.as,B.a53,B.cY,B.a96,B.a81,0,6,B.we,"ka",B.z_,B.vE,B.a1z,B.xW,B.a2N,B.A6,B.we,B.z_,B.vE,B.xW,B.A6,B.Bf,B.ag,B.Bf,B.D,q),"kk",A.aT(B.as,B.aa0,B.cY,B.a1X,B.a04,0,6,B.a3O,"kk",B.Am,B.vd,B.a8W,B.vs,B.a7G,B.wK,B.a_Q,B.Am,B.vd,B.vs,B.wK,B.x5,B.ag,B.x5,B.D,q),"km",A.aT(B.as,B.xF,B.a1K,B.a1J,B.a5K,6,5,B.kv,"km",B.Bk,B.wE,B.vy,B.kv,B.vy,B.xi,B.kv,B.Bk,B.wE,B.kv,B.xi,B.a3a,B.b5,B.a8h,B.D,q),"kn",A.aT(B.a93,B.a9a,B.aw,B.aah,B.a3k,6,5,B.yF,"kn",B.w_,B.wb,B.a2O,B.a9e,B.a3c,B.zE,B.yF,B.w_,B.wb,B.a7H,B.zE,B.xB,B.yT,B.xB,B.cZ,q),"ko",A.aT(B.a1B,B.a9i,B.aw,B.a8w,B.bG,6,5,B.fV,"ko",B.fV,B.l2,B.a1_,B.fV,B.aaw,B.l2,B.fV,B.fV,B.l2,B.fV,B.l2,B.xL,B.a63,B.xL,B.D,q),"ky",A.aT(B.a6v,B.a7U,B.aw,B.a8n,B.a4_,0,6,B.x1,"ky",B.kJ,B.w1,B.a8y,B.a2A,B.a5w,B.B8,B.a9p,B.kJ,B.w1,B.a3E,B.B8,B.y9,B.ag,B.y9,B.D,q),"lo",A.aT(B.a3M,B.a23,B.cY,B.a80,B.a2z,6,5,B.vK,"lo",B.bu,B.wo,B.aay,B.vj,B.a56,B.x6,B.vK,B.bu,B.wo,B.vj,B.x6,B.vN,B.a8j,B.vN,B.D,q),"lt",A.aT(B.a3m,B.a_X,B.aw,B.a26,B.w9,0,3,B.a9K,"lt",B.AD,B.vO,B.a2F,B.zY,B.a7Y,B.Bm,B.a4H,B.AD,B.vO,B.zY,B.Bm,B.zu,B.ag,B.zu,B.D,q),"lv",A.aT(B.a1P,B.a3X,B.aw,B.a7L,B.a99,0,6,B.vG,"lv",B.X,B.y2,B.a29,B.Ab,B.aaz,B.a3Z,B.vG,B.X,B.y2,B.Ab,B.a2J,B.a8u,B.ag,B.a1Z,B.D,q),"mk",A.aT(B.a8Q,B.a98,B.a6b,B.a1V,B.a5k,0,6,B.yo,"mk",B.kK,B.kW,B.a7f,B.vF,B.aaB,B.x3,B.yo,B.kK,B.kW,B.vF,B.x3,B.ya,B.ag,B.ya,B.D,q),"ml",A.aT(B.as,B.a8Z,B.aw,B.a6N,B.a9C,6,5,B.AC,"ml",B.z3,B.a3J,B.A0,B.xQ,B.A0,B.xt,B.AC,B.z3,B.a2w,B.xQ,B.xt,B.a6D,B.b5,B.ab3,B.cZ,q),"mn",A.aT(B.a9d,B.a47,B.aw,B.a6B,B.a1h,6,5,B.a30,"mn",B.w8,B.kE,B.a31,B.wS,B.a24,B.kE,B.a91,B.w8,B.kE,B.wS,B.kE,B.aaZ,B.yd,B.a9F,B.D,q),"mr",A.aT(B.as,B.kS,B.a16,B.aas,B.a9r,6,5,B.B0,"mr",B.y7,B.kN,B.a7Z,B.zP,B.a_W,B.zn,B.B0,B.y7,B.kN,B.zP,B.zn,B.yi,B.b5,B.yi,B.cZ,"\u0966"),"ms",A.aT(B.a4G,B.a6h,B.fW,B.B9,B.B9,0,6,B.yE,"ms",B.wl,B.B4,B.a2T,B.wD,B.a5c,B.ze,B.yE,B.wl,B.B4,B.wD,B.ze,B.xd,B.b5,B.xd,B.D,q),"my",A.aT(B.a5o,B.a1Q,B.aw,B.a1j,B.a95,6,5,B.xf,"my",B.ys,B.xX,B.xV,B.w6,B.xV,B.kX,B.xf,B.ys,B.xX,B.w6,B.kX,B.kX,B.a0D,B.kX,B.D,"\u1040"),"nb",A.aT(B.eg,B.vn,B.oA,B.xM,B.fP,0,3,B.kH,"nb",B.X,B.ee,B.ic,B.AH,B.eQ,B.id,B.kH,B.X,B.ee,B.vM,B.id,B.fQ,B.ag,B.fQ,B.D,q),"ne",A.aT(B.aba,B.a0v,B.fW,B.yZ,B.yZ,6,5,B.l6,"ne",B.a5S,B.Ba,B.A2,B.l6,B.A2,B.vh,B.l6,B.a11,B.Ba,B.l6,B.vh,B.vB,B.ag,B.vB,B.D,"\u0966"),"nl",A.aT(B.eg,B.a4P,B.a2Q,B.An,B.a1G,0,3,B.AQ,"nl",B.X,B.yO,B.a3p,B.Bb,B.eQ,B.wJ,B.AQ,B.X,B.yO,B.Bb,B.wJ,B.yA,B.ag,B.yA,B.D,q),"no",A.aT(B.eg,B.vn,B.oA,B.xM,B.fP,0,3,B.kH,"no",B.X,B.ee,B.ic,B.AH,B.eQ,B.id,B.kH,B.X,B.ee,B.vM,B.id,B.fQ,B.ag,B.fQ,B.D,q),"or",A.aT(B.as,B.eT,B.aar,B.a77,B.bG,6,5,B.kT,"or",B.wZ,B.vY,B.xp,B.kT,B.xp,B.z7,B.kT,B.wZ,B.vY,B.kT,B.z7,B.Ap,B.b5,B.Ap,B.cZ,q),"pa",A.aT(B.a9o,B.l9,B.fW,B.a1r,B.a6F,6,5,B.yx,"pa",B.zM,B.xE,B.a4o,B.yz,B.aaq,B.xu,B.yx,B.zM,B.xE,B.yz,B.xu,B.vp,B.b5,B.vp,B.cZ,q),"pl",A.aT(B.as,B.a72,B.fW,B.a7F,B.a8_,0,3,B.a1E,"pl",B.a8v,B.aau,B.a8m,B.y0,B.a5P,B.Aa,B.a60,B.a2d,B.a4J,B.y0,B.Aa,B.wu,B.ag,B.wu,B.D,q),"ps",A.aT(B.a9A,B.a8V,B.aw,B.a6g,B.a5O,5,4,B.vP,"ps",B.a1C,B.aU,B.yX,B.vP,B.yX,B.ko,B.a59,B.bu,B.aU,B.a1v,B.ko,B.ko,B.Ao,B.ko,B.a02,"\u06f0"),"pt",A.aT(B.as,B.a0N,B.aw,B.AG,B.kC,6,5,B.kI,"pt",B.X,B.kL,B.B3,B.kZ,B.dm,B.Ag,B.kI,B.X,B.kL,B.kZ,B.Ag,B.l3,B.ag,B.l3,B.D,q),"pt_PT",A.aT(B.a1N,B.aaK,B.a6U,B.AG,B.kC,6,2,B.kI,"pt_PT",B.X,B.kL,B.kx,B.kZ,B.dm,B.yJ,B.kI,B.X,B.kL,B.kZ,B.yJ,B.l3,B.ag,B.l3,B.D,q),"ro",A.aT(B.eg,B.a5v,B.cY,B.a3B,B.a1O,0,6,B.zT,"ro",B.xH,B.d_,B.a8T,B.wc,B.a9U,B.xU,B.zT,B.xH,B.d_,B.wc,B.xU,B.yU,B.ag,B.yU,B.D,q),"ru",A.aT(B.as,B.a2V,B.cY,B.aaC,B.a_z,0,3,B.aaU,"ru",B.kJ,B.z2,B.xz,B.aap,B.AT,B.yC,B.x1,B.kJ,B.z2,B.aaM,B.yC,B.Ak,B.ag,B.Ak,B.D,q),"si",A.aT(B.aa9,B.a9S,B.aw,B.a_A,B.a9u,0,6,B.Bd,"si",B.xD,B.AN,B.a9_,B.ab1,B.a5x,B.wO,B.Bd,B.xD,B.AN,B.a8K,B.wO,B.yl,B.oF,B.yl,B.D,q),"sk",A.aT(B.as,B.a6w,B.a2u,B.a2y,B.a27,0,3,B.a9D,"sk",B.ed,B.wg,B.aak,B.Bh,B.b0,B.Ar,B.a2_,B.ed,B.wg,B.Bh,B.Ar,B.zd,B.l4,B.zd,B.D,q),"sl",A.aT(B.a5G,B.a0W,B.fW,B.a8e,B.w9,0,6,B.Bn,"sl",B.ed,B.Ah,B.a2D,B.wY,B.a43,B.A8,B.Bn,B.ed,B.Ah,B.wY,B.A8,B.yI,B.ag,B.yI,B.D,q),"sq",A.aT(B.a7D,B.a8c,B.a0R,B.a4F,B.a4c,0,6,B.AZ,"sq",B.zJ,B.vx,B.a4l,B.AP,B.a67,B.a6A,B.AZ,B.zJ,B.vx,B.AP,B.a7E,B.wQ,B.a0T,B.wQ,B.D,q),"sr",A.aT(B.as,B.wf,B.aw,B.ab6,B.a7M,0,6,B.zv,"sr",B.kK,B.Ax,B.a2r,B.As,B.a1q,B.AW,B.zv,B.kK,B.Ax,B.As,B.AW,B.zx,B.ag,B.zx,B.D,q),"sr_Latn",A.aT(B.as,B.wf,B.aw,B.a41,B.wh,0,6,B.wF,"sr_Latn",B.ed,B.kz,B.a8l,B.wa,B.a5u,B.vV,B.wF,B.ed,B.kz,B.wa,B.vV,B.yn,B.ag,B.yn,B.D,q),"sv",A.aT(B.a7O,B.zt,B.aw,B.a9E,B.fP,0,3,B.z0,"sv",B.X,B.ee,B.a2G,B.A9,B.eQ,B.xk,B.z0,B.X,B.ee,B.A9,B.xk,B.Bi,B.ag,B.Bi,B.D,q),"sw",A.aT(B.as,B.xY,B.aw,B.aa8,B.a3v,0,6,B.xv,"sw",B.X,B.aU,B.xJ,B.xG,B.xJ,B.kq,B.xv,B.X,B.aU,B.xG,B.kq,B.kq,B.ag,B.kq,B.D,q),"ta",A.aT(B.a5V,B.kS,B.a0n,B.a_O,B.a1I,6,5,B.xj,"ta",B.yk,B.vZ,B.a0Z,B.wA,B.a6m,B.zW,B.xj,B.yk,B.vZ,B.wA,B.zW,B.xI,B.a4D,B.xI,B.cZ,q),"te",A.aT(B.as,B.a_J,B.a00,B.a1S,B.a_N,6,5,B.zI,"te",B.ye,B.Aw,B.a3Q,B.AJ,B.a4r,B.xO,B.zI,B.ye,B.Aw,B.AJ,B.xO,B.y5,B.b5,B.y5,B.cZ,q),"th",A.aT(B.a1H,B.a3l,B.aw,B.a34,B.aac,6,5,B.wU,"th",B.kY,B.xR,B.wp,B.kY,B.wp,B.xP,B.wU,B.kY,B.xR,B.kY,B.xP,B.wy,B.a7B,B.wy,B.D,q),"tl",A.aT(B.as,B.eT,B.wd,B.cp,B.bG,6,5,B.l8,"tl",B.fR,B.eh,B.wW,B.fR,B.b0,B.eh,B.l8,B.AM,B.eh,B.fR,B.eh,B.kF,B.b5,B.kF,B.D,q),"tr",A.aT(B.a3j,B.a4M,B.aw,B.a_Y,B.a5M,0,6,B.AI,"tr",B.yV,B.y_,B.a0V,B.wT,B.a2f,B.vL,B.AI,B.yV,B.y_,B.wT,B.vL,B.z1,B.ag,B.z1,B.D,q),"uk",A.aT(B.a6H,B.a5e,B.a3V,B.a94,B.a2a,0,6,B.a2I,"uk",B.a6c,B.A4,B.xz,B.a3C,B.AT,B.l0,B.a0U,B.a46,B.A4,B.a6q,B.l0,B.zL,B.ag,B.zL,B.D,q),"ur",A.aT(B.as,B.a1F,B.aw,B.y3,B.y3,6,5,B.kr,"ur",B.X,B.aU,B.yG,B.kr,B.yG,B.kB,B.kr,B.X,B.aU,B.kr,B.kB,B.kB,B.b5,B.kB,B.D,q),"uz",A.aT(B.a5m,B.a5T,B.cY,B.a9L,B.a3D,0,6,B.a86,"uz",B.xK,B.z8,B.a33,B.aaJ,B.aaL,B.xA,B.a9W,B.xK,B.z8,B.a5Z,B.xA,B.B2,B.a79,B.B2,B.D,q),"vi",A.aT(B.a5d,B.a1b,B.a7K,B.a5F,B.a5a,0,6,B.a4v,"vi",B.bu,B.xT,B.aaX,B.a40,B.b0,B.wm,B.ab_,B.bu,B.xT,B.a3i,B.wm,B.w7,B.ag,B.w7,B.D,q),"zh",A.aT(B.oN,B.a_E,B.aw,B.kV,B.kV,6,5,B.Av,"zh",B.bu,B.fX,B.a75,B.cb,B.a0_,B.yf,B.Av,B.bu,B.fX,B.cb,B.yf,B.fS,B.a44,B.fS,B.D,q),"zh_HK",A.aT(B.oN,B.a4t,B.aw,B.kV,B.kV,6,5,B.cb,"zh_HK",B.bu,B.fX,B.ow,B.cb,B.b0,B.ky,B.cb,B.bu,B.fX,B.cb,B.ky,B.fS,B.aaV,B.fS,B.D,q),"zh_TW",A.aT(B.oN,B.a9y,B.aw,B.y8,B.y8,6,5,B.cb,"zh_TW",B.bu,B.fX,B.ow,B.cb,B.ow,B.ky,B.cb,B.bu,B.fX,B.cb,B.ky,B.fS,B.a62,B.fS,B.D,q),"zu",A.aT(B.as,B.eT,B.aw,B.bG,B.bG,6,5,B.vI,"zu",B.a4w,B.AS,B.a3f,B.vz,B.b0,B.zN,B.vI,B.X,B.AS,B.vz,B.zN,B.yr,B.ag,B.yr,B.D,q)],t.N,t.fs)})
 s($,"bzN","b0B",()=>A.aYu(B.wB,t.N))
 s($,"bzR","b0E",()=>A.aYu(B.wB,t.N))
 s($,"bA7","bd8",()=>{var q=t.K
@@ -124063,7 +124063,7 @@ s($,"bwX","b0g",()=>{var q,p=null
 A.b8v()
 q=A.a([],A.ai("u<kR>"))
 A.b8v()
-return new A.IY(q,B.a7n,p,p,p,B.cR,p,B.y)})
+return new A.IY(q,B.a7o,p,p,p,B.cR,p,B.y)})
 s($,"bw9","baE",()=>{var q=new A.LB(null,null)
 q.e=q
 q.d=q
