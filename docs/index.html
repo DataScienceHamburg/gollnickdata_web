@@ -1,43 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YHBZV3LS32"></script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11395924395"></script>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-5F85D3HX');</script>
-  <!-- End Google Tag Manager -->
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11395924395');
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YHBZV3LS32');
-</script>
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-
-  <!-- <base href="/"> -->
-
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Gollnick Data Solutions GmbH">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="AI, Deep Learning,Data Science, Training, Gollnick Data Solutions, Artificial Intelligence, Machine Learning, Business Analytics, Weiterbildung, Bildungsurlaub, AZAV, Python, Data Analysis, Germany">
+
+  <!-- Base href for asset resolution - Flutter build will override this if needed -->
+  <base href="/">
+
+  <!-- Resource hints for faster external resource loading -->
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://consent.cookiebot.com">
+  <link rel="preconnect" href="https://js.stripe.com">
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+  <link rel="dns-prefetch" href="https://consent.cookiebot.com">
+  <link rel="dns-prefetch" href="https://js.stripe.com">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -50,11 +29,10 @@
 
   <title>Gollnick Data Solutions GmbH | AI, Data Science & Training Services</title>
   <link rel="manifest" href="manifest.json">
-  <!-- <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="3d3853bd-c7f9-4d50-9a5b-58aef5ba193b" data-blockingmode="auto" type="text/javascript"></script> -->
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1310530570";
+    const serviceWorkerVersion = "292853443";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -68,19 +46,72 @@
 </head>
 <body>
   <script>
-    window.addEventListener('load', function(ev) {
-      // Download main.dart.js
-      _flutter.loader.loadEntrypoint({
-        serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
-        },
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
-            appRunner.runApp();
-          });
-        }
-      });
-    });
+    // Initialize Flutter immediately when DOM is ready, don't wait for all resources
+    (function() {
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initFlutter);
+      } else {
+        initFlutter();
+      }
+      
+      function initFlutter() {
+        // Download main.dart.js
+        _flutter.loader.loadEntrypoint({
+          serviceWorker: {
+            serviceWorkerVersion: serviceWorkerVersion,
+          },
+          onEntrypointLoaded: function(engineInitializer) {
+            engineInitializer.initializeEngine().then(function(appRunner) {
+              appRunner.runApp();
+              // Load analytics and other non-critical scripts after app starts
+              loadAnalytics();
+            });
+          }
+        });
+      }
+      
+      function loadAnalytics() {
+        // Load Google Analytics
+        var script1 = document.createElement('script');
+        script1.async = true;
+        script1.src = 'https://www.googletagmanager.com/gtag/js?id=G-YHBZV3LS32';
+        document.head.appendChild(script1);
+        
+        var script2 = document.createElement('script');
+        script2.async = true;
+        script2.src = 'https://www.googletagmanager.com/gtag/js?id=AW-11395924395';
+        document.head.appendChild(script2);
+        
+        // Google Tag Manager
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5F85D3HX');
+        
+        // Initialize gtag
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-11395924395');
+        gtag('config', 'G-YHBZV3LS32');
+        
+        // Load Stripe (deferred)
+        var stripeScript = document.createElement('script');
+        stripeScript.async = true;
+        stripeScript.src = 'https://js.stripe.com/v3/buy-button.js';
+        document.head.appendChild(stripeScript);
+        
+        // Load Cookiebot (deferred)
+        var cookiebotScript = document.createElement('script');
+        cookiebotScript.id = 'Cookiebot';
+        cookiebotScript.src = 'https://consent.cookiebot.com/uc.js';
+        cookiebotScript.setAttribute('data-cbid', '3d3853bd-c7f9-4d50-9a5b-58aef5ba193b');
+        cookiebotScript.setAttribute('data-blockingmode', 'auto');
+        cookiebotScript.type = 'text/javascript';
+        document.head.appendChild(cookiebotScript);
+      }
+    })();
   </script>
 </body>
 </html>
