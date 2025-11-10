@@ -32,10 +32,10 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2304002721";
+    const serviceWorkerVersion = "288607905";
   </script>
   <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer></script>
+  <script src="flutter.js" defer onload="window._flutterLoaderReady = true;"></script>
 
   <!-- Open Graph meta tags -->
   <meta property="og:title" content="Gollnick Data Solutions GmbH | AI, Data Science & Training">
@@ -46,27 +46,83 @@
 </head>
 <body>
   <script>
-    // Initialize Flutter immediately when DOM is ready, don't wait for all resources
+    // Initialize Flutter when loader is available
     (function() {
-      if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initFlutter);
-      } else {
-        initFlutter();
+      var maxRetries = 50; // 5 seconds max wait
+      var retryCount = 0;
+      
+      function waitForFlutterLoader() {
+        if (window._flutter && window._flutter.loader) {
+          var loader = window._flutter.loader;
+          // Check if either the new or old API is available
+          if (typeof loader.load === 'function' || typeof loader.loadEntrypoint === 'function') {
+            initFlutter();
+          } else if (retryCount < maxRetries) {
+            retryCount++;
+            setTimeout(waitForFlutterLoader, 100);
+          } else {
+            console.error('Flutter loader API not available after waiting');
+          }
+        } else if (retryCount < maxRetries) {
+          retryCount++;
+          setTimeout(waitForFlutterLoader, 100);
+        } else {
+          console.error('Flutter loader not available after waiting');
+        }
       }
       
       function initFlutter() {
-        // Download main.dart.js
-        _flutter.loader.load({
-          serviceWorker: {
-            serviceWorkerVersion: serviceWorkerVersion,
+        try {
+          var loader = window._flutter.loader;
+          var config = {
+            serviceWorker: {
+              serviceWorkerVersion: serviceWorkerVersion,
+            }
+          };
+          
+          // Try the new API first (Flutter 3.22+)
+          if (typeof loader.load === 'function') {
+            loader.load(config).then(function(engineInitializer) {
+              return engineInitializer.initializeEngine();
+            }).then(function(appRunner) {
+              appRunner.runApp();
+              loadAnalytics();
+            }).catch(function(error) {
+              console.error('Error with new Flutter loader API:', error);
+              // Fallback to old API if new one fails
+              tryOldAPI();
+            });
+          } 
+          // Fallback to old API (pre-3.22)
+          else if (typeof loader.loadEntrypoint === 'function') {
+            tryOldAPI();
+          } else {
+            console.error('No Flutter loader API found');
           }
-        }).then(function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
-            appRunner.runApp();
-            // Load analytics and other non-critical scripts after app starts
-            loadAnalytics();
+        } catch (error) {
+          console.error('Error initializing Flutter:', error);
+        }
+        
+        function tryOldAPI() {
+          window._flutter.loader.loadEntrypoint({
+            serviceWorker: {
+              serviceWorkerVersion: serviceWorkerVersion,
+            },
+            onEntrypointLoaded: function(engineInitializer) {
+              engineInitializer.initializeEngine().then(function(appRunner) {
+                appRunner.runApp();
+                loadAnalytics();
+              });
+            }
           });
-        });
+        }
+      }
+      
+      // Start waiting for Flutter loader once DOM is ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', waitForFlutterLoader);
+      } else {
+        waitForFlutterLoader();
       }
       
       function loadAnalytics() {
