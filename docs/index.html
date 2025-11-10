@@ -19,7 +19,7 @@
   <link rel="dns-prefetch" href="https://js.stripe.com">
 
   <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="Gollnick Data">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
@@ -32,10 +32,10 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "288607905";
+    const serviceWorkerVersion = "2779460553";
   </script>
   <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer onload="window._flutterLoaderReady = true;"></script>
+  <script src="flutter.js" defer></script>
 
   <!-- Open Graph meta tags -->
   <meta property="og:title" content="Gollnick Data Solutions GmbH | AI, Data Science & Training">
@@ -74,14 +74,20 @@
       function initFlutter() {
         try {
           var loader = window._flutter.loader;
-          var config = {
-            serviceWorker: {
+          // Only include serviceWorker config if serviceWorkerVersion is set
+          var config = {};
+          if (serviceWorkerVersion) {
+            config.serviceWorker = {
               serviceWorkerVersion: serviceWorkerVersion,
-            }
-          };
+            };
+          }
           
-          // Try the new API first (Flutter 3.22+)
-          if (typeof loader.load === 'function') {
+          // Check if new API is available AND buildConfig exists (required for new API)
+          var canUseNewAPI = typeof loader.load === 'function' && 
+                             window._flutter.buildConfig !== undefined;
+          
+          // Try the new API first (Flutter 3.22+) - only if buildConfig is available
+          if (canUseNewAPI) {
             loader.load(config).then(function(engineInitializer) {
               return engineInitializer.initializeEngine();
             }).then(function(appRunner) {
@@ -93,7 +99,7 @@
               tryOldAPI();
             });
           } 
-          // Fallback to old API (pre-3.22)
+          // Fallback to old API if buildConfig is not available or old API only
           else if (typeof loader.loadEntrypoint === 'function') {
             tryOldAPI();
           } else {
@@ -101,20 +107,28 @@
           }
         } catch (error) {
           console.error('Error initializing Flutter:', error);
+          // Try old API as last resort
+          if (window._flutter && window._flutter.loader && typeof window._flutter.loader.loadEntrypoint === 'function') {
+            tryOldAPI();
+          }
         }
         
         function tryOldAPI() {
-          window._flutter.loader.loadEntrypoint({
-            serviceWorker: {
-              serviceWorkerVersion: serviceWorkerVersion,
-            },
+          var oldConfig = {
             onEntrypointLoaded: function(engineInitializer) {
               engineInitializer.initializeEngine().then(function(appRunner) {
                 appRunner.runApp();
                 loadAnalytics();
               });
             }
-          });
+          };
+          // Only include serviceWorker config if serviceWorkerVersion is set
+          if (serviceWorkerVersion) {
+            oldConfig.serviceWorker = {
+              serviceWorkerVersion: serviceWorkerVersion,
+            };
+          }
+          window._flutter.loader.loadEntrypoint(oldConfig);
         }
       }
       
