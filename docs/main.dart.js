@@ -30605,10 +30605,10 @@ A.lr("carouselController",new A.aXq())
 s=d?B.A:B.y
 r=d?300:1/0
 q=t.s
-p=A.h4(A.a(["Teilnehmer: max 12","Ort: Online","Sprache: Deutsch","als Bildungsurlaub anerkannt"],q))
+p=A.h4(A.a(["Teilnehmer: max 16","Ort: Online","Sprache: Deutsch","als Bildungsurlaub anerkannt"],q))
 if(d)o=24
 else o=20
-o=A.p("Preis: 499",i,i,i,i,A.ai(i,i,B.i,i,i,i,i,i,i,i,i,o,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i)
+o=A.p("Preis: 799",i,i,i,i,A.ai(i,i,B.i,i,i,i,i,i,i,i,i,o,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i)
 n=A.d4(B.d5,B.i,i,d?24:16)
 m=A.M(a,B.l,t.A).gnM()
 if(d)l=16
@@ -110544,7 +110544,7 @@ $1(a){if(a.n(0,B.ak))return B.i
 return B.ah},
 $S:8}
 A.aXs.prototype={
-$0(){$.ly().hL("open",["https://drive.google.com/file/d/1zjYQJ63h-5r2H-EvOnDGBBSK2Ohg73FT/view?usp=sharing"])},
+$0(){$.ly().hL("open",["https://drive.google.com/file/d/1gk7ZMRmqJHs_ep5mmV21MjnJiUp6e1Fv/view?usp=sharing"])},
 $S:0}
 A.aXt.prototype={
 $0(){},
