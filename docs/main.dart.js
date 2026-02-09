@@ -30549,23 +30549,23 @@ return A.X($async$aiR,r)},
 bvy(a){var s=null
 return new A.f(B.aV,A.uR(B.i7,B.OG,new A.aYV(a),A.dM(s,s,s,new A.aB(B.i,t.De),s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aB(new A.bR(A.aS(0),B.D),t.R),s,s,s,s,s,s)),s)},
 aYV:function aYV(a){this.a=a},
-btN(a0){var s,r,q,p,o,n,m=null,l="de",k="Prompt Engineering",j="KI-Bildgeneratoren",i="Ethische Aspekte",h="Mo - Fr, 9:00 - 17:00",g=A.ap(a0,m,t.w).w.a.a>1200,f=A.i5(a0),e=A.bL(B.ahr,B.h,g?B.A:B.w,m,B.e,B.d,0,m,m,B.C),d=g?B.A:B.w,c=g?300:1/0,b=t.s,a=A.h4(A.a(["Teilnehmer: max 14","Ort: Online","Sprache: Deutsch","als Bildungsurlaub anerkannt"],b))
-if(g)s=24
+btN(a1){var s,r,q,p,o,n,m=null,l="de",k="Prompt Engineering",j="KI-Bildgeneratoren",i="Ethische Aspekte",h="Mo - Fr, 9:00 - 17:00",g="ausgebucht",f=A.ap(a1,m,t.w).w.a.a>1200,e=A.i5(a1),d=A.bL(B.ahr,B.h,f?B.A:B.w,m,B.e,B.d,0,m,m,B.C),c=f?B.A:B.w,b=f?300:1/0,a=t.s,a0=A.h4(A.a(["Teilnehmer: max 14","Ort: Online","Sprache: Deutsch","als Bildungsurlaub anerkannt"],a))
+if(f)s=24
 else s=20
 r=t.p
 s=A.z(A.a([A.p("Preis: 799",m,m,m,m,A.aj(m,m,B.i,m,m,m,m,m,m,m,m,s,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],r),B.u,B.e,B.d)
-q=A.d4(B.d5,B.i,m,g?24:16)
-p=A.M(a0,B.l,t.A).gnM()
-if(g)o=16
-else o=f?14:12
+q=A.d4(B.d5,B.i,m,f?24:16)
+p=A.M(a1,B.l,t.A).gnM()
+if(f)o=16
+else o=e?14:12
 o=A.an(A.a([s,q,A.p("  ("+p+")",m,m,m,m,A.aj(m,m,B.i,m,m,m,m,m,m,m,m,o,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],r),B.h,B.e,B.d,m)
 p=A.ik(!1,l,!0,!1,!1,!0,!1,!0)
-q=A.hs(!1,l,A.a(["KI-Grundlagen",k,"Effiziente Recherche","Deep Research",j,"Pr\xe4sentationen erstellen","Text-to-Speech","Videos erstellen","Workflows optimieren",i,"Zukunftstrends","Chancen und Risiken"],b),B.bR,!0)
+q=A.hs(!1,l,A.a(["KI-Grundlagen",k,"Effiziente Recherche","Deep Research",j,"Pr\xe4sentationen erstellen","Text-to-Speech","Videos erstellen","Workflows optimieren",i,"Zukunftstrends","Chancen und Risiken"],a),B.bR,!0)
 s=A.dM(m,m,m,new A.bI(new A.aXj(),t.mN),m,m,m,m,m,m,m,m,m,m,m,m,new A.aB(B.at,t.ox),m,new A.aB(new A.bR(A.aS(12),B.D),t.R),m,m,m,m,m,m)
 n=A.aS(12)
-s=A.z(A.a([a,o,B.ac,p,B.ac,q,B.cn,A.bX(B.a2,A.a([A.hd(!1,A.qS(A.ah(B.a6,A.z(A.a([B.iN,new A.f(B.fj,A.p(u.Z,m,m,m,m,A.aj(m,m,A.aF(B.f.am(178.5),B.j.v()>>>16&255,B.j.v()>>>8&255,B.j.v()&255),m,m,m,m,m,m,m,m,16,m,m,B.a8,m,m,!0,m,m,m,m,m,m,m,m),m,m),m)],r),B.h,B.e,B.d),B.o,m,B.fa,m,m,m,m,m,m,m,m,m),new A.aV(m,m,m,n,m,B.fk,B.I),m,m),m,m,m,m,m,m,new A.aXk(),m,s),A.cP(m,A.dh(m,m,B.h5,m,m,new A.aXl(),m,m,m),m,m,m,8,8,m)],r),B.F,B.a1)],r),B.u,B.e,B.d)
-a=g?800:1/0
-return A.z(A.a([new A.f(B.bp,e,m),A.bL(A.a([new A.f(B.d3,new A.R(c,m,s,m),m),new A.f(B.cL,new A.R(a,m,A.z(A.a([B.aTx,B.aT9,B.aTQ,B.aTe,B.aRS,B.Oz,B.aTH,B.kx,B.kp,B.kt,B.kv,B.kw,B.nO,B.ko,B.kr,B.ku,B.nN,B.kq,B.aSg,new A.f(B.E,A.iC(m,m,m,B.bo,m,m,!0,m,B.kQ,B.a_,m,m,B.L,B.X),m),B.iM,B.R,A.e1(a0,!1,"02.03.2026 - 06.03.2026",B.c3,g,"ausgebucht","https://buy.stripe.com/6oU9AS4esawKf9O4Yq5kk1i",h),B.R,A.e1(a0,!1,"08.06.2026 - 12.06.2026",B.c3,g,"noch 5 Pl\xe4tze frei","https://buy.stripe.com/8x24gy7qE0Wa9PucqS5kk17",h),B.R,A.e1(a0,!0,"31.08.2026 - 04.09.2026",B.av,g,"noch 10 Pl\xe4tze frei","https://buy.stripe.com/00w5kC4esdIW3r6ez05kk1j",h),B.R,B.Vf,A.dK(A.a([u.F,"Aktuelle Version von Microsoft Teams","Webcam und Mikrofon"],b),"Voraussetzungen"),A.bwG(a0),new A.fw(A.x(["KI-Grundlagen und Prompt Engineering",A.a(["KI-Grundbegriffe","Machine Learning vs. Deep Learning","Anwendungsfelder",i,k,"KI-Tools produktiv einsetzen"],b),"Texterzeugung, Recherche & Wissensmanagement",A.a(["Effiziente Recherche mit KI","Deep Research","Textzusammenfassung","Gliederungserstellung","Arbeit mit tabellarischen Daten"],b),"Multimedia - Bilder, Videos, Sprache",A.a([j,"Pr\xe4sentationserstellung","Text-to-Speech","KI in der Videobearbeitung"],b),"Teamarbeit, Organisation und Workflow-Optimierung",A.a(["Kollaborative KI-Tools","Automatisierung von Arbeitsabl\xe4ufen","Individuelle KI-Strategie","Sicherheit und Datenschutz"],b),"Projektarbeit und Zukunftsblick",A.a(["Integriertes Praxisprojekt","Feedback und Reflexion","Zukunftstrends in der KI","Pers\xf6nliche Entwicklung"],b)],t.N,t.yp),l,m),A.dK(A.a([u.k,"Umfangreiche digitale Kursmaterialien","Teilnahmezertifikat"],b),"Das ist inklusive"),A.Rf(a0),A.mI(a0,l),B.R,A.o0(a0,A.a(["generativeKI","aiEngineering"],b)),B.R],r),B.u,B.e,B.d),m),m)],r),B.u,d,m,B.e,B.d,0,m,m,B.C)],r),B.h,B.e,B.d)},
+s=A.z(A.a([a0,o,B.ac,p,B.ac,q,B.cn,A.bX(B.a2,A.a([A.hd(!1,A.qS(A.ah(B.a6,A.z(A.a([B.iN,new A.f(B.fj,A.p(u.Z,m,m,m,m,A.aj(m,m,A.aF(B.f.am(178.5),B.j.v()>>>16&255,B.j.v()>>>8&255,B.j.v()&255),m,m,m,m,m,m,m,m,16,m,m,B.a8,m,m,!0,m,m,m,m,m,m,m,m),m,m),m)],r),B.h,B.e,B.d),B.o,m,B.fa,m,m,m,m,m,m,m,m,m),new A.aV(m,m,m,n,m,B.fk,B.I),m,m),m,m,m,m,m,m,new A.aXk(),m,s),A.cP(m,A.dh(m,m,B.h5,m,m,new A.aXl(),m,m,m),m,m,m,8,8,m)],r),B.F,B.a1)],r),B.u,B.e,B.d)
+a0=f?800:1/0
+return A.z(A.a([new A.f(B.bp,d,m),A.bL(A.a([new A.f(B.d3,new A.R(b,m,s,m),m),new A.f(B.cL,new A.R(a0,m,A.z(A.a([B.aTx,B.aT9,B.aTQ,B.aTe,B.aRS,B.Oz,B.aTH,B.kx,B.kp,B.kt,B.kv,B.kw,B.nO,B.ko,B.kr,B.ku,B.nN,B.kq,B.aSg,new A.f(B.E,A.iC(m,m,m,B.bo,m,m,!0,m,B.kQ,B.a_,m,m,B.L,B.X),m),B.iM,B.R,A.e1(a1,!1,"02.03.2026 - 06.03.2026",B.c3,f,g,"https://buy.stripe.com/6oU9AS4esawKf9O4Yq5kk1i",h),B.R,A.e1(a1,!1,"08.06.2026 - 12.06.2026",B.c3,f,g,"https://buy.stripe.com/8x24gy7qE0Wa9PucqS5kk17",h),B.R,A.e1(a1,!0,"31.08.2026 - 04.09.2026",B.av,f,"noch 10 Pl\xe4tze frei","https://buy.stripe.com/00w5kC4esdIW3r6ez05kk1j",h),B.R,B.Vf,A.dK(A.a([u.F,"Aktuelle Version von Microsoft Teams","Webcam und Mikrofon"],a),"Voraussetzungen"),A.bwG(a1),new A.fw(A.x(["KI-Grundlagen und Prompt Engineering",A.a(["KI-Grundbegriffe","Machine Learning vs. Deep Learning","Anwendungsfelder",i,k,"KI-Tools produktiv einsetzen"],a),"Texterzeugung, Recherche & Wissensmanagement",A.a(["Effiziente Recherche mit KI","Deep Research","Textzusammenfassung","Gliederungserstellung","Arbeit mit tabellarischen Daten"],a),"Multimedia - Bilder, Videos, Sprache",A.a([j,"Pr\xe4sentationserstellung","Text-to-Speech","KI in der Videobearbeitung"],a),"Teamarbeit, Organisation und Workflow-Optimierung",A.a(["Kollaborative KI-Tools","Automatisierung von Arbeitsabl\xe4ufen","Individuelle KI-Strategie","Sicherheit und Datenschutz"],a),"Projektarbeit und Zukunftsblick",A.a(["Integriertes Praxisprojekt","Feedback und Reflexion","Zukunftstrends in der KI","Pers\xf6nliche Entwicklung"],a)],t.N,t.yp),l,m),A.dK(A.a([u.k,"Umfangreiche digitale Kursmaterialien","Teilnahmezertifikat"],a),"Das ist inklusive"),A.Rf(a1),A.mI(a1,l),B.R,A.o0(a1,A.a(["generativeKI","aiEngineering"],a)),B.R],r),B.u,B.e,B.d),m),m)],r),B.u,c,m,B.e,B.d,0,m,m,B.C)],r),B.h,B.e,B.d)},
 aXj:function aXj(){},
 aXk:function aXk(){},
 aXl:function aXl(){},
